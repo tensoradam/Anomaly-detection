@@ -1,0 +1,2001 @@
+Date,Sale_ID,Offer_ID,Offer_description,Product_ID,Product_category,Quantity_sold,Sales,Cost_Price,Profit,Customer_ID,Region,Day_of_the_week,Season
+11/24/2023,1001,5002,10% off,P095,Groceries,4,1154.56,774.08,380.48,C229,South,Saturday,Spring
+12/13/2023,1002,5002,10% off,P076,Furniture,1,428.95,368.68,60.27,C031,North,Tuesday,Summer
+09/16/2023,1003,5002,10% off,P072,Clothing,9,926.01,778.05,147.96,C430,South,Thursday,Autumn
+01/04/23,1004,5003,30% off,P044,Groceries,3,375.63,115.38,260.25,C221,East,Monday,Spring
+07/14/2023,1005,5001,Buy 1 Get 1,P045,Toys,5,1878.25,1522.75,355.5,C827,North,Saturday,Winter
+10/02/23,1006,5003,30% off,P011,Toys,5,585.55,100.45,485.1,C850,East,Friday,Summer
+12/27/2023,1007,5002,10% off,P085,Clothing,5,2199.6,2089.5,110.1,C082,South,Sunday,Spring
+07/14/2023,1008,5003,30% off,P082,Groceries,3,354.75,297.27,57.48,C380,East,Tuesday,Autumn
+12/26/2023,1009,5000,Free Shipping,P082,Clothing,9,1908.27,1431.72,476.55,C747,South,Tuesday,Winter
+07/14/2023,1010,5000,Free Shipping,P029,Groceries,1,251.48,221.65,29.83,C235,North,Sunday,Autumn
+07/25/2023,1011,5002,10% off,P028,Toys,6,1947.72,1858.86,88.86,C218,West,Thursday,Winter
+03/15/2023,1012,5005,20% off,P032,Toys,9,1713.78,1378.35,335.43,C270,West,Friday,Winter
+07/05/23,1013,5005,20% off,P066,Furniture,2,624.4,466.94,157.46,C774,North,Sunday,Spring
+03/20/2023,1014,5003,30% off,P077,Electronics,7,1118.25,754.88,363.37,C391,West,Friday,Autumn
+10/11/23,1015,5002,10% off,P088,Toys,5,1529.4,1501.4,28,C788,East,Monday,Autumn
+08/11/23,1016,5003,30% off,P001,Groceries,9,2930.22,2769.3,160.92,C781,South,Friday,Spring
+11/17/2023,1017,5000,Free Shipping,P078,Clothing,3,410.46,125.64,284.82,C383,South,Friday,Spring
+11/03/23,1018,5003,30% off,P003,Electronics,6,3385.14,2898.96,486.18,C900,East,Tuesday,Spring
+05/04/23,1019,5002,10% off,P011,Furniture,2,339.86,318.52,21.34,C779,South,Tuesday,Winter
+10/09/23,1020,5001,Buy 1 Get 1,P068,Toys,7,2728.95,2416.89,312.06,C988,South,Friday,Summer
+06/09/23,1021,5001,Buy 1 Get 1,P057,Toys,8,958.56,558.4,400.16,C124,South,Tuesday,Spring
+06/23/2023,1022,5000,Free Shipping,P071,Clothing,10,1178.7,268.5,910.2,C226,North,Monday,Spring
+04/28/2023,1023,5002,10% off,P043,Electronics,9,1830.51,1231.2,599.31,C244,East,Saturday,Winter
+04/20/2023,1024,5005,20% off,P093,Toys,10,2152.3,1627.4,524.9,C485,South,Sunday,Winter
+07/28/2023,1025,5002,10% off,P013,Furniture,6,1783.14,1667.34,115.8,C434,West,Thursday,Spring
+12/11/23,1026,5002,10% off,P052,Groceries,2,1125.68,970.2,155.48,C255,South,Tuesday,Winter
+03/13/2023,1027,5005,20% off,P036,Furniture,4,2239.76,1881.4,358.36,C896,North,Thursday,Spring
+01/26/2023,1028,5002,10% off,P012,Clothing,3,1185.72,908.91,276.81,C417,West,Thursday,Summer
+07/25/2023,1029,5005,20% off,P049,Electronics,7,516.32,373.52,142.8,C272,West,Wednesday,Winter
+12/23/2023,1030,5003,30% off,P020,Clothing,5,326.85,160.8,166.05,C223,North,Friday,Spring
+06/10/23,1031,5002,10% off,P075,Furniture,9,2054.79,1804.05,250.74,C942,South,Monday,Spring
+04/06/23,1032,5000,Free Shipping,P009,Clothing,7,3166.8,2912.56,254.24,C123,South,Friday,Spring
+11/14/2023,1033,5003,30% off,P085,Toys,10,2023.9,1476.6,547.3,C536,East,Wednesday,Summer
+12/09/23,1034,5005,20% off,P034,Furniture,3,478.41,237.15,241.26,C688,East,Thursday,Autumn
+02/07/23,1035,5003,30% off,P080,Toys,2,290.46,93.06,197.4,C076,South,Friday,Autumn
+03/09/23,1036,5002,10% off,P032,Groceries,5,2045.35,1942,103.35,C162,West,Sunday,Autumn
+11/10/23,1037,5002,10% off,P086,Toys,5,472.2,63.55,408.65,C955,North,Tuesday,Autumn
+03/01/23,1038,5000,Free Shipping,P020,Groceries,5,2147.65,1781.8,365.85,C620,South,Saturday,Autumn
+04/15/2023,1039,5000,Free Shipping,P063,Groceries,1,396.25,387.92,8.33,C095,West,Sunday,Autumn
+01/23/2023,1040,5001,Buy 1 Get 1,P099,Clothing,5,990.6,928.25,62.35,C166,West,Friday,Winter
+10/15/2023,1041,5002,10% off,P010,Clothing,9,4460.67,3896.28,564.39,C037,East,Friday,Summer
+08/09/23,1042,5002,10% off,P040,Groceries,1,179.43,172.14,7.29,C921,East,Tuesday,Summer
+12/08/23,1043,5001,Buy 1 Get 1,P100,Toys,7,1368.99,1136.66,232.33,C998,South,Tuesday,Summer
+04/01/23,1044,5002,10% off,P023,Groceries,7,3021.41,2572.57,448.84,C822,South,Wednesday,Summer
+12/26/2023,1045,5003,30% off,P005,Furniture,4,1969.92,1778.92,191,C205,West,Wednesday,Autumn
+04/27/2023,1046,5002,10% off,P085,Clothing,7,981.47,480.2,501.27,C337,East,Sunday,Spring
+05/23/2023,1047,5000,Free Shipping,P052,Toys,6,2636.1,2296.68,339.42,C962,North,Monday,Autumn
+04/02/23,1048,5001,Buy 1 Get 1,P005,Electronics,10,4376.6,3877.7,498.9,C445,East,Saturday,Autumn
+08/12/23,1049,5000,Free Shipping,P015,Furniture,10,3094.7,2661.4,433.3,C195,East,Monday,Winter
+01/01/23,1050,5000,Free Shipping,P088,Clothing,6,204.84,134.76,70.08,C442,North,Saturday,Autumn
+11/16/2023,1051,5002,10% off,P093,Groceries,9,804.6,228.6,576,C317,West,Wednesday,Winter
+12/23/2023,1052,5000,Free Shipping,P017,Clothing,7,1507.66,1148.21,359.45,C681,West,Saturday,Summer
+11/12/23,1053,5001,Buy 1 Get 1,P052,Toys,1,480.39,454.71,25.68,C312,East,Tuesday,Winter
+10/24/2023,1054,5001,Buy 1 Get 1,P060,Furniture,8,2295.12,1688.72,606.4,C692,South,Friday,Winter
+03/28/2023,1055,5001,Buy 1 Get 1,P066,Toys,6,784.38,732.66,51.72,C096,South,Saturday,Autumn
+04/26/2023,1056,5005,20% off,P004,Electronics,4,675.76,607.92,67.84,C487,North,Thursday,Winter
+11/19/2023,1057,5005,20% off,P092,Furniture,8,4372.4,3724.4,648,C410,South,Tuesday,Spring
+02/24/2023,1058,5005,20% off,P023,Toys,8,3261.12,2562.96,698.16,C052,South,Sunday,Spring
+08/22/2023,1059,5003,30% off,P086,Toys,9,3809.43,3634.2,175.23,C610,East,Sunday,Winter
+11/10/23,1060,5003,30% off,P071,Furniture,3,1505.22,1342.05,163.17,C762,West,Thursday,Autumn
+05/07/23,1061,5000,Free Shipping,P063,Clothing,5,2476.8,2028.25,448.55,C451,North,Saturday,Autumn
+05/01/23,1062,5001,Buy 1 Get 1,P041,Toys,2,355.44,331.64,23.8,C142,South,Tuesday,Winter
+12/22/2023,1063,5005,20% off,P009,Furniture,7,1154.79,851.83,302.96,C339,West,Thursday,Spring
+04/16/2023,1064,5003,30% off,P099,Toys,1,497.04,410.83,86.21,C878,West,Thursday,Spring
+06/30/2023,1065,5003,30% off,P054,Toys,9,584.73,120.69,464.04,C820,South,Thursday,Summer
+05/20/2023,1066,5003,30% off,P004,Furniture,6,1425.12,1287.18,137.94,C685,West,Saturday,Summer
+08/28/2023,1067,5000,Free Shipping,P069,Electronics,7,722.05,481.11,240.94,C607,North,Monday,Winter
+03/11/23,1068,5005,20% off,P007,Groceries,7,3535.21,3304.21,231,C336,South,Thursday,Autumn
+06/22/2023,1069,5001,Buy 1 Get 1,P097,Furniture,5,1674.05,1321.05,353,C855,North,Thursday,Spring
+10/04/23,1070,5001,Buy 1 Get 1,P029,Electronics,1,285.39,188.18,97.21,C773,North,Tuesday,Summer
+01/11/23,1071,5005,20% off,P031,Clothing,8,4060.24,3852.8,207.44,C686,North,Friday,Summer
+08/27/2023,1072,5001,Buy 1 Get 1,P022,Toys,10,2844.4,2536.5,307.9,C987,North,Sunday,Summer
+06/09/23,1073,5000,Free Shipping,P004,Groceries,10,1542.2,1495.7,46.5,C694,West,Thursday,Summer
+02/08/23,1074,5005,20% off,P014,Groceries,10,3594.6,3086.9,507.7,C825,North,Sunday,Spring
+06/27/2023,1075,5003,30% off,P085,Groceries,2,127.62,70.44,57.18,C519,East,Monday,Winter
+09/08/23,1076,5003,30% off,P047,Furniture,3,1439.31,1365.15,74.16,C446,South,Saturday,Autumn
+11/12/23,1077,5003,30% off,P060,Furniture,10,1304.6,810,494.6,C275,East,Sunday,Summer
+02/14/2023,1078,5003,30% off,P032,Furniture,10,5179.3,4929.7,249.6,C625,West,Wednesday,Spring
+09/11/23,1079,5005,20% off,P063,Clothing,6,2494.5,2036.1,458.4,C817,East,Wednesday,Autumn
+11/02/23,1080,5000,Free Shipping,P002,Toys,4,798.12,505.76,292.36,C088,South,Saturday,Winter
+09/08/23,1081,5005,20% off,P089,Furniture,8,2030.48,1521.68,508.8,C459,North,Monday,Autumn
+04/24/2023,1082,5005,20% off,P040,Toys,6,2246.82,1922.58,324.24,C485,East,Thursday,Autumn
+06/30/2023,1083,5001,Buy 1 Get 1,P040,Groceries,4,551.72,216.96,334.76,C124,South,Wednesday,Spring
+10/02/23,1084,5005,20% off,P028,Furniture,5,933.25,835.9,97.35,C742,East,Monday,Summer
+06/01/23,1085,5001,Buy 1 Get 1,P023,Groceries,1,89.48,29.98,59.5,C726,South,Wednesday,Spring
+01/28/2023,1086,5001,Buy 1 Get 1,P090,Clothing,8,2757.2,2736.08,21.12,C106,North,Friday,Autumn
+08/29/2023,1087,5003,30% off,P044,Clothing,1,284.35,260.93,23.42,C259,West,Monday,Spring
+07/25/2023,1088,5002,10% off,P074,Electronics,3,1033.17,978.39,54.78,C153,East,Monday,Summer
+03/02/23,1089,5003,30% off,P078,Toys,10,3878.5,3485.6,392.9,C232,West,Thursday,Winter
+06/02/23,1090,5003,30% off,P040,Toys,10,4836.1,4690,146.1,C062,North,Sunday,Summer
+11/17/2023,1091,5001,Buy 1 Get 1,P085,Electronics,3,568.05,531.36,36.69,C246,South,Friday,Spring
+03/22/2023,1092,5003,30% off,P058,Toys,8,4407.68,3704.8,702.88,C299,North,Tuesday,Autumn
+12/28/2023,1093,5003,30% off,P010,Clothing,5,1013.65,681.95,331.7,C807,South,Thursday,Spring
+10/06/23,1094,5005,20% off,P035,Clothing,2,932.8,820.88,111.92,C062,South,Sunday,Autumn
+11/01/23,1095,5001,Buy 1 Get 1,P057,Electronics,8,2355.76,2156.24,199.52,C706,East,Saturday,Winter
+05/20/2023,1096,5000,Free Shipping,P064,Furniture,2,290.88,111.24,179.64,C613,North,Thursday,Autumn
+11/06/23,1097,5002,10% off,P012,Clothing,10,5148.8,4512,636.8,C602,North,Sunday,Autumn
+10/23/2023,1098,5005,20% off,P061,Toys,8,1693.52,1408.96,284.56,C939,East,Tuesday,Winter
+11/22/2023,1099,5002,10% off,P061,Groceries,7,3188.71,2560.04,628.67,C342,East,Saturday,Spring
+03/24/2023,1100,5003,30% off,P089,Furniture,5,2614.4,2223.35,391.05,C679,West,Sunday,Spring
+08/21/2023,1101,5001,Buy 1 Get 1,P033,Groceries,2,667.86,649.2,18.66,C994,West,Sunday,Spring
+12/03/23,1102,5003,30% off,P053,Electronics,4,716.64,356.8,359.84,C531,East,Friday,Winter
+11/17/2023,1103,5002,10% off,P027,Groceries,9,2781.54,2764.35,17.19,C135,East,Thursday,Winter
+03/04/23,1104,5000,Free Shipping,P031,Clothing,5,632.05,298.6,333.45,C565,North,Friday,Winter
+02/17/2023,1105,5002,10% off,P060,Electronics,3,88.2,37.44,50.76,C511,East,Friday,Autumn
+08/01/23,1106,5003,30% off,P032,Furniture,9,3135.42,2509.92,625.5,C149,West,Tuesday,Summer
+02/05/23,1107,5003,30% off,P044,Toys,5,1763.3,1647.3,116,C841,North,Wednesday,Autumn
+10/28/2023,1108,5003,30% off,P020,Furniture,9,3451.14,3230.73,220.41,C496,East,Wednesday,Winter
+08/22/2023,1109,5005,20% off,P090,Clothing,10,2443.5,1694.5,749,C393,South,Sunday,Winter
+01/23/2023,1110,5003,30% off,P091,Furniture,7,2893.73,2298.24,595.49,C680,South,Thursday,Spring
+03/06/23,1111,5000,Free Shipping,P043,Electronics,8,3115.92,2657.84,458.08,C103,West,Monday,Summer
+07/29/2023,1112,5002,10% off,P061,Groceries,6,559.8,335.4,224.4,C639,West,Saturday,Spring
+06/18/2023,1113,5003,30% off,P041,Furniture,9,1485.9,1259.55,226.35,C037,North,Tuesday,Autumn
+04/27/2023,1114,5003,30% off,P013,Electronics,8,4213.6,3894.24,319.36,C171,East,Monday,Spring
+06/16/2023,1115,5001,Buy 1 Get 1,P046,Groceries,7,3574.06,3129.7,444.36,C150,South,Friday,Winter
+10/17/2023,1116,5005,20% off,P023,Electronics,10,4502.2,3994.6,507.6,C892,West,Friday,Summer
+09/12/23,1117,5005,20% off,P030,Furniture,5,1712.2,1463.4,248.8,C471,East,Saturday,Spring
+08/27/2023,1118,5000,Free Shipping,P021,Electronics,8,1425.52,845.36,580.16,C968,East,Friday,Autumn
+11/24/2023,1119,5001,Buy 1 Get 1,P059,Groceries,4,603.96,590.32,13.64,C394,West,Monday,Summer
+07/15/2023,1120,5001,Buy 1 Get 1,P074,Groceries,5,1724.05,1631.4,92.65,C023,West,Wednesday,Spring
+10/17/2023,1121,5000,Free Shipping,P096,Furniture,5,2831.3,2354.1,477.2,C795,South,Friday,Autumn
+04/23/2023,1122,5000,Free Shipping,P033,Clothing,2,991.86,916.56,75.3,C926,North,Wednesday,Winter
+01/18/2023,1123,5001,Buy 1 Get 1,P094,Clothing,2,220.94,35.14,185.8,C932,East,Wednesday,Winter
+03/31/2023,1124,5005,20% off,P070,Groceries,9,2848.59,1978.29,870.3,C514,East,Sunday,Summer
+05/12/23,1125,5001,Buy 1 Get 1,P096,Groceries,2,1135.24,964.34,170.9,C480,North,Tuesday,Summer
+12/13/2023,1126,5000,Free Shipping,P047,Electronics,7,1353.8,1079.96,273.84,C015,East,Friday,Spring
+08/21/2023,1127,5001,Buy 1 Get 1,P075,Furniture,6,2756.64,2562.36,194.28,C111,South,Thursday,Spring
+11/14/2023,1128,5001,Buy 1 Get 1,P079,Clothing,2,298.34,186.1,112.24,C651,West,Saturday,Autumn
+11/29/2023,1129,5002,10% off,P018,Electronics,1,538.63,468.72,69.91,C312,West,Monday,Spring
+05/01/23,1130,5005,20% off,P050,Furniture,6,1799.7,1735.98,63.72,C687,West,Friday,Summer
+08/01/23,1131,5003,30% off,P079,Furniture,5,2051.85,1556.75,495.1,C034,East,Tuesday,Winter
+08/16/2023,1132,5001,Buy 1 Get 1,P013,Groceries,9,1178.55,707.76,470.79,C924,East,Monday,Winter
+05/22/2023,1133,5002,10% off,P059,Electronics,4,2057,1759.64,297.36,C658,North,Monday,Autumn
+05/05/23,1134,5000,Free Shipping,P027,Electronics,9,3798.81,3163.86,634.95,C213,South,Sunday,Summer
+06/18/2023,1135,5000,Free Shipping,P001,Groceries,3,648.66,558.45,90.21,C134,East,Sunday,Summer
+02/26/2023,1136,5005,20% off,P002,Groceries,4,1951.16,1626.36,324.8,C603,East,Monday,Summer
+05/16/2023,1137,5005,20% off,P095,Furniture,9,4736.52,3913.83,822.69,C117,North,Thursday,Winter
+07/05/23,1138,5000,Free Shipping,P014,Furniture,9,2800.89,2345.04,455.85,C227,North,Saturday,Autumn
+08/23/2023,1139,5002,10% off,P062,Furniture,7,3265.57,2808.12,457.45,C703,North,Thursday,Winter
+02/07/23,1140,5001,Buy 1 Get 1,P078,Clothing,2,867.48,707.92,159.56,C130,East,Friday,Autumn
+07/15/2023,1141,5000,Free Shipping,P038,Furniture,9,4325.04,4014.9,310.14,C620,West,Monday,Spring
+12/02/23,1142,5005,20% off,P056,Furniture,4,817.36,776.16,41.2,C424,East,Sunday,Winter
+07/24/2023,1143,5002,10% off,P041,Furniture,6,1787.52,1760.16,27.36,C682,East,Wednesday,Summer
+12/18/2023,1144,5002,10% off,P012,Electronics,2,585.72,476.28,109.44,C443,North,Saturday,Autumn
+03/08/23,1145,5002,10% off,P076,Toys,9,1889.1,1353.69,535.41,C338,North,Thursday,Autumn
+12/07/23,1146,5002,10% off,P037,Toys,5,148.25,124.75,23.5,C361,North,Friday,Summer
+03/21/2023,1147,5005,20% off,P014,Groceries,9,4047.57,3717.63,329.94,C377,North,Sunday,Autumn
+10/21/2023,1148,5003,30% off,P072,Toys,10,1249.6,722.6,527,C692,North,Friday,Autumn
+01/15/2023,1149,5001,Buy 1 Get 1,P090,Groceries,6,2458.02,2323.8,134.22,C360,North,Tuesday,Summer
+10/17/2023,1150,5002,10% off,P019,Electronics,2,649.34,630.44,18.9,C765,South,Thursday,Winter
+08/21/2023,1151,5005,20% off,P048,Groceries,6,533.52,211.92,321.6,C796,North,Monday,Summer
+03/22/2023,1152,5002,10% off,P087,Electronics,5,1695.1,1374.55,320.55,C454,West,Thursday,Winter
+08/01/23,1153,5005,20% off,P097,Toys,2,926.78,731.56,195.22,C354,West,Monday,Autumn
+12/14/2023,1154,5003,30% off,P068,Groceries,1,295.96,262.99,32.97,C226,West,Friday,Spring
+01/04/23,1155,5001,Buy 1 Get 1,P028,Clothing,5,2137.25,1998.2,139.05,C297,East,Monday,Spring
+09/12/23,1156,5005,20% off,P017,Furniture,9,2104.83,2025.9,78.93,C721,South,Friday,Autumn
+02/06/23,1157,5002,10% off,P056,Electronics,8,949.76,179.36,770.4,C944,North,Sunday,Autumn
+10/22/2023,1158,5000,Free Shipping,P052,Furniture,5,2447.65,2098.15,349.5,C118,West,Monday,Autumn
+03/29/2023,1159,5003,30% off,P089,Groceries,2,457.1,420.78,36.32,C448,North,Tuesday,Winter
+10/29/2023,1160,5000,Free Shipping,P011,Furniture,5,562.1,433.25,128.85,C764,East,Tuesday,Autumn
+03/28/2023,1161,5000,Free Shipping,P082,Electronics,9,3157.74,2512.08,645.66,C523,South,Sunday,Autumn
+06/29/2023,1162,5005,20% off,P014,Clothing,5,1811.05,1667.5,143.55,C203,South,Friday,Summer
+12/02/23,1163,5005,20% off,P099,Furniture,8,4415.44,3823.04,592.4,C773,West,Saturday,Autumn
+11/18/2023,1164,5005,20% off,P057,Electronics,8,2745.52,2253.04,492.48,C453,East,Sunday,Autumn
+10/30/2023,1165,5001,Buy 1 Get 1,P065,Electronics,5,1205.65,1078,127.65,C473,West,Monday,Spring
+07/08/23,1166,5002,10% off,P083,Electronics,10,2604.6,1844.3,760.3,C609,West,Thursday,Spring
+08/19/2023,1167,5005,20% off,P042,Toys,8,236.32,136.4,99.92,C514,South,Monday,Winter
+02/22/2023,1168,5002,10% off,P065,Clothing,1,37.57,32.54,5.03,C254,West,Thursday,Summer
+07/06/23,1169,5001,Buy 1 Get 1,P050,Furniture,6,2999.04,2575.08,423.96,C696,North,Sunday,Autumn
+02/03/23,1170,5002,10% off,P072,Furniture,5,1265.2,1211.75,53.45,C259,South,Wednesday,Spring
+10/26/2023,1171,5001,Buy 1 Get 1,P040,Furniture,3,896.28,752.67,143.61,C610,North,Wednesday,Winter
+11/26/2023,1172,5005,20% off,P086,Toys,2,277.64,189.74,87.9,C662,West,Friday,Autumn
+01/10/23,1173,5001,Buy 1 Get 1,P024,Clothing,6,1603.44,1231.62,371.82,C971,West,Tuesday,Summer
+03/12/23,1174,5002,10% off,P038,Electronics,9,2940.21,2890.8,49.41,C790,North,Saturday,Autumn
+11/13/2023,1175,5000,Free Shipping,P049,Clothing,3,769.56,580.68,188.88,C186,South,Saturday,Winter
+01/23/2023,1176,5001,Buy 1 Get 1,P087,Clothing,8,2738.64,2052.32,686.32,C626,East,Sunday,Winter
+04/30/2023,1177,5005,20% off,P040,Furniture,4,1399.56,1331.04,68.52,C377,West,Thursday,Autumn
+07/15/2023,1178,5000,Free Shipping,P054,Clothing,4,436.72,178.32,258.4,C821,South,Sunday,Autumn
+01/27/2023,1179,5001,Buy 1 Get 1,P071,Electronics,9,737.82,206.91,530.91,C872,North,Wednesday,Spring
+03/24/2023,1180,5003,30% off,P066,Clothing,7,3700.76,3294.97,405.79,C094,South,Sunday,Winter
+06/28/2023,1181,5003,30% off,P007,Furniture,9,2384.01,1801.8,582.21,C383,South,Thursday,Spring
+07/11/23,1182,5002,10% off,P041,Electronics,6,1737.36,1407.24,330.12,C811,South,Tuesday,Spring
+05/27/2023,1183,5005,20% off,P098,Furniture,8,4084.32,3770.56,313.76,C631,North,Monday,Spring
+05/12/23,1184,5005,20% off,P071,Toys,9,5144.49,4328.82,815.67,C434,North,Sunday,Autumn
+05/02/23,1185,5002,10% off,P007,Clothing,7,796.67,741.58,55.09,C655,West,Monday,Spring
+09/13/2023,1186,5000,Free Shipping,P003,Toys,10,621.8,593.8,28,C248,South,Wednesday,Winter
+01/01/23,1187,5001,Buy 1 Get 1,P031,Toys,7,874.3,393.96,480.34,C192,North,Friday,Autumn
+02/04/23,1188,5000,Free Shipping,P065,Toys,9,697.14,403.92,293.22,C021,West,Sunday,Winter
+01/23/2023,1189,5001,Buy 1 Get 1,P033,Electronics,6,2563.74,2543.94,19.8,C808,North,Wednesday,Summer
+12/03/23,1190,5000,Free Shipping,P095,Groceries,3,1313.97,1227.27,86.7,C046,East,Friday,Autumn
+11/26/2023,1191,5003,30% off,P090,Furniture,3,413.64,203.7,209.94,C831,South,Monday,Winter
+01/19/2023,1192,5005,20% off,P006,Clothing,1,406.05,318.18,87.87,C324,East,Friday,Winter
+10/06/23,1193,5001,Buy 1 Get 1,P005,Clothing,5,2253.6,1850.9,402.7,C366,North,Sunday,Autumn
+05/20/2023,1194,5001,Buy 1 Get 1,P056,Furniture,8,1334.16,1185.6,148.56,C917,West,Wednesday,Summer
+09/12/23,1195,5001,Buy 1 Get 1,P067,Groceries,2,917.36,755.6,161.76,C745,West,Monday,Winter
+11/05/23,1196,5000,Free Shipping,P038,Groceries,2,1074.4,990.7,83.7,C082,East,Saturday,Autumn
+06/06/23,1197,5000,Free Shipping,P092,Furniture,3,810.45,576.87,233.58,C707,West,Wednesday,Winter
+01/22/2023,1198,5000,Free Shipping,P056,Groceries,1,270.13,176.99,93.14,C077,West,Wednesday,Summer
+01/16/2023,1199,5000,Free Shipping,P087,Furniture,1,474.09,430.62,43.47,C130,North,Tuesday,Autumn
+07/05/23,1200,5000,Free Shipping,P005,Toys,3,1360.89,1133.79,227.1,C696,West,Wednesday,Autumn
+08/16/2023,1201,5000,Free Shipping,P018,Toys,6,905.28,363.18,542.1,C408,East,Saturday,Autumn
+05/08/23,1202,5002,10% off,P095,Clothing,8,2723.12,2060.56,662.56,C531,West,Friday,Spring
+05/15/2023,1203,5003,30% off,P028,Toys,5,1282.4,834.1,448.3,C711,West,Tuesday,Spring
+03/11/23,1204,5003,30% off,P023,Furniture,2,405.56,401.42,4.14,C830,East,Saturday,Autumn
+12/30/2023,1205,5000,Free Shipping,P070,Groceries,5,2318.4,2268.2,50.2,C872,South,Saturday,Summer
+07/05/23,1206,5005,20% off,P016,Clothing,3,784.56,499.38,285.18,C243,West,Monday,Autumn
+10/11/23,1207,5001,Buy 1 Get 1,P060,Toys,3,1600.71,1427.4,173.31,C627,North,Monday,Autumn
+07/23/2023,1208,5000,Free Shipping,P053,Furniture,10,3650,3196,454,C076,South,Wednesday,Spring
+08/19/2023,1209,5000,Free Shipping,P045,Clothing,9,1684.89,1383.03,301.86,C656,South,Sunday,Summer
+08/10/23,1210,5002,10% off,P016,Toys,3,1245.06,1018.59,226.47,C312,South,Tuesday,Autumn
+12/30/2023,1211,5001,Buy 1 Get 1,P067,Groceries,2,954.08,795.74,158.34,C257,South,Saturday,Autumn
+03/06/23,1212,5000,Free Shipping,P069,Electronics,9,941.76,492.21,449.55,C657,South,Friday,Summer
+03/29/2023,1213,5000,Free Shipping,P044,Toys,1,93.6,38.2,55.4,C846,North,Monday,Spring
+11/25/2023,1214,5001,Buy 1 Get 1,P084,Clothing,10,3152.3,2263.5,888.8,C427,North,Thursday,Autumn
+11/25/2023,1215,5003,30% off,P032,Furniture,5,972.7,909.75,62.95,C465,North,Saturday,Spring
+03/22/2023,1216,5003,30% off,P062,Furniture,4,625.84,320.28,305.56,C349,South,Wednesday,Autumn
+06/26/2023,1217,5005,20% off,P098,Groceries,9,2915.46,2816.37,99.09,C576,North,Wednesday,Summer
+08/27/2023,1218,5001,Buy 1 Get 1,P058,Clothing,3,364.83,153.63,211.2,C100,North,Wednesday,Winter
+11/12/23,1219,5005,20% off,P021,Groceries,10,1280.1,456.5,823.6,C739,East,Tuesday,Summer
+09/13/2023,1220,5003,30% off,P064,Groceries,8,2920.88,2848.48,72.4,C024,North,Thursday,Winter
+05/04/23,1221,5000,Free Shipping,P046,Electronics,1,150.25,51.57,98.68,C289,West,Friday,Winter
+05/27/2023,1222,5002,10% off,P014,Furniture,3,693.24,580.17,113.07,C904,East,Saturday,Autumn
+07/26/2023,1223,5002,10% off,P052,Electronics,10,5030.5,4082.7,947.8,C576,South,Wednesday,Autumn
+02/07/23,1224,5000,Free Shipping,P058,Toys,5,2843.6,2465.7,377.9,C846,North,Tuesday,Spring
+07/21/2023,1225,5001,Buy 1 Get 1,P072,Groceries,3,610.92,583.11,27.81,C204,West,Friday,Spring
+01/24/2023,1226,5005,20% off,P092,Groceries,8,3576.64,3126.4,450.24,C532,West,Tuesday,Summer
+06/17/2023,1227,5001,Buy 1 Get 1,P021,Furniture,10,3086,2178.7,907.3,C758,East,Friday,Autumn
+09/17/2023,1228,5000,Free Shipping,P063,Toys,5,571.3,322.45,248.85,C487,North,Wednesday,Autumn
+12/11/23,1229,5003,30% off,P075,Groceries,1,62.96,15.56,47.4,C612,West,Wednesday,Summer
+01/27/2023,1230,5003,30% off,P022,Toys,10,503.5,375.9,127.6,C794,West,Tuesday,Summer
+01/17/2023,1231,5002,10% off,P025,Electronics,8,1062.88,540.72,522.16,C322,West,Tuesday,Winter
+12/20/2023,1232,5003,30% off,P065,Toys,8,3474.48,3004.48,470,C894,North,Saturday,Summer
+09/23/2023,1233,5000,Free Shipping,P042,Furniture,9,4676.13,4333.14,342.99,C386,East,Tuesday,Winter
+09/30/2023,1234,5000,Free Shipping,P046,Groceries,10,2369.9,1500,869.9,C496,South,Tuesday,Autumn
+10/13/2023,1235,5005,20% off,P039,Groceries,4,863.68,478.24,385.44,C707,West,Wednesday,Winter
+06/28/2023,1236,5001,Buy 1 Get 1,P037,Electronics,10,1129.8,159.6,970.2,C693,West,Thursday,Autumn
+03/16/2023,1237,5002,10% off,P037,Electronics,6,722.22,186.9,535.32,C947,West,Saturday,Autumn
+09/03/23,1238,5005,20% off,P069,Groceries,9,3310.83,2417.13,893.7,C713,East,Tuesday,Spring
+11/12/23,1239,5005,20% off,P032,Electronics,9,917.91,415.44,502.47,C232,South,Monday,Spring
+07/31/2023,1240,5003,30% off,P013,Clothing,1,537.75,484.96,52.79,C988,South,Thursday,Winter
+09/02/23,1241,5001,Buy 1 Get 1,P042,Groceries,1,388.29,318.41,69.88,C930,North,Saturday,Summer
+10/01/23,1242,5005,20% off,P054,Clothing,1,295.86,232.73,63.13,C857,West,Sunday,Winter
+04/06/23,1243,5002,10% off,P002,Groceries,10,3865.2,2963.1,902.1,C618,North,Wednesday,Autumn
+08/21/2023,1244,5000,Free Shipping,P064,Clothing,9,549.81,290.43,259.38,C480,East,Tuesday,Spring
+06/19/2023,1245,5003,30% off,P083,Groceries,3,1694.52,1427.1,267.42,C015,East,Sunday,Autumn
+10/18/2023,1246,5005,20% off,P079,Furniture,7,2069.62,1632.89,436.73,C528,East,Monday,Winter
+12/09/23,1247,5005,20% off,P018,Furniture,6,993.24,875.52,117.72,C959,South,Monday,Autumn
+07/16/2023,1248,5003,30% off,P097,Groceries,6,1639.14,1423.26,215.88,C310,North,Wednesday,Autumn
+12/21/2023,1249,5002,10% off,P086,Electronics,8,2437.52,2367.92,69.6,C315,South,Thursday,Autumn
+12/20/2023,1250,5001,Buy 1 Get 1,P048,Toys,4,2344.32,1949.8,394.52,C225,South,Thursday,Summer
+08/21/2023,1251,5001,Buy 1 Get 1,P054,Toys,8,3249.36,2816.8,432.56,C776,South,Sunday,Summer
+12/15/2023,1252,5002,10% off,P068,Furniture,9,2189.16,1455.03,734.13,C721,East,Monday,Spring
+02/01/23,1253,5000,Free Shipping,P026,Toys,9,3263.58,3109.68,153.9,C154,South,Wednesday,Winter
+03/01/23,1254,5000,Free Shipping,P063,Electronics,9,4849.02,4107.15,741.87,C457,North,Thursday,Summer
+09/20/2023,1255,5003,30% off,P073,Electronics,9,4934.25,4278.6,655.65,C474,East,Saturday,Spring
+07/22/2023,1256,5002,10% off,P096,Clothing,10,3529.8,3105.7,424.1,C075,North,Thursday,Autumn
+12/25/2023,1257,5000,Free Shipping,P008,Electronics,8,4430.24,3736.32,693.92,C033,East,Thursday,Summer
+03/11/23,1258,5001,Buy 1 Get 1,P049,Furniture,7,250.39,225.12,25.27,C385,North,Saturday,Summer
+12/01/23,1259,5002,10% off,P023,Toys,7,1929.97,1361.29,568.68,C542,South,Saturday,Summer
+01/02/23,1260,5001,Buy 1 Get 1,P060,Toys,7,3567.62,3456.39,111.23,C545,West,Sunday,Summer
+05/07/23,1261,5001,Buy 1 Get 1,P020,Groceries,4,1359.32,1204.48,154.84,C960,North,Monday,Winter
+11/11/23,1262,5005,20% off,P027,Electronics,2,1139.26,970.52,168.74,C609,North,Thursday,Spring
+05/06/23,1263,5003,30% off,P057,Clothing,9,4213.62,3787.02,426.6,C223,North,Tuesday,Autumn
+04/30/2023,1264,5001,Buy 1 Get 1,P074,Toys,6,1447.98,1279.56,168.42,C243,East,Tuesday,Summer
+07/31/2023,1265,5001,Buy 1 Get 1,P008,Toys,10,1242.3,376.2,866.1,C901,South,Saturday,Winter
+10/12/23,1266,5002,10% off,P045,Furniture,9,4574.61,3674.88,899.73,C327,West,Thursday,Summer
+06/03/23,1267,5005,20% off,P097,Toys,8,4434.72,3986.8,447.92,C247,South,Wednesday,Summer
+08/26/2023,1268,5000,Free Shipping,P053,Furniture,9,4331.97,3481.2,850.77,C543,South,Thursday,Summer
+05/11/23,1269,5001,Buy 1 Get 1,P083,Electronics,8,3614.56,3410.64,203.92,C868,East,Monday,Summer
+01/27/2023,1270,5003,30% off,P087,Toys,10,2445.6,2307.7,137.9,C041,North,Tuesday,Summer
+09/03/23,1271,5001,Buy 1 Get 1,P039,Electronics,4,2154,1909.96,244.04,C960,South,Saturday,Spring
+09/03/23,1272,5000,Free Shipping,P091,Clothing,7,1326.71,854.21,472.5,C938,South,Friday,Autumn
+05/25/2023,1273,5003,30% off,P069,Groceries,5,1746.7,1564.4,182.3,C268,East,Friday,Winter
+08/27/2023,1274,5003,30% off,P098,Groceries,4,532.52,262.56,269.96,C380,East,Thursday,Spring
+10/16/2023,1275,5005,20% off,P003,Groceries,9,3081.69,2384.55,697.14,C958,West,Wednesday,Summer
+04/11/23,1276,5005,20% off,P049,Toys,4,1401,1059.52,341.48,C512,East,Wednesday,Winter
+11/25/2023,1277,5003,30% off,P022,Groceries,3,1010.88,841.29,169.59,C144,West,Tuesday,Spring
+09/26/2023,1278,5002,10% off,P086,Electronics,1,480.5,439.56,40.94,C423,South,Sunday,Summer
+02/04/23,1279,5002,10% off,P028,Toys,8,636.16,605.36,30.8,C383,North,Friday,Winter
+12/04/23,1280,5002,10% off,P001,Toys,9,3981.87,3420.18,561.69,C422,North,Monday,Autumn
+10/02/23,1281,5002,10% off,P065,Furniture,3,1131.24,1065,66.24,C110,North,Friday,Summer
+05/04/23,1282,5000,Free Shipping,P068,Groceries,6,475.56,460.92,14.64,C274,West,Monday,Autumn
+07/27/2023,1283,5000,Free Shipping,P032,Clothing,5,1205.95,908.95,297,C701,North,Saturday,Spring
+02/17/2023,1284,5003,30% off,P049,Toys,8,1972.08,1617.6,354.48,C058,North,Saturday,Summer
+02/12/23,1285,5003,30% off,P083,Groceries,10,4885.2,4530.4,354.8,C879,North,Friday,Spring
+04/28/2023,1286,5000,Free Shipping,P061,Groceries,1,340.43,261.85,78.58,C947,North,Saturday,Autumn
+10/06/23,1287,5002,10% off,P023,Groceries,1,266.9,204.31,62.59,C985,South,Friday,Summer
+12/31/2023,1288,5002,10% off,P039,Clothing,10,5275.6,4325.6,950,C247,West,Saturday,Autumn
+07/16/2023,1289,5002,10% off,P065,Groceries,1,174.8,82.07,92.73,C101,West,Tuesday,Spring
+06/24/2023,1290,5000,Free Shipping,P077,Furniture,6,1666.26,1506.84,159.42,C031,East,Sunday,Winter
+09/09/23,1291,5001,Buy 1 Get 1,P071,Furniture,7,2331,1644.86,686.14,C191,West,Monday,Autumn
+05/07/23,1292,5002,10% off,P035,Clothing,7,1994.51,1759.66,234.85,C729,South,Saturday,Winter
+06/12/23,1293,5002,10% off,P012,Electronics,5,1725.7,1601.85,123.85,C456,East,Sunday,Autumn
+02/22/2023,1294,5002,10% off,P024,Furniture,8,487.44,377.36,110.08,C571,West,Monday,Spring
+02/15/2023,1295,5000,Free Shipping,P012,Toys,10,887.8,727.4,160.4,C804,East,Sunday,Winter
+01/07/23,1296,5003,30% off,P050,Electronics,9,1282.32,702.27,580.05,C927,South,Friday,Summer
+12/17/2023,1297,5005,20% off,P018,Groceries,5,671.7,495.6,176.1,C275,West,Tuesday,Spring
+03/27/2023,1298,5001,Buy 1 Get 1,P054,Groceries,8,3978.8,3595.44,383.36,C802,North,Wednesday,Autumn
+05/07/23,1299,5000,Free Shipping,P079,Clothing,8,2841.28,2696.8,144.48,C110,South,Wednesday,Spring
+07/22/2023,1300,5000,Free Shipping,P049,Groceries,8,874.16,833.76,40.4,C343,West,Sunday,Summer
+06/03/23,1301,5000,Free Shipping,P089,Clothing,8,970.88,742.24,228.64,C322,South,Thursday,Autumn
+05/30/2023,1302,5000,Free Shipping,P032,Groceries,7,745.64,677.18,68.46,C288,West,Wednesday,Spring
+10/16/2023,1303,5000,Free Shipping,P070,Clothing,9,1041.57,621.99,419.58,C028,West,Saturday,Summer
+08/13/2023,1304,5002,10% off,P053,Furniture,3,444.48,333.3,111.18,C649,East,Tuesday,Autumn
+12/04/23,1305,5003,30% off,P049,Electronics,8,2608.16,2053.36,554.8,C613,West,Friday,Winter
+10/01/23,1306,5003,30% off,P070,Electronics,6,656.4,175.56,480.84,C719,North,Monday,Summer
+12/03/23,1307,5005,20% off,P083,Toys,1,326.76,317.67,9.09,C577,West,Sunday,Autumn
+08/09/23,1308,5002,10% off,P013,Groceries,4,2120.88,1752.2,368.68,C523,South,Thursday,Autumn
+07/20/2023,1309,5000,Free Shipping,P089,Toys,3,205.02,119.79,85.23,C354,North,Thursday,Spring
+06/01/23,1310,5002,10% off,P015,Clothing,6,2880.72,2430.24,450.48,C320,East,Thursday,Summer
+09/24/2023,1311,5001,Buy 1 Get 1,P061,Electronics,8,977.2,803.36,173.84,C740,West,Wednesday,Spring
+06/03/23,1312,5002,10% off,P003,Groceries,2,481,383.06,97.94,C694,South,Saturday,Summer
+09/22/2023,1313,5000,Free Shipping,P021,Groceries,9,3154.14,2816.46,337.68,C437,West,Tuesday,Winter
+11/19/2023,1314,5005,20% off,P082,Furniture,7,2181.48,1656.48,525,C030,South,Thursday,Winter
+07/19/2023,1315,5005,20% off,P027,Groceries,2,107.92,55.94,51.98,C592,North,Sunday,Summer
+07/07/23,1316,5005,20% off,P059,Electronics,5,2245.85,1797.7,448.15,C687,West,Friday,Autumn
+11/02/23,1317,5000,Free Shipping,P051,Toys,2,628.8,521.44,107.36,C357,East,Sunday,Winter
+11/13/2023,1318,5001,Buy 1 Get 1,P079,Toys,2,215.6,125.02,90.58,C689,South,Wednesday,Spring
+05/03/23,1319,5002,10% off,P024,Groceries,3,887.94,812.94,75,C524,West,Thursday,Summer
+10/22/2023,1320,5003,30% off,P024,Furniture,9,1622.52,1277.37,345.15,C711,South,Friday,Summer
+09/08/23,1321,5005,20% off,P024,Groceries,8,421.76,158.64,263.12,C635,North,Sunday,Autumn
+01/05/23,1322,5005,20% off,P025,Furniture,9,1323.27,1022.49,300.78,C518,West,Thursday,Winter
+08/01/23,1323,5003,30% off,P022,Electronics,10,1578.4,686.8,891.6,C032,South,Wednesday,Spring
+05/21/2023,1324,5000,Free Shipping,P037,Clothing,8,2952.72,2406.88,545.84,C580,West,Friday,Spring
+10/21/2023,1325,5001,Buy 1 Get 1,P100,Toys,6,2682.24,2380.14,302.1,C556,North,Sunday,Winter
+10/07/23,1326,5003,30% off,P014,Clothing,5,533.8,262.95,270.85,C896,North,Thursday,Autumn
+06/28/2023,1327,5003,30% off,P016,Clothing,4,1489.4,1190.2,299.2,C831,East,Sunday,Winter
+03/26/2023,1328,5005,20% off,P027,Clothing,1,235.14,221.51,13.63,C584,East,Friday,Autumn
+11/02/23,1329,5005,20% off,P042,Groceries,5,930,745.25,184.75,C587,East,Sunday,Spring
+03/11/23,1330,5002,10% off,P036,Clothing,3,1152.03,979.5,172.53,C256,South,Saturday,Autumn
+05/07/23,1331,5003,30% off,P019,Toys,5,1415.8,922.45,493.35,C643,West,Thursday,Winter
+02/08/23,1332,5003,30% off,P066,Groceries,6,1987.92,1840.98,146.94,C466,West,Wednesday,Spring
+02/17/2023,1333,5001,Buy 1 Get 1,P009,Toys,7,532,419.09,112.91,C224,West,Sunday,Summer
+09/11/23,1334,5001,Buy 1 Get 1,P037,Groceries,9,1326.87,1174.68,152.19,C592,South,Friday,Winter
+06/25/2023,1335,5002,10% off,P013,Furniture,1,130.64,101.42,29.22,C128,South,Thursday,Winter
+01/01/23,1336,5005,20% off,P089,Clothing,5,923.65,474.75,448.9,C163,East,Monday,Autumn
+05/09/23,1337,5001,Buy 1 Get 1,P086,Clothing,1,102.24,49.31,52.93,C406,East,Saturday,Summer
+08/08/23,1338,5002,10% off,P001,Clothing,8,2474.8,1688.72,786.08,C080,South,Friday,Summer
+09/23/2023,1339,5002,10% off,P002,Groceries,2,210.58,129.8,80.78,C881,West,Saturday,Summer
+09/02/23,1340,5005,20% off,P050,Electronics,2,1143.46,970.08,173.38,C106,East,Wednesday,Autumn
+03/12/23,1341,5005,20% off,P083,Clothing,2,873.8,820.74,53.06,C544,North,Friday,Summer
+08/14/2023,1342,5005,20% off,P081,Clothing,7,1126.51,656.11,470.4,C631,West,Sunday,Summer
+02/14/2023,1343,5005,20% off,P097,Electronics,10,5215.1,4653.9,561.2,C748,West,Wednesday,Winter
+06/11/23,1344,5005,20% off,P036,Electronics,4,1275.24,1160.36,114.88,C567,East,Sunday,Spring
+12/04/23,1345,5005,20% off,P067,Toys,9,3659.13,3483.45,175.68,C194,West,Wednesday,Spring
+05/03/23,1346,5003,30% off,P015,Clothing,8,1693.76,1348.8,344.96,C654,North,Friday,Spring
+07/04/23,1347,5005,20% off,P050,Toys,7,1986.11,1811.11,175,C375,South,Sunday,Winter
+02/07/23,1348,5000,Free Shipping,P009,Electronics,5,638.6,331.35,307.25,C221,North,Monday,Winter
+09/17/2023,1349,5000,Free Shipping,P099,Furniture,7,1469.79,1060.01,409.78,C719,West,Monday,Summer
+05/23/2023,1350,5001,Buy 1 Get 1,P011,Toys,4,537.08,342.56,194.52,C998,South,Friday,Autumn
+07/20/2023,1351,5002,10% off,P040,Furniture,4,1108.4,1083.88,24.52,C060,South,Monday,Winter
+03/01/23,1352,5000,Free Shipping,P078,Electronics,5,946.25,874.7,71.55,C683,South,Monday,Spring
+12/29/2023,1353,5002,10% off,P021,Furniture,6,840.36,246.3,594.06,C536,East,Tuesday,Autumn
+03/06/23,1354,5002,10% off,P099,Electronics,6,1494.78,1007.7,487.08,C827,West,Wednesday,Spring
+05/15/2023,1355,5002,10% off,P064,Furniture,9,1829.16,1212.93,616.23,C369,North,Thursday,Summer
+07/08/23,1356,5001,Buy 1 Get 1,P099,Electronics,10,4424.8,3825.1,599.7,C691,North,Tuesday,Spring
+01/23/2023,1357,5005,20% off,P006,Furniture,6,1697.04,1446.42,250.62,C393,South,Tuesday,Spring
+10/11/23,1358,5005,20% off,P042,Clothing,7,1917.79,1266.65,651.14,C938,East,Wednesday,Spring
+10/20/2023,1359,5002,10% off,P065,Electronics,3,1540.62,1251,289.62,C229,North,Thursday,Spring
+08/27/2023,1360,5001,Buy 1 Get 1,P042,Electronics,9,1298.43,638.19,660.24,C468,North,Wednesday,Summer
+05/30/2023,1361,5001,Buy 1 Get 1,P095,Toys,4,1954.92,1879.16,75.76,C476,East,Friday,Winter
+04/11/23,1362,5005,20% off,P020,Electronics,7,818.65,298.06,520.59,C025,South,Friday,Autumn
+11/22/2023,1363,5001,Buy 1 Get 1,P001,Furniture,5,1879.15,1457.45,421.7,C107,South,Friday,Summer
+08/03/23,1364,5002,10% off,P019,Groceries,2,316.44,156.98,159.46,C045,South,Sunday,Winter
+12/25/2023,1365,5003,30% off,P096,Electronics,10,1260,1088,172,C098,South,Saturday,Winter
+02/08/23,1366,5000,Free Shipping,P008,Furniture,3,516.39,271.47,244.92,C243,East,Wednesday,Autumn
+07/21/2023,1367,5001,Buy 1 Get 1,P058,Groceries,4,1554.92,1343.8,211.12,C077,South,Tuesday,Spring
+03/21/2023,1368,5005,20% off,P058,Furniture,6,1642.02,1114.98,527.04,C417,North,Friday,Autumn
+04/17/2023,1369,5001,Buy 1 Get 1,P060,Groceries,2,568.28,404.6,163.68,C093,South,Sunday,Autumn
+12/27/2023,1370,5002,10% off,P028,Groceries,3,790.5,675.54,114.96,C094,South,Wednesday,Winter
+09/20/2023,1371,5001,Buy 1 Get 1,P034,Clothing,1,267.55,236.71,30.84,C975,West,Sunday,Winter
+10/12/23,1372,5005,20% off,P013,Furniture,2,854.2,752.66,101.54,C824,South,Monday,Spring
+02/01/23,1373,5005,20% off,P026,Furniture,6,1283.04,742.68,540.36,C703,North,Friday,Autumn
+02/08/23,1374,5002,10% off,P026,Furniture,3,758.76,594.33,164.43,C095,East,Monday,Spring
+08/25/2023,1375,5005,20% off,P074,Furniture,7,3618.79,3179.19,439.6,C509,North,Thursday,Winter
+03/30/2023,1376,5005,20% off,P024,Groceries,5,806.6,336.4,470.2,C457,South,Monday,Summer
+11/28/2023,1377,5003,30% off,P053,Toys,8,2813.92,2540.64,273.28,C063,North,Wednesday,Winter
+03/12/23,1378,5005,20% off,P083,Toys,4,631.4,312.96,318.44,C646,North,Thursday,Autumn
+09/03/23,1379,5003,30% off,P045,Toys,9,3308.85,2824.56,484.29,C330,West,Wednesday,Summer
+01/14/2023,1380,5000,Free Shipping,P029,Electronics,5,2635.4,2240.05,395.35,C060,West,Friday,Autumn
+10/27/2023,1381,5005,20% off,P013,Clothing,4,464.72,337.28,127.44,C273,North,Sunday,Summer
+10/22/2023,1382,5001,Buy 1 Get 1,P023,Clothing,4,825.64,527.04,298.6,C607,East,Sunday,Autumn
+10/30/2023,1383,5001,Buy 1 Get 1,P073,Toys,3,251.55,79.29,172.26,C577,South,Sunday,Winter
+10/05/23,1384,5005,20% off,P063,Electronics,2,942.8,767.2,175.6,C058,South,Friday,Summer
+01/11/23,1385,5003,30% off,P001,Groceries,10,2599.2,1776.2,823,C207,South,Wednesday,Summer
+06/15/2023,1386,5002,10% off,P019,Toys,3,447.03,192.63,254.4,C793,North,Sunday,Autumn
+02/07/23,1387,5003,30% off,P076,Electronics,6,676.8,434.82,241.98,C310,East,Tuesday,Summer
+08/12/23,1388,5001,Buy 1 Get 1,P023,Toys,10,4165.1,4006.7,158.4,C806,East,Tuesday,Summer
+07/13/2023,1389,5001,Buy 1 Get 1,P017,Clothing,1,194.83,122.33,72.5,C972,West,Sunday,Spring
+04/04/23,1390,5001,Buy 1 Get 1,P079,Clothing,10,4272.9,3628.2,644.7,C107,West,Tuesday,Autumn
+02/09/23,1391,5001,Buy 1 Get 1,P041,Clothing,2,809.52,700.06,109.46,C842,East,Thursday,Spring
+05/16/2023,1392,5005,20% off,P089,Electronics,6,1011.6,800.28,211.32,C263,North,Saturday,Spring
+01/25/2023,1393,5003,30% off,P094,Furniture,3,569.76,296.94,272.82,C906,West,Thursday,Winter
+06/29/2023,1394,5003,30% off,P013,Furniture,10,3365.4,2958.6,406.8,C667,South,Tuesday,Winter
+02/07/23,1395,5001,Buy 1 Get 1,P003,Groceries,5,1655.8,1181.9,473.9,C975,North,Monday,Autumn
+03/29/2023,1396,5005,20% off,P094,Electronics,9,1297.62,766.26,531.36,C965,North,Wednesday,Winter
+12/27/2023,1397,5003,30% off,P084,Clothing,10,3194.2,2578.9,615.3,C912,West,Tuesday,Spring
+02/21/2023,1398,5005,20% off,P025,Furniture,9,955.89,169.83,786.06,C740,East,Saturday,Autumn
+06/02/23,1399,5002,10% off,P007,Furniture,10,5236.9,4667.4,569.5,C563,West,Tuesday,Spring
+07/04/23,1400,5003,30% off,P012,Groceries,10,4436.9,3513.6,923.3,C492,South,Monday,Spring
+04/16/2023,1401,5001,Buy 1 Get 1,P011,Furniture,2,745.3,713.1,32.2,C316,West,Thursday,Winter
+12/05/23,1402,5002,10% off,P083,Toys,7,2474.08,2046.66,427.42,C190,East,Thursday,Autumn
+04/06/23,1403,5002,10% off,P034,Furniture,8,2333.84,1742.56,591.28,C270,South,Sunday,Autumn
+10/16/2023,1404,5005,20% off,P097,Electronics,2,1120.94,935.68,185.26,C685,East,Sunday,Winter
+10/29/2023,1405,5000,Free Shipping,P008,Furniture,9,2188.08,2078.19,109.89,C429,West,Friday,Summer
+09/01/23,1406,5002,10% off,P051,Electronics,9,5189.58,4433.13,756.45,C585,South,Monday,Winter
+03/30/2023,1407,5005,20% off,P025,Clothing,1,163.24,71.08,92.16,C434,North,Saturday,Winter
+04/14/2023,1408,5000,Free Shipping,P034,Groceries,2,977.22,872.5,104.72,C090,West,Friday,Winter
+10/10/23,1409,5001,Buy 1 Get 1,P067,Furniture,1,340.22,299.72,40.5,C806,West,Monday,Winter
+03/18/2023,1410,5000,Free Shipping,P076,Toys,2,142.02,73.66,68.36,C948,North,Friday,Spring
+05/27/2023,1411,5001,Buy 1 Get 1,P053,Groceries,7,2834.02,2823.8,10.22,C671,West,Friday,Winter
+01/20/2023,1412,5001,Buy 1 Get 1,P052,Clothing,10,2138.3,1734.1,404.2,C624,West,Monday,Winter
+06/19/2023,1413,5002,10% off,P096,Furniture,5,1826.95,1366.6,460.35,C919,East,Monday,Autumn
+06/05/23,1414,5001,Buy 1 Get 1,P063,Electronics,4,860.24,718.84,141.4,C138,East,Saturday,Winter
+06/14/2023,1415,5003,30% off,P078,Electronics,4,1668.6,1485.52,183.08,C453,South,Sunday,Winter
+09/06/23,1416,5001,Buy 1 Get 1,P008,Toys,3,497.55,360.18,137.37,C068,East,Saturday,Winter
+03/11/23,1417,5000,Free Shipping,P004,Clothing,4,389.92,316.08,73.84,C897,South,Sunday,Spring
+05/08/23,1418,5003,30% off,P007,Groceries,4,1186.68,1016.8,169.88,C281,East,Sunday,Winter
+09/16/2023,1419,5002,10% off,P088,Electronics,4,1980.6,1833.08,147.52,C382,West,Friday,Winter
+04/01/23,1420,5000,Free Shipping,P071,Groceries,6,2148.48,1766.94,381.54,C168,East,Saturday,Spring
+05/26/2023,1421,5003,30% off,P007,Clothing,10,831.1,164.2,666.9,C799,South,Sunday,Summer
+11/28/2023,1422,5005,20% off,P035,Furniture,9,1740.51,875.16,865.35,C021,North,Thursday,Summer
+11/28/2023,1423,5000,Free Shipping,P002,Clothing,5,624.45,414.2,210.25,C623,East,Saturday,Autumn
+08/05/23,1424,5001,Buy 1 Get 1,P059,Groceries,4,606.04,207.28,398.76,C478,East,Saturday,Winter
+10/27/2023,1425,5002,10% off,P066,Groceries,9,2844.18,2304.72,539.46,C663,East,Wednesday,Spring
+09/04/23,1426,5001,Buy 1 Get 1,P036,Groceries,5,590.6,214.35,376.25,C268,East,Tuesday,Summer
+09/22/2023,1427,5002,10% off,P077,Furniture,6,1216.56,677.1,539.46,C698,South,Saturday,Spring
+12/02/23,1428,5001,Buy 1 Get 1,P034,Furniture,7,912.8,773.64,139.16,C398,North,Friday,Summer
+06/25/2023,1429,5000,Free Shipping,P082,Furniture,6,453.84,167.46,286.38,C520,East,Sunday,Summer
+12/03/23,1430,5005,20% off,P038,Electronics,8,2354.24,2294.16,60.08,C132,East,Saturday,Summer
+12/15/2023,1431,5002,10% off,P029,Groceries,4,1743.56,1560.04,183.52,C763,East,Thursday,Autumn
+07/10/23,1432,5000,Free Shipping,P038,Furniture,2,623.18,533.9,89.28,C482,North,Sunday,Spring
+08/30/2023,1433,5000,Free Shipping,P016,Furniture,9,2364.93,1857.33,507.6,C306,West,Monday,Summer
+03/12/23,1434,5001,Buy 1 Get 1,P053,Toys,8,840.64,688.56,152.08,C147,East,Sunday,Summer
+02/11/23,1435,5001,Buy 1 Get 1,P081,Clothing,6,3161.64,2593.62,568.02,C650,North,Monday,Winter
+05/21/2023,1436,5005,20% off,P074,Clothing,8,1765.76,1543.36,222.4,C805,North,Tuesday,Winter
+11/21/2023,1437,5003,30% off,P055,Furniture,7,2569.14,2278.92,290.22,C005,North,Friday,Summer
+07/11/23,1438,5001,Buy 1 Get 1,P097,Toys,4,155.6,89.76,65.84,C019,North,Saturday,Summer
+04/26/2023,1439,5001,Buy 1 Get 1,P017,Electronics,7,2989.42,2525.81,463.61,C516,East,Tuesday,Spring
+01/24/2023,1440,5001,Buy 1 Get 1,P059,Toys,10,462.6,232.8,229.8,C537,East,Thursday,Summer
+06/25/2023,1441,5001,Buy 1 Get 1,P097,Clothing,3,572.25,369.69,202.56,C971,West,Monday,Summer
+04/25/2023,1442,5005,20% off,P094,Electronics,10,309.7,196.6,113.1,C517,South,Monday,Autumn
+12/31/2023,1443,5003,30% off,P082,Groceries,9,3785.76,3617.64,168.12,C639,North,Friday,Spring
+12/05/23,1444,5002,10% off,P007,Electronics,7,2481.01,2308.95,172.06,C455,West,Monday,Autumn
+08/31/2023,1445,5005,20% off,P089,Electronics,5,419,293.65,125.35,C431,North,Saturday,Autumn
+11/15/2023,1446,5005,20% off,P054,Electronics,9,4046.58,3275.19,771.39,C737,North,Wednesday,Spring
+02/24/2023,1447,5005,20% off,P078,Clothing,5,2285.65,2084.05,201.6,C852,South,Wednesday,Winter
+06/01/23,1448,5002,10% off,P071,Furniture,4,1434.6,1349.44,85.16,C705,West,Wednesday,Summer
+01/02/23,1449,5002,10% off,P015,Toys,8,1947.04,1229.12,717.92,C153,North,Sunday,Spring
+02/21/2023,1450,5005,20% off,P059,Groceries,5,129.2,81.85,47.35,C476,North,Monday,Summer
+01/21/2023,1451,5001,Buy 1 Get 1,P087,Groceries,7,808.43,783.02,25.41,C757,North,Monday,Spring
+01/05/23,1452,5005,20% off,P043,Groceries,8,1260.96,791.2,469.76,C979,East,Saturday,Spring
+07/10/23,1453,5005,20% off,P015,Furniture,7,2141.09,1515.5,625.59,C986,West,Wednesday,Winter
+12/20/2023,1454,5003,30% off,P084,Clothing,2,890.78,821.1,69.68,C136,North,Sunday,Summer
+02/23/2023,1455,5000,Free Shipping,P062,Toys,8,1405.68,1096.96,308.72,C186,West,Sunday,Autumn
+11/10/23,1456,5005,20% off,P062,Furniture,2,653.56,598.48,55.08,C909,West,Thursday,Spring
+02/02/23,1457,5001,Buy 1 Get 1,P002,Toys,10,3573.6,3158.3,415.3,C742,South,Saturday,Autumn
+09/23/2023,1458,5000,Free Shipping,P013,Furniture,4,1298.72,1122,176.72,C494,East,Saturday,Winter
+03/18/2023,1459,5000,Free Shipping,P007,Electronics,3,747.57,462.87,284.7,C518,West,Sunday,Winter
+03/26/2023,1460,5003,30% off,P042,Clothing,6,2394.24,2305.02,89.22,C994,East,Monday,Summer
+10/09/23,1461,5003,30% off,P031,Electronics,8,3878.48,3484.4,394.08,C455,West,Monday,Winter
+08/17/2023,1462,5002,10% off,P064,Electronics,2,1057.04,896.66,160.38,C414,West,Monday,Spring
+02/16/2023,1463,5000,Free Shipping,P082,Groceries,9,1994.13,1965.15,28.98,C576,South,Saturday,Winter
+06/24/2023,1464,5002,10% off,P029,Furniture,6,1177.62,849.9,327.72,C574,West,Saturday,Autumn
+08/20/2023,1465,5002,10% off,P098,Clothing,1,346.93,320.4,26.53,C350,East,Sunday,Autumn
+10/08/23,1466,5001,Buy 1 Get 1,P090,Electronics,1,161.94,78.28,83.66,C919,South,Thursday,Summer
+07/29/2023,1467,5001,Buy 1 Get 1,P079,Clothing,4,2181.6,1969.44,212.16,C124,West,Tuesday,Winter
+04/08/23,1468,5002,10% off,P097,Furniture,1,122.08,94.12,27.96,C949,North,Sunday,Winter
+08/23/2023,1469,5000,Free Shipping,P018,Furniture,1,110.53,19.01,91.52,C544,North,Friday,Winter
+10/27/2023,1470,5000,Free Shipping,P100,Clothing,10,1257.8,677,580.8,C178,South,Monday,Winter
+12/03/23,1471,5000,Free Shipping,P042,Toys,7,1401.05,1010.03,391.02,C429,South,Wednesday,Winter
+06/25/2023,1472,5003,30% off,P018,Clothing,7,2886.38,2304.4,581.98,C617,East,Sunday,Autumn
+12/31/2023,1473,5005,20% off,P026,Clothing,10,1132.4,1111.5,20.9,C732,East,Saturday,Autumn
+12/11/23,1474,5005,20% off,P065,Toys,6,1003.02,462.42,540.6,C728,North,Sunday,Autumn
+10/15/2023,1475,5000,Free Shipping,P074,Furniture,9,4485.15,3943.89,541.26,C293,West,Sunday,Spring
+09/25/2023,1476,5002,10% off,P049,Clothing,1,371.09,304.25,66.84,C687,North,Tuesday,Autumn
+03/24/2023,1477,5001,Buy 1 Get 1,P019,Electronics,5,937.3,479.65,457.65,C209,North,Wednesday,Winter
+02/22/2023,1478,5000,Free Shipping,P029,Toys,7,1778.91,1506.4,272.51,C244,East,Saturday,Spring
+07/15/2023,1479,5003,30% off,P088,Groceries,9,2429.28,2378.43,50.85,C056,North,Saturday,Autumn
+04/14/2023,1480,5003,30% off,P029,Groceries,10,1655.5,914.8,740.7,C560,South,Sunday,Summer
+05/31/2023,1481,5005,20% off,P088,Electronics,3,333.84,151.71,182.13,C986,South,Saturday,Spring
+07/13/2023,1482,5003,30% off,P036,Toys,5,848.8,651.1,197.7,C134,South,Friday,Autumn
+01/03/23,1483,5003,30% off,P091,Clothing,1,187.67,151.46,36.21,C158,East,Friday,Spring
+11/17/2023,1484,5001,Buy 1 Get 1,P063,Toys,9,3534.75,3260.97,273.78,C367,North,Sunday,Autumn
+09/27/2023,1485,5005,20% off,P067,Electronics,9,3021.03,2587.86,433.17,C164,West,Friday,Winter
+02/17/2023,1486,5005,20% off,P028,Groceries,6,2573.7,2011.2,562.5,C370,East,Tuesday,Winter
+10/15/2023,1487,5002,10% off,P086,Groceries,8,3129.92,2951.68,178.24,C247,South,Monday,Autumn
+07/15/2023,1488,5003,30% off,P033,Toys,5,261.2,126.4,134.8,C026,East,Friday,Winter
+09/07/23,1489,5001,Buy 1 Get 1,P084,Clothing,6,1846.08,1809.54,36.54,C527,North,Monday,Summer
+10/03/23,1490,5002,10% off,P081,Electronics,4,1253.24,1012.88,240.36,C687,South,Sunday,Winter
+02/23/2023,1491,5000,Free Shipping,P090,Furniture,2,502.2,347.56,154.64,C765,South,Monday,Winter
+06/19/2023,1492,5002,10% off,P010,Electronics,3,212.01,186.69,25.32,C814,East,Friday,Spring
+10/22/2023,1493,5001,Buy 1 Get 1,P053,Furniture,8,3334.88,2934.48,400.4,C646,West,Thursday,Autumn
+01/09/23,1494,5002,10% off,P069,Electronics,10,3913.7,3473.2,440.5,C065,North,Saturday,Spring
+07/03/23,1495,5002,10% off,P038,Groceries,10,2128.3,1307.4,820.9,C089,East,Sunday,Winter
+07/15/2023,1496,5002,10% off,P061,Clothing,9,4243.32,3615.39,627.93,C226,South,Saturday,Winter
+10/07/23,1497,5005,20% off,P039,Groceries,1,202.78,143.35,59.43,C567,South,Monday,Spring
+01/03/23,1498,5000,Free Shipping,P051,Toys,9,1772.55,1681.92,90.63,C970,North,Wednesday,Summer
+06/26/2023,1499,5003,30% off,P083,Toys,3,1422.09,1378.44,43.65,C165,South,Tuesday,Autumn
+04/10/23,1500,5005,20% off,P086,Toys,1,520.77,475.62,45.15,C872,West,Saturday,Spring
+05/29/2023,1501,5001,Buy 1 Get 1,P013,Clothing,10,1553.7,1007.2,546.5,C499,East,Wednesday,Summer
+12/10/23,1502,5002,10% off,P037,Toys,2,1022.46,875.48,146.98,C922,South,Wednesday,Winter
+08/19/2023,1503,5000,Free Shipping,P085,Groceries,10,4714.3,4052.1,662.2,C157,East,Sunday,Autumn
+08/08/23,1504,5002,10% off,P041,Clothing,4,1737.16,1396.88,340.28,C730,West,Wednesday,Autumn
+03/10/23,1505,5003,30% off,P060,Furniture,6,1090.74,794.04,296.7,C794,East,Thursday,Spring
+03/31/2023,1506,5002,10% off,P036,Clothing,9,1954.53,1065.51,889.02,C202,East,Saturday,Spring
+02/08/23,1507,5000,Free Shipping,P081,Electronics,10,4774.9,4725.9,49,C593,West,Sunday,Summer
+01/19/2023,1508,5001,Buy 1 Get 1,P070,Toys,8,3586.64,2845.84,740.8,C670,South,Wednesday,Winter
+04/25/2023,1509,5001,Buy 1 Get 1,P018,Furniture,9,1401.39,886.32,515.07,C523,North,Thursday,Autumn
+09/15/2023,1510,5005,20% off,P079,Clothing,9,4166.55,4127.31,39.24,C144,West,Tuesday,Summer
+10/17/2023,1511,5005,20% off,P095,Furniture,6,2293.08,2110.44,182.64,C042,South,Sunday,Winter
+04/29/2023,1512,5001,Buy 1 Get 1,P048,Clothing,1,560.08,462.95,97.13,C685,South,Friday,Autumn
+07/18/2023,1513,5003,30% off,P006,Electronics,6,3123.84,2836.14,287.7,C106,East,Sunday,Autumn
+10/24/2023,1514,5000,Free Shipping,P023,Furniture,7,3619.07,3026.8,592.27,C375,North,Friday,Autumn
+07/12/23,1515,5000,Free Shipping,P052,Groceries,6,1496.52,998.16,498.36,C499,West,Friday,Spring
+09/14/2023,1516,5003,30% off,P022,Clothing,2,176.32,56.26,120.06,C527,East,Tuesday,Summer
+04/06/23,1517,5001,Buy 1 Get 1,P078,Electronics,4,542.56,490.8,51.76,C425,East,Saturday,Spring
+09/04/23,1518,5003,30% off,P027,Toys,3,352.92,143.13,209.79,C663,West,Monday,Summer
+01/23/2023,1519,5000,Free Shipping,P076,Clothing,3,747.87,529.62,218.25,C645,North,Friday,Summer
+01/29/2023,1520,5001,Buy 1 Get 1,P024,Toys,7,519.61,294.14,225.47,C614,North,Saturday,Autumn
+02/13/2023,1521,5003,30% off,P078,Furniture,8,2829.04,2194.8,634.24,C175,South,Sunday,Winter
+11/04/23,1522,5000,Free Shipping,P099,Clothing,10,2291.5,1661.9,629.6,C676,East,Tuesday,Autumn
+08/21/2023,1523,5000,Free Shipping,P009,Clothing,7,3542.7,3108.91,433.79,C395,South,Monday,Spring
+04/14/2023,1524,5000,Free Shipping,P088,Furniture,3,382.71,372.45,10.26,C621,North,Tuesday,Winter
+11/11/23,1525,5002,10% off,P069,Toys,2,878.92,872.7,6.22,C096,West,Saturday,Summer
+11/05/23,1526,5002,10% off,P100,Furniture,9,4427.64,3947.4,480.24,C431,East,Sunday,Spring
+12/24/2023,1527,5003,30% off,P030,Furniture,7,3851.54,3290.98,560.56,C359,North,Thursday,Summer
+05/11/23,1528,5005,20% off,P011,Groceries,10,5347.1,4989.9,357.2,C898,West,Wednesday,Summer
+01/03/23,1529,5000,Free Shipping,P067,Electronics,9,3840.39,3473.28,367.11,C008,West,Saturday,Summer
+12/19/2023,1530,5003,30% off,P047,Electronics,3,924.78,735.42,189.36,C437,East,Wednesday,Winter
+10/17/2023,1531,5000,Free Shipping,P036,Furniture,4,2146.08,1752.4,393.68,C424,West,Tuesday,Autumn
+10/14/2023,1532,5003,30% off,P033,Groceries,10,4288.1,3864.5,423.6,C353,West,Saturday,Summer
+12/04/23,1533,5005,20% off,P058,Clothing,2,580.96,432.92,148.04,C220,West,Sunday,Autumn
+10/09/23,1534,5002,10% off,P021,Furniture,1,138.94,127,11.94,C824,North,Sunday,Summer
+08/30/2023,1535,5003,30% off,P012,Electronics,5,1066,918.8,147.2,C228,East,Monday,Spring
+07/16/2023,1536,5000,Free Shipping,P084,Toys,5,896.6,775.95,120.65,C729,North,Sunday,Summer
+11/24/2023,1537,5003,30% off,P002,Clothing,9,300.6,275.67,24.93,C293,South,Monday,Summer
+11/11/23,1538,5002,10% off,P047,Clothing,1,537.33,493.98,43.35,C1000,South,Monday,Autumn
+07/24/2023,1539,5003,30% off,P052,Toys,4,1066.44,793.28,273.16,C531,North,Saturday,Spring
+02/16/2023,1540,5001,Buy 1 Get 1,P093,Toys,10,2119.9,1169.4,950.5,C357,East,Sunday,Autumn
+04/26/2023,1541,5005,20% off,P059,Furniture,10,4051.6,3953.1,98.5,C005,East,Tuesday,Winter
+09/17/2023,1542,5000,Free Shipping,P010,Toys,5,1513.2,1073.05,440.15,C349,North,Sunday,Autumn
+10/03/23,1543,5001,Buy 1 Get 1,P089,Furniture,7,3641.33,3310.44,330.89,C577,West,Sunday,Summer
+06/23/2023,1544,5003,30% off,P076,Electronics,8,2624.88,2484.56,140.32,C120,East,Monday,Winter
+11/21/2023,1545,5005,20% off,P041,Furniture,6,3117.66,2974.02,143.64,C529,North,Saturday,Autumn
+05/08/23,1546,5002,10% off,P052,Groceries,2,1074.52,943.88,130.64,C568,South,Thursday,Autumn
+07/01/23,1547,5000,Free Shipping,P035,Clothing,4,1438.2,1231.16,207.04,C511,South,Tuesday,Summer
+05/16/2023,1548,5005,20% off,P026,Clothing,10,1415.1,1230.3,184.8,C365,South,Sunday,Spring
+03/03/23,1549,5003,30% off,P079,Electronics,9,1237.5,1062.36,175.14,C981,North,Sunday,Winter
+07/10/23,1550,5001,Buy 1 Get 1,P064,Toys,5,2138.3,1960,178.3,C503,South,Sunday,Autumn
+07/23/2023,1551,5000,Free Shipping,P017,Electronics,9,1217.52,345.06,872.46,C819,West,Thursday,Spring
+09/15/2023,1552,5003,30% off,P088,Clothing,8,4287.28,3544.48,742.8,C1000,North,Saturday,Winter
+06/11/23,1553,5002,10% off,P087,Clothing,7,3610.04,3482.5,127.54,C595,North,Wednesday,Autumn
+11/10/23,1554,5005,20% off,P071,Groceries,4,1120.92,816.64,304.28,C276,West,Friday,Autumn
+07/07/23,1555,5003,30% off,P055,Clothing,7,2571.03,2457.35,113.68,C718,East,Wednesday,Winter
+05/24/2023,1556,5005,20% off,P074,Clothing,10,4329.8,4097.6,232.2,C703,South,Sunday,Spring
+05/19/2023,1557,5000,Free Shipping,P056,Furniture,4,695.32,478.68,216.64,C150,South,Thursday,Spring
+04/01/23,1558,5003,30% off,P018,Toys,9,3230.73,2704.86,525.87,C738,East,Sunday,Winter
+06/03/23,1559,5000,Free Shipping,P073,Electronics,7,998.9,383.81,615.09,C102,South,Monday,Summer
+05/11/23,1560,5002,10% off,P058,Groceries,5,769.8,700.7,69.1,C370,East,Friday,Autumn
+06/26/2023,1561,5003,30% off,P016,Groceries,10,5411,4454.9,956.1,C204,South,Sunday,Autumn
+07/01/23,1562,5000,Free Shipping,P063,Furniture,2,1027.16,864.88,162.28,C391,East,Thursday,Summer
+03/27/2023,1563,5003,30% off,P081,Toys,10,3866,3310.7,555.3,C415,North,Monday,Summer
+06/25/2023,1564,5001,Buy 1 Get 1,P041,Groceries,5,470.3,263.1,207.2,C620,West,Wednesday,Winter
+07/05/23,1565,5000,Free Shipping,P058,Furniture,3,658.02,577.86,80.16,C189,North,Tuesday,Summer
+12/05/23,1566,5002,10% off,P027,Clothing,7,2901.99,2551.36,350.63,C106,North,Monday,Winter
+10/08/23,1567,5002,10% off,P099,Furniture,9,652.59,447.39,205.2,C784,North,Monday,Autumn
+11/13/2023,1568,5002,10% off,P084,Furniture,5,1766.7,1724,42.7,C235,South,Saturday,Autumn
+08/15/2023,1569,5005,20% off,P068,Clothing,1,477.11,427.09,50.02,C036,East,Sunday,Autumn
+09/01/23,1570,5000,Free Shipping,P035,Toys,8,2441.12,1963.92,477.2,C139,South,Friday,Winter
+11/20/2023,1571,5003,30% off,P068,Toys,5,2247.6,2070.45,177.15,C931,East,Thursday,Summer
+02/15/2023,1572,5001,Buy 1 Get 1,P047,Furniture,5,1996.2,1711.15,285.05,C160,East,Monday,Spring
+09/25/2023,1573,5001,Buy 1 Get 1,P037,Furniture,9,2059.38,1267.56,791.82,C009,West,Sunday,Winter
+06/03/23,1574,5003,30% off,P038,Toys,4,1867.72,1602.96,264.76,C816,North,Friday,Autumn
+04/07/23,1575,5000,Free Shipping,P056,Furniture,4,2054.6,1707.16,347.44,C168,West,Sunday,Winter
+04/23/2023,1576,5002,10% off,P055,Clothing,9,3968.64,3213.9,754.74,C783,East,Wednesday,Autumn
+07/31/2023,1577,5002,10% off,P024,Clothing,5,2100.45,1758.8,341.65,C114,West,Friday,Winter
+05/20/2023,1578,5003,30% off,P025,Groceries,1,388.64,313.12,75.52,C156,North,Friday,Spring
+04/06/23,1579,5001,Buy 1 Get 1,P035,Clothing,8,1407.44,701.76,705.68,C745,North,Tuesday,Spring
+03/19/2023,1580,5003,30% off,P028,Groceries,7,3087.7,3060.4,27.3,C320,West,Wednesday,Winter
+12/23/2023,1581,5001,Buy 1 Get 1,P011,Clothing,1,428.41,414.65,13.76,C273,West,Monday,Winter
+04/03/23,1582,5001,Buy 1 Get 1,P049,Electronics,2,497.64,348.42,149.22,C998,South,Thursday,Winter
+05/07/23,1583,5005,20% off,P059,Electronics,9,1536.75,798.93,737.82,C682,South,Thursday,Winter
+12/15/2023,1584,5001,Buy 1 Get 1,P021,Electronics,9,4220.91,3759.75,461.16,C534,North,Wednesday,Winter
+11/23/2023,1585,5005,20% off,P047,Electronics,4,170.2,52.52,117.68,C997,North,Tuesday,Winter
+06/16/2023,1586,5005,20% off,P036,Toys,2,820.86,624.58,196.28,C406,South,Monday,Spring
+10/25/2023,1587,5000,Free Shipping,P020,Groceries,2,692.62,639.18,53.44,C255,South,Thursday,Spring
+12/18/2023,1588,5001,Buy 1 Get 1,P098,Electronics,1,375.12,320.66,54.46,C365,South,Saturday,Spring
+03/06/23,1589,5005,20% off,P041,Toys,6,2422.26,2352.72,69.54,C825,West,Saturday,Summer
+01/11/23,1590,5001,Buy 1 Get 1,P093,Clothing,5,2187.45,1914.5,272.95,C921,North,Thursday,Winter
+10/14/2023,1591,5000,Free Shipping,P090,Furniture,4,2066.88,1927.48,139.4,C581,South,Friday,Autumn
+06/15/2023,1592,5001,Buy 1 Get 1,P077,Toys,3,1239.75,959.94,279.81,C071,South,Thursday,Autumn
+05/15/2023,1593,5001,Buy 1 Get 1,P059,Electronics,9,1386.18,542.07,844.11,C389,South,Monday,Autumn
+11/14/2023,1594,5001,Buy 1 Get 1,P093,Electronics,9,3193.02,3123.54,69.48,C839,West,Tuesday,Winter
+10/10/23,1595,5000,Free Shipping,P037,Groceries,7,1600.06,1102.29,497.77,C657,East,Monday,Spring
+09/25/2023,1596,5002,10% off,P017,Clothing,1,101.63,43,58.63,C207,North,Thursday,Summer
+02/20/2023,1597,5000,Free Shipping,P083,Furniture,8,1935.6,1435.84,499.76,C539,East,Monday,Autumn
+04/24/2023,1598,5002,10% off,P002,Clothing,8,957.52,259.28,698.24,C951,North,Thursday,Spring
+07/04/23,1599,5003,30% off,P048,Electronics,10,5839.3,4870.1,969.2,C273,North,Saturday,Spring
+06/05/23,1600,5005,20% off,P067,Electronics,2,782.42,754.66,27.76,C743,South,Friday,Winter
+04/08/23,1601,5000,Free Shipping,P085,Clothing,10,3849.8,3815.5,34.3,C641,South,Friday,Winter
+02/24/2023,1602,5001,Buy 1 Get 1,P087,Furniture,7,377.16,145.88,231.28,C905,North,Tuesday,Summer
+10/09/23,1603,5000,Free Shipping,P044,Clothing,9,2940.39,2244.96,695.43,C615,West,Wednesday,Autumn
+10/09/23,1604,5001,Buy 1 Get 1,P053,Furniture,6,2339.7,2068.86,270.84,C624,South,Friday,Summer
+07/12/23,1605,5001,Buy 1 Get 1,P047,Furniture,8,1950.4,1152.64,797.76,C983,West,Monday,Spring
+05/26/2023,1606,5002,10% off,P067,Clothing,5,1322.6,1094.15,228.45,C007,East,Tuesday,Summer
+06/11/23,1607,5001,Buy 1 Get 1,P071,Toys,9,1528.83,811.62,717.21,C585,South,Monday,Spring
+08/24/2023,1608,5005,20% off,P018,Groceries,6,2236.56,2099.4,137.16,C911,South,Tuesday,Autumn
+06/03/23,1609,5000,Free Shipping,P052,Toys,4,474.96,201.48,273.48,C752,North,Saturday,Autumn
+09/05/23,1610,5003,30% off,P089,Toys,2,717.52,661.42,56.1,C610,East,Monday,Winter
+02/10/23,1611,5001,Buy 1 Get 1,P045,Furniture,7,3443.09,3331.44,111.65,C953,North,Sunday,Summer
+12/01/23,1612,5002,10% off,P082,Furniture,1,316.26,221.84,94.42,C313,North,Wednesday,Summer
+06/17/2023,1613,5005,20% off,P020,Electronics,7,1959.16,1509.69,449.47,C995,West,Sunday,Spring
+04/24/2023,1614,5001,Buy 1 Get 1,P051,Clothing,3,698.91,614.46,84.45,C345,North,Thursday,Spring
+10/08/23,1615,5001,Buy 1 Get 1,P011,Furniture,9,4803.03,4429.35,373.68,C445,South,Sunday,Summer
+09/04/23,1616,5005,20% off,P063,Furniture,10,4718.8,4481.1,237.7,C201,South,Tuesday,Spring
+05/17/2023,1617,5001,Buy 1 Get 1,P088,Toys,2,237,228.84,8.16,C116,West,Thursday,Autumn
+06/28/2023,1618,5001,Buy 1 Get 1,P045,Toys,1,366.8,329.32,37.48,C789,East,Tuesday,Autumn
+11/12/23,1619,5000,Free Shipping,P019,Furniture,1,481.39,433.54,47.85,C947,South,Tuesday,Autumn
+03/21/2023,1620,5002,10% off,P095,Electronics,4,2015.12,1937.64,77.48,C972,South,Sunday,Autumn
+01/08/23,1621,5002,10% off,P040,Furniture,8,4108.08,3485.04,623.04,C024,East,Tuesday,Summer
+04/15/2023,1622,5000,Free Shipping,P097,Groceries,9,4251.42,3489.75,761.67,C495,South,Saturday,Spring
+07/12/23,1623,5000,Free Shipping,P006,Groceries,3,1337.7,1148.7,189,C062,East,Tuesday,Autumn
+01/28/2023,1624,5002,10% off,P009,Furniture,5,392.65,371.55,21.1,C679,East,Sunday,Spring
+01/10/23,1625,5003,30% off,P030,Furniture,9,4709.43,4150.98,558.45,C727,North,Wednesday,Winter
+11/02/23,1626,5002,10% off,P024,Clothing,9,4040.73,3602.7,438.03,C990,West,Friday,Spring
+01/21/2023,1627,5000,Free Shipping,P040,Groceries,8,646.96,539.84,107.12,C403,South,Monday,Autumn
+12/17/2023,1628,5001,Buy 1 Get 1,P081,Groceries,4,1558.12,1383.72,174.4,C514,East,Sunday,Spring
+11/17/2023,1629,5003,30% off,P004,Toys,5,789.65,541.3,248.35,C231,South,Wednesday,Winter
+12/03/23,1630,5002,10% off,P094,Furniture,9,900.72,373.14,527.58,C984,South,Thursday,Summer
+10/21/2023,1631,5003,30% off,P040,Toys,6,1330.62,850.86,479.76,C460,South,Tuesday,Summer
+10/25/2023,1632,5005,20% off,P018,Groceries,9,1873.35,1458.72,414.63,C932,South,Thursday,Summer
+12/02/23,1633,5005,20% off,P041,Electronics,9,214.74,141.21,73.53,C546,North,Tuesday,Autumn
+03/16/2023,1634,5001,Buy 1 Get 1,P053,Furniture,5,1254.15,1011.6,242.55,C454,East,Tuesday,Summer
+02/24/2023,1635,5005,20% off,P004,Toys,10,3338.8,3040.1,298.7,C274,South,Friday,Summer
+04/29/2023,1636,5001,Buy 1 Get 1,P011,Furniture,3,1310.07,1051.62,258.45,C515,West,Saturday,Autumn
+04/05/23,1637,5003,30% off,P061,Clothing,3,1191.15,1176.39,14.76,C198,South,Monday,Winter
+01/08/23,1638,5003,30% off,P029,Clothing,4,1027.36,981.8,45.56,C068,South,Thursday,Winter
+12/19/2023,1639,5003,30% off,P032,Furniture,7,1590.96,900.2,690.76,C795,North,Friday,Winter
+06/10/23,1640,5000,Free Shipping,P096,Toys,10,1302.1,798.2,503.9,C550,North,Friday,Spring
+08/20/2023,1641,5002,10% off,P032,Toys,9,3450.96,2816.1,634.86,C406,North,Friday,Winter
+09/22/2023,1642,5005,20% off,P038,Furniture,7,2003.4,1989.61,13.79,C906,East,Sunday,Autumn
+08/25/2023,1643,5003,30% off,P038,Toys,1,222.22,169.97,52.25,C707,South,Thursday,Winter
+02/16/2023,1644,5002,10% off,P024,Toys,9,798.84,477.45,321.39,C139,West,Thursday,Autumn
+08/19/2023,1645,5005,20% off,P059,Toys,4,140.2,105.08,35.12,C904,West,Monday,Autumn
+06/15/2023,1646,5002,10% off,P012,Electronics,8,1749.04,1635.92,113.12,C650,East,Monday,Winter
+09/19/2023,1647,5005,20% off,P049,Toys,7,2501.52,2016.7,484.82,C045,South,Wednesday,Summer
+03/25/2023,1648,5005,20% off,P099,Electronics,7,2961.7,2816.03,145.67,C316,East,Saturday,Winter
+05/28/2023,1649,5002,10% off,P017,Clothing,1,103.42,92.07,11.35,C638,East,Monday,Winter
+09/12/23,1650,5000,Free Shipping,P001,Toys,8,3142.32,2574.8,567.52,C244,South,Friday,Winter
+08/21/2023,1651,5003,30% off,P011,Toys,10,1191.7,254.8,936.9,C007,South,Friday,Autumn
+11/14/2023,1652,5005,20% off,P007,Clothing,3,270.18,106.41,163.77,C057,East,Monday,Summer
+01/17/2023,1653,5000,Free Shipping,P039,Groceries,2,889.34,714.88,174.46,C051,North,Thursday,Summer
+03/24/2023,1654,5000,Free Shipping,P085,Toys,10,4402.7,3599,803.7,C807,South,Thursday,Autumn
+01/19/2023,1655,5001,Buy 1 Get 1,P042,Groceries,7,1806,1234.31,571.69,C840,North,Sunday,Winter
+10/09/23,1656,5001,Buy 1 Get 1,P061,Clothing,2,277.7,98.52,179.18,C712,East,Wednesday,Winter
+09/26/2023,1657,5005,20% off,P079,Electronics,2,720.46,556.64,163.82,C586,North,Thursday,Autumn
+08/07/23,1658,5001,Buy 1 Get 1,P034,Toys,10,2963.5,2316.4,647.1,C639,East,Tuesday,Winter
+09/24/2023,1659,5003,30% off,P024,Toys,4,1365.48,1071.76,293.72,C726,East,Tuesday,Spring
+03/02/23,1660,5003,30% off,P081,Electronics,4,227.88,200,27.88,C819,West,Thursday,Spring
+06/20/2023,1661,5000,Free Shipping,P082,Clothing,1,147.87,131.08,16.79,C656,South,Saturday,Autumn
+05/11/23,1662,5001,Buy 1 Get 1,P039,Toys,9,4138.83,3934.53,204.3,C332,North,Monday,Autumn
+06/24/2023,1663,5000,Free Shipping,P079,Electronics,3,1567.56,1464.51,103.05,C199,East,Sunday,Autumn
+12/11/23,1664,5003,30% off,P005,Clothing,8,1427.36,793.92,633.44,C160,West,Sunday,Autumn
+08/25/2023,1665,5002,10% off,P067,Groceries,10,3830.9,3327.7,503.2,C743,East,Friday,Spring
+04/17/2023,1666,5001,Buy 1 Get 1,P046,Electronics,3,1062.99,846.39,216.6,C288,North,Wednesday,Winter
+11/17/2023,1667,5005,20% off,P074,Toys,7,1551.06,853.58,697.48,C192,North,Sunday,Autumn
+12/28/2023,1668,5002,10% off,P035,Furniture,2,1106.06,975.3,130.76,C509,South,Wednesday,Winter
+06/04/23,1669,5000,Free Shipping,P039,Clothing,2,352.24,215.56,136.68,C384,North,Sunday,Summer
+02/17/2023,1670,5000,Free Shipping,P004,Furniture,9,444.69,408.42,36.27,C158,South,Wednesday,Winter
+09/26/2023,1671,5001,Buy 1 Get 1,P019,Electronics,9,1647.54,1226.34,421.2,C693,South,Tuesday,Spring
+08/24/2023,1672,5000,Free Shipping,P015,Electronics,5,2542.2,2177.25,364.95,C955,North,Saturday,Spring
+06/20/2023,1673,5002,10% off,P014,Toys,5,2085.25,1869.65,215.6,C024,East,Saturday,Summer
+06/14/2023,1674,5005,20% off,P037,Groceries,9,1955.16,1615.59,339.57,C327,West,Saturday,Spring
+05/20/2023,1675,5005,20% off,P036,Electronics,1,498.92,493.95,4.97,C982,North,Tuesday,Autumn
+10/09/23,1676,5001,Buy 1 Get 1,P019,Groceries,10,4931.4,4348.5,582.9,C251,South,Monday,Autumn
+11/10/23,1677,5000,Free Shipping,P057,Electronics,3,893.16,674.76,218.4,C030,West,Saturday,Spring
+02/24/2023,1678,5002,10% off,P012,Furniture,7,2351.58,1739.29,612.29,C184,West,Friday,Autumn
+06/09/23,1679,5005,20% off,P092,Toys,2,988.18,902.68,85.5,C998,West,Friday,Summer
+02/17/2023,1680,5002,10% off,P059,Groceries,8,1642.32,1165.2,477.12,C482,South,Tuesday,Summer
+11/12/23,1681,5001,Buy 1 Get 1,P051,Clothing,6,2873.52,2742.36,131.16,C808,East,Thursday,Winter
+01/16/2023,1682,5003,30% off,P015,Groceries,8,3030.16,2522,508.16,C473,South,Wednesday,Autumn
+11/06/23,1683,5005,20% off,P066,Electronics,7,2682.82,2584.61,98.21,C838,North,Wednesday,Spring
+06/04/23,1684,5003,30% off,P052,Toys,7,3162.18,2525.25,636.93,C245,South,Friday,Summer
+09/04/23,1685,5002,10% off,P044,Clothing,10,1225.6,980.4,245.2,C442,West,Friday,Autumn
+10/06/23,1686,5005,20% off,P085,Electronics,10,5049,4859.8,189.2,C857,West,Monday,Winter
+06/16/2023,1687,5002,10% off,P057,Clothing,5,2391.95,2143.25,248.7,C979,West,Monday,Spring
+12/17/2023,1688,5003,30% off,P042,Furniture,1,218.34,131.14,87.2,C093,South,Sunday,Summer
+10/25/2023,1689,5005,20% off,P085,Clothing,8,2241.36,1825.6,415.76,C545,East,Thursday,Winter
+04/11/23,1690,5001,Buy 1 Get 1,P039,Toys,5,1228.6,930.1,298.5,C941,West,Saturday,Autumn
+02/15/2023,1691,5002,10% off,P079,Toys,7,908.95,630.91,278.04,C868,South,Sunday,Autumn
+02/01/23,1692,5000,Free Shipping,P007,Electronics,9,4604.13,4365.09,239.04,C841,East,Monday,Autumn
+01/16/2023,1693,5003,30% off,P090,Toys,7,2554.93,2322.6,232.33,C641,East,Saturday,Winter
+07/27/2023,1694,5003,30% off,P070,Clothing,3,1208.88,1167,41.88,C487,South,Tuesday,Winter
+07/04/23,1695,5005,20% off,P037,Clothing,3,1593.42,1455.63,137.79,C012,North,Saturday,Spring
+03/15/2023,1696,5003,30% off,P018,Electronics,3,401.82,376.98,24.84,C658,West,Sunday,Winter
+12/23/2023,1697,5003,30% off,P080,Clothing,8,1165.12,745.44,419.68,C522,West,Friday,Winter
+07/16/2023,1698,5005,20% off,P024,Furniture,10,2581.9,1751.3,830.6,C008,West,Sunday,Summer
+12/31/2023,1699,5001,Buy 1 Get 1,P053,Toys,10,2467.5,2211.3,256.2,C376,North,Monday,Winter
+12/27/2023,1700,5002,10% off,P075,Furniture,2,766.74,624.8,141.94,C146,East,Thursday,Spring
+09/25/2023,1701,5002,10% off,P032,Furniture,2,218.88,183.7,35.18,C701,East,Friday,Spring
+06/25/2023,1702,5002,10% off,P061,Furniture,9,916.83,251.73,665.1,C928,West,Friday,Autumn
+08/04/23,1703,5001,Buy 1 Get 1,P038,Clothing,1,383.25,335.26,47.99,C712,East,Saturday,Autumn
+02/01/23,1704,5000,Free Shipping,P022,Toys,1,504.4,423.64,80.76,C673,East,Sunday,Spring
+05/27/2023,1705,5002,10% off,P017,Toys,2,767.56,593.64,173.92,C872,East,Wednesday,Summer
+11/12/23,1706,5001,Buy 1 Get 1,P033,Electronics,2,245.88,221.72,24.16,C619,South,Friday,Summer
+12/04/23,1707,5001,Buy 1 Get 1,P023,Groceries,4,595.32,568.72,26.6,C497,South,Sunday,Spring
+06/25/2023,1708,5005,20% off,P077,Clothing,8,2911.92,2162.16,749.76,C771,West,Sunday,Winter
+05/02/23,1709,5005,20% off,P027,Toys,6,254.22,175.68,78.54,C056,East,Sunday,Spring
+01/27/2023,1710,5003,30% off,P052,Furniture,5,1625.15,1157.9,467.25,C488,South,Thursday,Winter
+08/31/2023,1711,5005,20% off,P068,Furniture,1,216.14,164.92,51.22,C296,West,Thursday,Autumn
+09/29/2023,1712,5002,10% off,P069,Groceries,7,322.42,212.59,109.83,C626,East,Wednesday,Autumn
+05/17/2023,1713,5001,Buy 1 Get 1,P084,Toys,7,4130,3454.15,675.85,C473,South,Saturday,Summer
+09/24/2023,1714,5005,20% off,P041,Toys,1,107.65,12.42,95.23,C689,North,Sunday,Spring
+01/07/23,1715,5002,10% off,P068,Electronics,8,3280.72,2585.36,695.36,C360,South,Saturday,Autumn
+05/09/23,1716,5002,10% off,P004,Toys,2,569.72,465.64,104.08,C059,South,Friday,Spring
+12/29/2023,1717,5002,10% off,P078,Clothing,7,2215.85,1746.71,469.14,C673,South,Monday,Summer
+05/10/23,1718,5003,30% off,P085,Electronics,8,659.2,627.44,31.76,C945,East,Sunday,Winter
+12/21/2023,1719,5001,Buy 1 Get 1,P021,Electronics,5,1158.25,804.45,353.8,C796,North,Thursday,Winter
+06/20/2023,1720,5001,Buy 1 Get 1,P034,Clothing,8,1412.64,871.28,541.36,C072,West,Tuesday,Winter
+04/02/23,1721,5002,10% off,P019,Toys,7,3468.92,3396.82,72.1,C224,North,Thursday,Autumn
+02/22/2023,1722,5002,10% off,P010,Toys,5,1922.55,1697.9,224.65,C796,West,Monday,Winter
+03/18/2023,1723,5002,10% off,P086,Furniture,5,2269.65,2176.95,92.7,C156,East,Thursday,Spring
+09/21/2023,1724,5003,30% off,P056,Furniture,2,866.72,698.78,167.94,C554,South,Monday,Winter
+12/19/2023,1725,5002,10% off,P073,Toys,6,3249,2837.16,411.84,C342,East,Thursday,Spring
+11/20/2023,1726,5001,Buy 1 Get 1,P069,Groceries,2,631.58,507.24,124.34,C862,West,Sunday,Autumn
+11/28/2023,1727,5005,20% off,P071,Electronics,7,3452.75,3050.32,402.43,C677,South,Wednesday,Winter
+02/24/2023,1728,5003,30% off,P011,Furniture,4,472.2,99.56,372.64,C144,North,Tuesday,Spring
+10/31/2023,1729,5003,30% off,P050,Electronics,9,3742.56,3130.83,611.73,C659,East,Thursday,Winter
+01/09/23,1730,5001,Buy 1 Get 1,P008,Groceries,1,181.91,115.68,66.23,C416,North,Tuesday,Winter
+12/14/2023,1731,5005,20% off,P095,Toys,4,1073.84,811.96,261.88,C948,North,Monday,Summer
+09/08/23,1732,5003,30% off,P080,Electronics,4,513.44,248.92,264.52,C719,South,Monday,Summer
+11/20/2023,1733,5001,Buy 1 Get 1,P013,Furniture,10,5054.8,4997.1,57.7,C175,North,Sunday,Spring
+02/28/2023,1734,5000,Free Shipping,P079,Clothing,2,1060.2,977.64,82.56,C824,South,Thursday,Autumn
+12/14/2023,1735,5001,Buy 1 Get 1,P016,Toys,9,4636.17,3930.03,706.14,C141,East,Sunday,Summer
+01/24/2023,1736,5005,20% off,P043,Electronics,2,723.9,575.68,148.22,C281,South,Sunday,Winter
+03/28/2023,1737,5000,Free Shipping,P022,Furniture,4,1925.92,1761.88,164.04,C948,North,Tuesday,Spring
+11/20/2023,1738,5003,30% off,P100,Clothing,1,237.34,170.25,67.09,C901,West,Monday,Spring
+01/04/23,1739,5002,10% off,P091,Toys,5,2411.55,2029.2,382.35,C427,West,Saturday,Summer
+04/16/2023,1740,5001,Buy 1 Get 1,P067,Furniture,7,3115.35,2806.51,308.84,C245,South,Friday,Spring
+11/02/23,1741,5003,30% off,P079,Electronics,5,2118.2,2053.7,64.5,C357,West,Monday,Summer
+04/09/23,1742,5000,Free Shipping,P013,Toys,6,1670.22,1660.8,9.42,C884,South,Thursday,Summer
+05/22/2023,1743,5005,20% off,P015,Clothing,8,1650.64,1352.4,298.24,C510,South,Tuesday,Spring
+01/28/2023,1744,5001,Buy 1 Get 1,P027,Furniture,5,1369.85,1020.6,349.25,C343,West,Monday,Spring
+01/27/2023,1745,5005,20% off,P021,Electronics,8,1966.48,1603.12,363.36,C528,North,Monday,Summer
+08/16/2023,1746,5000,Free Shipping,P042,Furniture,4,657.4,505.6,151.8,C766,East,Tuesday,Spring
+06/16/2023,1747,5002,10% off,P031,Furniture,4,518.44,485.44,33,C385,South,Monday,Winter
+10/27/2023,1748,5002,10% off,P056,Clothing,4,1491.36,1222.76,268.6,C951,West,Tuesday,Winter
+07/11/23,1749,5003,30% off,P093,Clothing,6,2162.64,1881.3,281.34,C999,East,Tuesday,Autumn
+03/07/23,1750,5000,Free Shipping,P008,Groceries,3,847.71,588.3,259.41,C114,West,Thursday,Winter
+03/29/2023,1751,5005,20% off,P038,Toys,3,938.37,793.05,145.32,C809,South,Friday,Summer
+02/14/2023,1752,5000,Free Shipping,P063,Clothing,10,573.4,225.6,347.8,C485,West,Wednesday,Spring
+08/08/23,1753,5005,20% off,P042,Furniture,10,2367.8,1963,404.8,C228,South,Friday,Spring
+08/02/23,1754,5002,10% off,P061,Toys,1,348.11,294.28,53.83,C436,West,Thursday,Spring
+08/20/2023,1755,5005,20% off,P011,Toys,1,384.59,307.87,76.72,C710,West,Tuesday,Summer
+07/03/23,1756,5005,20% off,P083,Electronics,1,480.45,408.36,72.09,C492,East,Tuesday,Winter
+10/20/2023,1757,5002,10% off,P059,Furniture,3,1443.06,1434.63,8.43,C896,West,Tuesday,Autumn
+11/17/2023,1758,5002,10% off,P081,Electronics,7,753.76,741.51,12.25,C915,East,Friday,Spring
+06/01/23,1759,5001,Buy 1 Get 1,P090,Toys,9,3754.53,2945.34,809.19,C590,South,Sunday,Spring
+11/14/2023,1760,5002,10% off,P066,Groceries,1,222.09,129.31,92.78,C114,West,Wednesday,Winter
+11/13/2023,1761,5001,Buy 1 Get 1,P047,Clothing,9,1197.36,355.77,841.59,C722,North,Friday,Summer
+03/12/23,1762,5005,20% off,P070,Electronics,8,1546.72,1458.4,88.32,C756,South,Sunday,Summer
+06/14/2023,1763,5001,Buy 1 Get 1,P065,Furniture,5,1372.5,1240.4,132.1,C056,North,Wednesday,Autumn
+08/20/2023,1764,5000,Free Shipping,P068,Electronics,8,1448.08,1196.72,251.36,C727,East,Thursday,Autumn
+12/11/23,1765,5005,20% off,P059,Electronics,2,915.72,806.96,108.76,C401,South,Wednesday,Spring
+02/25/2023,1766,5001,Buy 1 Get 1,P015,Clothing,8,1791.68,1300.32,491.36,C155,South,Friday,Spring
+05/31/2023,1767,5000,Free Shipping,P017,Furniture,6,2333.4,2165.46,167.94,C431,West,Saturday,Spring
+05/30/2023,1768,5002,10% off,P003,Clothing,9,2031.39,1913.76,117.63,C661,East,Thursday,Autumn
+12/02/23,1769,5003,30% off,P076,Toys,9,1504.71,888.84,615.87,C456,West,Wednesday,Summer
+06/06/23,1770,5001,Buy 1 Get 1,P030,Furniture,6,911.34,593.4,317.94,C995,East,Sunday,Spring
+03/17/2023,1771,5001,Buy 1 Get 1,P059,Clothing,10,3690.1,3574.3,115.8,C947,South,Saturday,Autumn
+04/04/23,1772,5005,20% off,P021,Clothing,2,628.76,575.96,52.8,C043,East,Friday,Summer
+08/14/2023,1773,5001,Buy 1 Get 1,P024,Clothing,9,4776.3,4336.47,439.83,C725,North,Saturday,Autumn
+06/26/2023,1774,5001,Buy 1 Get 1,P058,Toys,3,1381.23,1214.82,166.41,C547,East,Monday,Spring
+07/27/2023,1775,5005,20% off,P059,Groceries,3,284.85,93.81,191.04,C005,East,Saturday,Autumn
+08/31/2023,1776,5000,Free Shipping,P086,Clothing,10,5367.5,4761.9,605.6,C747,West,Wednesday,Spring
+09/03/23,1777,5005,20% off,P087,Toys,2,999.88,822.8,177.08,C316,North,Thursday,Summer
+08/17/2023,1778,5002,10% off,P042,Electronics,10,1437.5,1217.6,219.9,C657,South,Friday,Summer
+05/23/2023,1779,5002,10% off,P011,Toys,8,2808.56,2475.04,333.52,C694,North,Friday,Winter
+04/10/23,1780,5001,Buy 1 Get 1,P078,Toys,9,4604.67,3793.77,810.9,C967,North,Saturday,Autumn
+07/23/2023,1781,5003,30% off,P048,Furniture,6,1245.78,1099.08,146.7,C013,East,Wednesday,Autumn
+06/07/23,1782,5000,Free Shipping,P012,Clothing,8,3365.36,3139.68,225.68,C760,West,Sunday,Winter
+05/28/2023,1783,5003,30% off,P094,Furniture,3,1368.09,1239.24,128.85,C856,North,Tuesday,Summer
+06/05/23,1784,5000,Free Shipping,P043,Electronics,10,3475.6,3371,104.6,C775,West,Monday,Spring
+07/29/2023,1785,5003,30% off,P023,Toys,8,2891.36,2525.52,365.84,C728,South,Tuesday,Summer
+07/15/2023,1786,5000,Free Shipping,P063,Electronics,5,1575.35,1487.2,88.15,C855,East,Thursday,Winter
+04/25/2023,1787,5002,10% off,P020,Groceries,5,2287.45,1855.35,432.1,C979,West,Monday,Autumn
+08/02/23,1788,5003,30% off,P089,Clothing,1,126.68,116.2,10.48,C123,East,Thursday,Spring
+11/03/23,1789,5000,Free Shipping,P062,Toys,7,602.98,151.06,451.92,C890,East,Saturday,Winter
+12/22/2023,1790,5001,Buy 1 Get 1,P066,Toys,1,362.6,307.48,55.12,C866,East,Tuesday,Spring
+03/16/2023,1791,5003,30% off,P089,Clothing,6,980.1,741.9,238.2,C168,North,Wednesday,Autumn
+08/03/23,1792,5002,10% off,P038,Groceries,9,3163.23,2711.61,451.62,C655,North,Friday,Summer
+11/18/2023,1793,5002,10% off,P077,Clothing,9,4576.68,4446.09,130.59,C331,East,Sunday,Autumn
+05/19/2023,1794,5002,10% off,P069,Toys,6,2349.9,2103.72,246.18,C844,South,Monday,Summer
+09/23/2023,1795,5001,Buy 1 Get 1,P100,Furniture,7,2043.02,1538.74,504.28,C349,South,Monday,Summer
+03/21/2023,1796,5005,20% off,P025,Toys,10,4484.2,3492.9,991.3,C707,North,Thursday,Winter
+02/09/23,1797,5005,20% off,P003,Furniture,6,505.32,437.46,67.86,C320,East,Tuesday,Winter
+11/02/23,1798,5001,Buy 1 Get 1,P023,Groceries,1,423.19,364.93,58.26,C763,North,Tuesday,Summer
+12/22/2023,1799,5005,20% off,P040,Clothing,4,612.8,577.36,35.44,C134,North,Thursday,Spring
+02/09/23,1800,5003,30% off,P097,Furniture,1,141.49,51.97,89.52,C202,North,Monday,Spring
+08/29/2023,1801,5001,Buy 1 Get 1,P006,Electronics,5,685.1,520.05,165.05,C684,North,Sunday,Spring
+03/05/23,1802,5005,20% off,P076,Clothing,3,471.6,363.18,108.42,C687,East,Monday,Spring
+03/16/2023,1803,5000,Free Shipping,P045,Groceries,3,289.23,132.06,157.17,C876,South,Friday,Spring
+02/20/2023,1804,5002,10% off,P068,Clothing,4,493.48,172.52,320.96,C988,East,Tuesday,Spring
+02/20/2023,1805,5000,Free Shipping,P091,Furniture,6,1073.88,747.12,326.76,C715,South,Thursday,Spring
+04/03/23,1806,5003,30% off,P055,Clothing,9,4560.12,3971.16,588.96,C234,West,Monday,Autumn
+03/05/23,1807,5002,10% off,P067,Clothing,8,2434.08,2169.2,264.88,C781,East,Saturday,Autumn
+10/13/2023,1808,5002,10% off,P042,Furniture,2,480.9,346.34,134.56,C395,East,Thursday,Autumn
+12/18/2023,1809,5005,20% off,P071,Furniture,5,2818.25,2485.65,332.6,C876,West,Tuesday,Spring
+09/01/23,1810,5005,20% off,P002,Furniture,2,713.28,566.62,146.66,C406,West,Friday,Spring
+03/03/23,1811,5003,30% off,P052,Toys,2,489.8,475.9,13.9,C760,South,Monday,Autumn
+04/12/23,1812,5005,20% off,P077,Furniture,2,762.66,571.06,191.6,C239,West,Saturday,Winter
+05/23/2023,1813,5000,Free Shipping,P035,Furniture,6,991.26,575.4,415.86,C488,West,Thursday,Autumn
+03/17/2023,1814,5002,10% off,P016,Groceries,8,1300.08,867.68,432.4,C510,South,Saturday,Summer
+01/16/2023,1815,5002,10% off,P009,Furniture,1,102.96,57.37,45.59,C996,South,Thursday,Autumn
+03/20/2023,1816,5000,Free Shipping,P080,Electronics,2,831.86,761.04,70.82,C677,West,Sunday,Winter
+04/14/2023,1817,5003,30% off,P063,Toys,5,2077.8,1679.05,398.75,C556,East,Sunday,Spring
+01/17/2023,1818,5002,10% off,P050,Furniture,6,2931.3,2785.92,145.38,C874,West,Thursday,Winter
+01/19/2023,1819,5005,20% off,P072,Groceries,3,665.25,616.98,48.27,C504,West,Tuesday,Autumn
+07/19/2023,1820,5002,10% off,P073,Furniture,9,5301.81,4466.88,834.93,C702,West,Thursday,Summer
+09/17/2023,1821,5003,30% off,P034,Furniture,10,3589.4,2745.8,843.6,C995,West,Friday,Autumn
+05/26/2023,1822,5002,10% off,P004,Toys,1,328,265.27,62.73,C132,East,Wednesday,Spring
+11/17/2023,1823,5003,30% off,P013,Furniture,6,776.64,322.02,454.62,C366,West,Wednesday,Spring
+12/05/23,1824,5005,20% off,P031,Groceries,10,1553.6,725.8,827.8,C087,North,Sunday,Autumn
+02/28/2023,1825,5005,20% off,P003,Toys,6,2786.16,2359.14,427.02,C039,West,Saturday,Winter
+10/18/2023,1826,5003,30% off,P035,Electronics,8,469.84,221.76,248.08,C603,North,Wednesday,Winter
+10/20/2023,1827,5001,Buy 1 Get 1,P074,Electronics,8,1404.64,1111.44,293.2,C103,South,Wednesday,Winter
+09/15/2023,1828,5005,20% off,P079,Groceries,6,880.2,317.64,562.56,C993,West,Tuesday,Winter
+11/22/2023,1829,5000,Free Shipping,P028,Groceries,5,1563.05,1406.8,156.25,C049,East,Friday,Winter
+04/26/2023,1830,5002,10% off,P092,Toys,2,499.58,409.04,90.54,C607,East,Wednesday,Spring
+10/18/2023,1831,5003,30% off,P055,Clothing,6,2138.04,1825.74,312.3,C815,North,Saturday,Autumn
+09/16/2023,1832,5003,30% off,P085,Toys,6,3064.2,2763,301.2,C205,West,Thursday,Autumn
+11/16/2023,1833,5003,30% off,P086,Toys,3,1744.35,1488.48,255.87,C903,North,Saturday,Summer
+10/23/2023,1834,5005,20% off,P085,Furniture,5,1026.5,560.85,465.65,C960,West,Friday,Spring
+09/25/2023,1835,5001,Buy 1 Get 1,P060,Clothing,4,595.8,268.08,327.72,C155,East,Sunday,Winter
+07/30/2023,1836,5002,10% off,P082,Clothing,7,1991.01,1375.57,615.44,C274,East,Saturday,Summer
+05/12/23,1837,5005,20% off,P052,Clothing,2,1032.28,870.7,161.58,C154,South,Monday,Summer
+06/08/23,1838,5003,30% off,P072,Furniture,7,2997.89,2779.77,218.12,C663,North,Tuesday,Summer
+05/20/2023,1839,5002,10% off,P034,Groceries,9,814.95,446.85,368.1,C181,North,Saturday,Winter
+01/11/23,1840,5002,10% off,P041,Toys,5,824.15,475.15,349,C888,North,Thursday,Autumn
+12/10/23,1841,5003,30% off,P093,Clothing,4,1108.72,718.36,390.36,C115,North,Friday,Autumn
+09/12/23,1842,5005,20% off,P077,Electronics,6,2439.06,1944.48,494.58,C338,West,Sunday,Summer
+08/05/23,1843,5005,20% off,P014,Clothing,4,645.12,299.76,345.36,C994,East,Thursday,Winter
+05/11/23,1844,5002,10% off,P063,Toys,6,3068.22,2772.9,295.32,C717,North,Wednesday,Winter
+09/01/23,1845,5001,Buy 1 Get 1,P019,Groceries,8,3070.24,2456.48,613.76,C733,East,Sunday,Autumn
+01/11/23,1846,5002,10% off,P095,Electronics,4,585.68,382.68,203,C260,West,Wednesday,Autumn
+12/17/2023,1847,5000,Free Shipping,P031,Furniture,7,1545.81,1437.38,108.43,C009,West,Wednesday,Autumn
+02/16/2023,1848,5001,Buy 1 Get 1,P027,Clothing,8,1582.72,1520.72,62,C647,East,Sunday,Winter
+01/18/2023,1849,5002,10% off,P100,Furniture,8,296.24,181.2,115.04,C755,West,Sunday,Autumn
+08/05/23,1850,5005,20% off,P090,Groceries,9,4835.97,4337.37,498.6,C068,East,Thursday,Autumn
+08/21/2023,1851,5002,10% off,P083,Clothing,8,4216.56,3866,350.56,C811,South,Monday,Winter
+04/13/2023,1852,5001,Buy 1 Get 1,P074,Electronics,2,427.8,325.58,102.22,C162,South,Friday,Summer
+11/01/23,1853,5001,Buy 1 Get 1,P058,Furniture,3,710.46,676.08,34.38,C267,South,Saturday,Autumn
+05/25/2023,1854,5002,10% off,P054,Groceries,3,1039.17,972,67.17,C403,West,Sunday,Summer
+01/11/23,1855,5000,Free Shipping,P083,Toys,4,1515.88,1254.4,261.48,C929,North,Thursday,Summer
+05/15/2023,1856,5002,10% off,P052,Toys,7,640.92,591.43,49.49,C615,East,Tuesday,Spring
+07/08/23,1857,5000,Free Shipping,P016,Electronics,9,3951.81,3533.13,418.68,C446,West,Sunday,Winter
+03/02/23,1858,5005,20% off,P025,Groceries,5,689.95,192.5,497.45,C765,West,Thursday,Summer
+08/09/23,1859,5000,Free Shipping,P028,Groceries,4,432.48,153.24,279.24,C429,South,Thursday,Summer
+01/15/2023,1860,5001,Buy 1 Get 1,P031,Toys,8,4133.44,3936,197.44,C930,South,Wednesday,Winter
+02/13/2023,1861,5003,30% off,P018,Groceries,7,649.04,557.9,91.14,C704,South,Saturday,Winter
+12/29/2023,1862,5000,Free Shipping,P033,Electronics,2,339.2,317.2,22,C571,North,Monday,Autumn
+05/01/23,1863,5001,Buy 1 Get 1,P078,Toys,1,356.33,349.16,7.17,C006,East,Friday,Winter
+06/04/23,1864,5001,Buy 1 Get 1,P017,Toys,1,359.29,259.62,99.67,C595,South,Wednesday,Summer
+09/15/2023,1865,5001,Buy 1 Get 1,P060,Clothing,2,941.52,817.7,123.82,C325,West,Tuesday,Autumn
+03/01/23,1866,5002,10% off,P017,Furniture,5,1114.15,800.3,313.85,C766,East,Thursday,Autumn
+05/15/2023,1867,5001,Buy 1 Get 1,P067,Groceries,7,2180.01,1877.75,302.26,C915,South,Wednesday,Winter
+03/19/2023,1868,5003,30% off,P007,Clothing,3,488.46,222.15,266.31,C056,South,Tuesday,Spring
+08/29/2023,1869,5005,20% off,P091,Furniture,7,1754.62,1612.73,141.89,C119,West,Monday,Winter
+07/02/23,1870,5003,30% off,P059,Furniture,2,464.4,380.4,84,C867,South,Monday,Autumn
+02/17/2023,1871,5001,Buy 1 Get 1,P024,Clothing,9,4402.08,3739.41,662.67,C843,East,Friday,Summer
+10/26/2023,1872,5000,Free Shipping,P099,Toys,3,1167.15,1160.88,6.27,C427,North,Tuesday,Winter
+12/13/2023,1873,5001,Buy 1 Get 1,P004,Groceries,2,525.14,427.84,97.3,C404,East,Friday,Spring
+06/15/2023,1874,5002,10% off,P011,Furniture,8,368.96,155.2,213.76,C465,East,Friday,Spring
+06/18/2023,1875,5000,Free Shipping,P058,Groceries,10,3971.1,3825.4,145.7,C133,South,Sunday,Spring
+11/26/2023,1876,5001,Buy 1 Get 1,P008,Electronics,9,2651.4,2450.7,200.7,C975,West,Monday,Winter
+05/11/23,1877,5005,20% off,P099,Furniture,2,81.64,31.88,49.76,C022,South,Tuesday,Winter
+07/26/2023,1878,5005,20% off,P016,Groceries,8,4548.24,3905.44,642.8,C821,West,Saturday,Autumn
+12/17/2023,1879,5005,20% off,P046,Electronics,6,3176.94,2881.14,295.8,C525,South,Thursday,Winter
+07/18/2023,1880,5001,Buy 1 Get 1,P073,Toys,7,833.14,446.39,386.75,C093,West,Sunday,Autumn
+11/11/23,1881,5003,30% off,P081,Furniture,2,634.46,465.28,169.18,C042,East,Thursday,Summer
+11/28/2023,1882,5003,30% off,P068,Toys,2,214.8,116.12,98.68,C298,West,Thursday,Spring
+09/02/23,1883,5005,20% off,P017,Groceries,4,466.64,334.08,132.56,C536,West,Wednesday,Spring
+10/10/23,1884,5002,10% off,P066,Electronics,9,3774.87,3341.7,433.17,C436,West,Monday,Winter
+12/05/23,1885,5001,Buy 1 Get 1,P046,Groceries,10,2342.4,1941.9,400.5,C084,North,Monday,Winter
+04/02/23,1886,5003,30% off,P006,Electronics,7,2196.95,1645.91,551.04,C898,East,Wednesday,Winter
+12/10/23,1887,5000,Free Shipping,P034,Groceries,3,1628.1,1341.36,286.74,C217,South,Monday,Autumn
+12/11/23,1888,5003,30% off,P069,Electronics,1,427.81,395.58,32.23,C405,North,Monday,Summer
+12/02/23,1889,5003,30% off,P089,Furniture,10,3915.1,3471.9,443.2,C744,West,Wednesday,Autumn
+12/20/2023,1890,5001,Buy 1 Get 1,P012,Clothing,3,657.12,404.37,252.75,C015,South,Monday,Spring
+12/23/2023,1891,5002,10% off,P027,Furniture,3,357.3,86.49,270.81,C666,South,Thursday,Summer
+02/14/2023,1892,5003,30% off,P019,Furniture,7,2101.4,1652.84,448.56,C023,North,Tuesday,Summer
+12/26/2023,1893,5003,30% off,P061,Electronics,8,3381.6,2664.64,716.96,C600,South,Tuesday,Autumn
+10/19/2023,1894,5002,10% off,P043,Electronics,2,767.5,643.94,123.56,C646,West,Thursday,Winter
+10/24/2023,1895,5000,Free Shipping,P038,Electronics,8,759.84,341.28,418.56,C410,West,Friday,Winter
+04/29/2023,1896,5000,Free Shipping,P003,Furniture,10,1575.9,835.8,740.1,C324,North,Wednesday,Winter
+08/31/2023,1897,5003,30% off,P080,Groceries,8,2634.64,2087.92,546.72,C715,West,Monday,Summer
+05/28/2023,1898,5003,30% off,P045,Furniture,4,159.24,121.68,37.56,C520,South,Friday,Autumn
+11/05/23,1899,5005,20% off,P038,Furniture,7,2583.98,2527,56.98,C854,East,Sunday,Winter
+03/24/2023,1900,5005,20% off,P037,Electronics,8,376.96,359.36,17.6,C133,South,Tuesday,Summer
+11/07/23,1901,5002,10% off,P054,Furniture,5,2763.5,2393.45,370.05,C241,South,Friday,Spring
+01/10/23,1902,5001,Buy 1 Get 1,P046,Clothing,3,640.35,549.27,91.08,C848,North,Sunday,Spring
+06/22/2023,1903,5002,10% off,P080,Clothing,2,518.08,362.7,155.38,C576,South,Thursday,Autumn
+06/24/2023,1904,5002,10% off,P099,Toys,5,1767,1670.35,96.65,C918,South,Sunday,Spring
+12/28/2023,1905,5003,30% off,P059,Electronics,2,212.1,190.62,21.48,C801,North,Sunday,Spring
+09/17/2023,1906,5005,20% off,P081,Electronics,4,1640.88,1334.2,306.68,C933,East,Tuesday,Autumn
+12/29/2023,1907,5000,Free Shipping,P064,Electronics,3,428.82,419.61,9.21,C663,East,Wednesday,Summer
+03/04/23,1908,5003,30% off,P054,Electronics,4,588.32,201.04,387.28,C855,West,Wednesday,Autumn
+09/16/2023,1909,5002,10% off,P035,Groceries,7,1623.44,1083.39,540.05,C370,South,Tuesday,Winter
+04/27/2023,1910,5003,30% off,P053,Furniture,8,2839.2,2528.72,310.48,C975,East,Monday,Winter
+03/16/2023,1911,5000,Free Shipping,P009,Electronics,6,742.86,664.74,78.12,C323,West,Sunday,Summer
+08/11/23,1912,5003,30% off,P098,Electronics,3,1167.15,934.08,233.07,C925,North,Saturday,Autumn
+08/03/23,1913,5000,Free Shipping,P039,Groceries,6,2274.06,1953.06,321,C009,East,Friday,Summer
+12/25/2023,1914,5003,30% off,P083,Clothing,9,1146.96,275.04,871.92,C640,West,Saturday,Autumn
+11/29/2023,1915,5005,20% off,P039,Electronics,1,431.36,401.37,29.99,C551,East,Thursday,Summer
+09/24/2023,1916,5001,Buy 1 Get 1,P028,Electronics,9,4957.02,4411.71,545.31,C566,East,Friday,Autumn
+11/22/2023,1917,5002,10% off,P004,Toys,10,3704.5,2953.9,750.6,C265,South,Sunday,Autumn
+08/05/23,1918,5002,10% off,P094,Electronics,6,2842.56,2446.62,395.94,C266,East,Monday,Spring
+11/30/2023,1919,5003,30% off,P039,Toys,1,107.26,72.77,34.49,C465,East,Tuesday,Summer
+06/29/2023,1920,5001,Buy 1 Get 1,P086,Toys,3,1464,1394.28,69.72,C732,West,Friday,Summer
+02/23/2023,1921,5000,Free Shipping,P075,Clothing,6,1416.84,1154.16,262.68,C466,North,Tuesday,Winter
+07/30/2023,1922,5002,10% off,P008,Furniture,3,860.97,675.93,185.04,C488,South,Thursday,Spring
+07/09/23,1923,5003,30% off,P076,Toys,9,4472.46,4248.99,223.47,C798,West,Sunday,Autumn
+10/27/2023,1924,5003,30% off,P057,Furniture,7,630.63,486.78,143.85,C844,South,Tuesday,Summer
+09/06/23,1925,5005,20% off,P091,Toys,9,4585.77,4001.31,584.46,C121,South,Thursday,Winter
+01/17/2023,1926,5000,Free Shipping,P048,Electronics,10,2318.7,1500.9,817.8,C873,West,Monday,Spring
+07/09/23,1927,5001,Buy 1 Get 1,P006,Toys,3,1550.61,1296.21,254.4,C121,East,Wednesday,Autumn
+06/05/23,1928,5003,30% off,P004,Clothing,3,1458.72,1380.81,77.91,C803,West,Monday,Autumn
+05/26/2023,1929,5005,20% off,P095,Furniture,1,426.56,379.97,46.59,C126,East,Monday,Spring
+08/02/23,1930,5000,Free Shipping,P040,Toys,8,3965.6,3380.64,584.96,C922,East,Sunday,Winter
+09/01/23,1931,5005,20% off,P098,Clothing,9,4107.78,3514.14,593.64,C652,West,Sunday,Winter
+12/08/23,1932,5005,20% off,P094,Groceries,2,303.8,193.88,109.92,C820,West,Thursday,Summer
+07/22/2023,1933,5000,Free Shipping,P006,Furniture,5,2931.45,2462.45,469,C662,North,Sunday,Summer
+12/29/2023,1934,5000,Free Shipping,P081,Groceries,9,436.32,280.44,155.88,C661,North,Saturday,Spring
+04/09/23,1935,5000,Free Shipping,P074,Electronics,10,1474.2,745.5,728.7,C535,South,Sunday,Winter
+09/15/2023,1936,5002,10% off,P085,Toys,3,1298.55,1232.13,66.42,C986,North,Wednesday,Summer
+05/06/23,1937,5003,30% off,P011,Toys,10,3421,2578.7,842.3,C329,West,Friday,Spring
+09/09/23,1938,5001,Buy 1 Get 1,P056,Clothing,7,2966.25,2583.49,382.76,C025,East,Thursday,Autumn
+02/16/2023,1939,5002,10% off,P070,Clothing,5,1753,1496.35,256.65,C148,South,Wednesday,Spring
+03/20/2023,1940,5003,30% off,P087,Clothing,1,212.74,155.8,56.94,C630,East,Tuesday,Spring
+01/30/2023,1941,5003,30% off,P013,Groceries,3,1305.03,1042.65,262.38,C423,East,Wednesday,Winter
+03/03/23,1942,5005,20% off,P031,Toys,10,3981.3,3217.8,763.5,C243,West,Friday,Winter
+02/28/2023,1943,5002,10% off,P041,Furniture,9,1216.17,795.96,420.21,C417,North,Thursday,Spring
+07/28/2023,1944,5002,10% off,P035,Toys,10,399.9,145.7,254.2,C692,North,Tuesday,Summer
+06/05/23,1945,5003,30% off,P058,Electronics,9,4186.44,3293.73,892.71,C209,South,Wednesday,Summer
+05/06/23,1946,5003,30% off,P072,Furniture,1,99.35,58.6,40.75,C002,West,Sunday,Autumn
+12/01/23,1947,5002,10% off,P008,Furniture,5,2116.15,2010.15,106,C613,East,Sunday,Winter
+06/29/2023,1948,5000,Free Shipping,P066,Groceries,1,355.56,281.99,73.57,C166,North,Wednesday,Spring
+07/22/2023,1949,5005,20% off,P093,Toys,5,1657.2,1559.15,98.05,C900,West,Tuesday,Autumn
+12/16/2023,1950,5001,Buy 1 Get 1,P097,Furniture,5,1313.7,920.7,393,C252,East,Wednesday,Summer
+08/24/2023,1951,5001,Buy 1 Get 1,P003,Clothing,1,283.09,281.57,1.52,C624,West,Monday,Spring
+12/11/23,1952,5003,30% off,P072,Furniture,7,2711.73,2680.23,31.5,C552,North,Sunday,Spring
+10/03/23,1953,5003,30% off,P087,Electronics,6,2378.76,2252.46,126.3,C996,West,Sunday,Autumn
+07/18/2023,1954,5002,10% off,P016,Furniture,6,3101.34,2876.76,224.58,C959,South,Thursday,Spring
+04/24/2023,1955,5001,Buy 1 Get 1,P088,Groceries,4,743.76,680.8,62.96,C093,East,Sunday,Summer
+04/30/2023,1956,5001,Buy 1 Get 1,P005,Groceries,8,1980.32,1278,702.32,C927,South,Monday,Summer
+11/23/2023,1957,5002,10% off,P036,Toys,9,4820.94,4483.8,337.14,C506,South,Friday,Summer
+12/04/23,1958,5000,Free Shipping,P073,Clothing,2,604.62,459.64,144.98,C603,South,Saturday,Spring
+03/07/23,1959,5000,Free Shipping,P030,Toys,5,2519.75,2221.2,298.55,C197,North,Saturday,Autumn
+12/15/2023,1960,5003,30% off,P001,Furniture,1,243.7,201.85,41.85,C875,East,Thursday,Winter
+05/21/2023,1961,5000,Free Shipping,P060,Furniture,6,2113.02,2105.1,7.92,C530,North,Saturday,Summer
+01/25/2023,1962,5003,30% off,P069,Furniture,6,2098.74,1881.6,217.14,C006,West,Tuesday,Autumn
+02/11/23,1963,5002,10% off,P095,Clothing,7,2865.59,2794.12,71.47,C981,North,Tuesday,Summer
+03/26/2023,1964,5001,Buy 1 Get 1,P009,Electronics,1,346.84,298.22,48.62,C492,West,Sunday,Spring
+10/31/2023,1965,5001,Buy 1 Get 1,P032,Electronics,8,2657.28,2597.92,59.36,C245,East,Sunday,Spring
+06/20/2023,1966,5005,20% off,P010,Toys,10,3507.8,2941.9,565.9,C450,North,Saturday,Winter
+10/24/2023,1967,5002,10% off,P008,Electronics,7,2418.29,1993.04,425.25,C321,North,Sunday,Summer
+02/01/23,1968,5002,10% off,P039,Toys,7,2955.12,2390.29,564.83,C068,North,Saturday,Spring
+10/14/2023,1969,5001,Buy 1 Get 1,P049,Furniture,2,449.78,284.42,165.36,C633,West,Tuesday,Spring
+08/21/2023,1970,5003,30% off,P055,Toys,10,2627.8,2541.5,86.3,C104,East,Saturday,Spring
+08/21/2023,1971,5001,Buy 1 Get 1,P076,Clothing,2,145.56,77.38,68.18,C106,North,Friday,Spring
+10/31/2023,1972,5000,Free Shipping,P017,Toys,5,2328.3,1973,355.3,C364,West,Thursday,Winter
+04/06/23,1973,5005,20% off,P006,Electronics,3,1345.89,1189.26,156.63,C320,West,Friday,Autumn
+06/09/23,1974,5000,Free Shipping,P100,Clothing,3,723.9,677.1,46.8,C481,East,Friday,Autumn
+05/30/2023,1975,5002,10% off,P067,Toys,3,644.34,512.43,131.91,C059,South,Friday,Spring
+08/05/23,1976,5005,20% off,P026,Clothing,2,152.5,106.82,45.68,C350,South,Saturday,Winter
+12/22/2023,1977,5000,Free Shipping,P089,Groceries,10,3769.6,3031.3,738.3,C580,East,Friday,Autumn
+08/03/23,1978,5005,20% off,P014,Furniture,1,592.57,499.19,93.38,C508,South,Monday,Summer
+12/21/2023,1979,5003,30% off,P080,Clothing,4,1470.24,1299.44,170.8,C493,East,Sunday,Winter
+04/16/2023,1980,5005,20% off,P001,Groceries,1,400.51,321.73,78.78,C076,East,Monday,Spring
+03/14/2023,1981,5003,30% off,P025,Toys,6,657.36,407.88,249.48,C045,North,Tuesday,Summer
+05/26/2023,1982,5005,20% off,P034,Clothing,6,2763,2529,234,C868,South,Tuesday,Summer
+01/12/23,1983,5001,Buy 1 Get 1,P013,Electronics,3,1048.23,870.66,177.57,C389,North,Wednesday,Summer
+06/06/23,1984,5005,20% off,P048,Groceries,3,411.75,301.17,110.58,C964,West,Saturday,Spring
+03/02/23,1985,5005,20% off,P025,Clothing,9,1597.5,1565.19,32.31,C388,East,Wednesday,Winter
+11/22/2023,1986,5002,10% off,P098,Toys,10,1051.9,218.5,833.4,C194,East,Sunday,Summer
+06/17/2023,1987,5002,10% off,P081,Groceries,3,588.27,431.4,156.87,C872,West,Tuesday,Spring
+08/29/2023,1988,5002,10% off,P022,Toys,7,1753.57,1094.66,658.91,C770,East,Thursday,Winter
+04/02/23,1989,5001,Buy 1 Get 1,P068,Furniture,8,1444.8,1096.48,348.32,C486,East,Friday,Winter
+11/23/2023,1990,5002,10% off,P027,Clothing,4,2087.96,1750.56,337.4,C463,South,Thursday,Summer
+06/06/23,1991,5003,30% off,P074,Clothing,6,1089.9,607.14,482.76,C261,North,Tuesday,Spring
+06/01/23,1992,5000,Free Shipping,P046,Clothing,10,2833.2,2345.1,488.1,C043,West,Friday,Autumn
+08/07/23,1993,5003,30% off,P056,Furniture,6,506.34,452.46,53.88,C824,West,Wednesday,Autumn
+07/15/2023,1994,5005,20% off,P057,Clothing,5,2084.2,1833.45,250.75,C661,North,Wednesday,Spring
+05/31/2023,1995,5000,Free Shipping,P070,Electronics,5,1486.4,1120.3,366.1,C949,South,Monday,Spring
+02/06/23,1996,5002,10% off,P070,Clothing,6,2410.98,2310.6,100.38,C202,East,Wednesday,Autumn
+12/16/2023,1997,5005,20% off,P091,Toys,3,970.23,927.03,43.2,C876,East,Monday,Autumn
+05/25/2023,1998,5003,30% off,P052,Toys,1,444.21,378.17,66.04,C484,South,Sunday,Winter
+04/27/2023,1999,5005,20% off,P061,Clothing,9,4379.13,4308.66,70.47,C602,West,Saturday,Winter
+06/24/2023,2000,5001,Buy 1 Get 1,P025,Furniture,7,468.3,265.72,202.58,C215,West,Thursday,Spring
+07/11/23,2001,5000,Free Shipping,P017,Groceries,1,163.69,138.24,25.45,C512,East,Wednesday,Summer
+08/03/23,2002,5003,30% off,P098,Toys,5,2398.85,2270.3,128.55,C334,North,Friday,Spring
+03/13/2023,2003,5001,Buy 1 Get 1,P073,Toys,10,2194.4,1432.6,761.8,C588,West,Thursday,Summer
+07/20/2023,2004,5000,Free Shipping,P050,Clothing,8,2466.08,1842.96,623.12,C112,East,Friday,Winter
+11/24/2023,2005,5002,10% off,P022,Electronics,9,821.7,378.27,443.43,C182,North,Sunday,Winter
+01/14/2023,2006,5005,20% off,P009,Furniture,5,168.35,132.35,36,C211,South,Wednesday,Spring
+08/21/2023,2007,5001,Buy 1 Get 1,P067,Electronics,3,1406.82,1362.45,44.37,C335,West,Thursday,Summer
+02/26/2023,2008,5000,Free Shipping,P054,Furniture,2,625.18,541.78,83.4,C399,South,Tuesday,Summer
+06/08/23,2009,5003,30% off,P021,Toys,10,2702.8,1802,900.8,C962,East,Friday,Summer
+09/15/2023,2010,5001,Buy 1 Get 1,P026,Electronics,3,262.23,62.07,200.16,C457,North,Sunday,Winter
+11/06/23,2011,5000,Free Shipping,P043,Toys,8,4308.16,3856.48,451.68,C472,West,Friday,Spring
+02/16/2023,2012,5003,30% off,P045,Groceries,7,3326.47,3283.28,43.19,C628,South,Thursday,Summer
+04/02/23,2013,5003,30% off,P059,Furniture,3,725.91,645.63,80.28,C716,North,Thursday,Spring
+05/03/23,2014,5001,Buy 1 Get 1,P081,Toys,5,2331.25,1840.5,490.75,C683,North,Saturday,Summer
+09/10/23,2015,5000,Free Shipping,P016,Groceries,2,402.92,271.4,131.52,C774,North,Friday,Autumn
+07/29/2023,2016,5005,20% off,P033,Clothing,9,1476.36,963.63,512.73,C046,West,Monday,Spring
+11/24/2023,2017,5003,30% off,P044,Furniture,4,1338.24,949.32,388.92,C407,North,Monday,Autumn
+02/28/2023,2018,5001,Buy 1 Get 1,P086,Furniture,8,2750.24,2465.44,284.8,C473,North,Monday,Summer
+08/13/2023,2019,5003,30% off,P036,Clothing,3,245.64,197.73,47.91,C859,North,Friday,Spring
+04/01/23,2020,5002,10% off,P069,Furniture,3,438.78,361.23,77.55,C080,North,Saturday,Autumn
+03/20/2023,2021,5001,Buy 1 Get 1,P023,Clothing,1,483.36,426.8,56.56,C915,South,Thursday,Spring
+11/22/2023,2022,5002,10% off,P050,Groceries,8,2230.56,2131.68,98.88,C054,North,Monday,Winter
+04/14/2023,2023,5001,Buy 1 Get 1,P031,Clothing,2,1008.06,862.94,145.12,C017,West,Monday,Spring
+06/22/2023,2024,5002,10% off,P029,Electronics,3,342.72,129.48,213.24,C742,South,Monday,Winter
+09/20/2023,2025,5001,Buy 1 Get 1,P042,Toys,4,1141.68,1105.32,36.36,C640,South,Friday,Winter
+08/08/23,2026,5005,20% off,P028,Electronics,6,1701.3,1407.42,293.88,C332,South,Monday,Winter
+12/01/23,2027,5002,10% off,P050,Clothing,8,1486.8,729.84,756.96,C226,North,Saturday,Autumn
+11/29/2023,2028,5001,Buy 1 Get 1,P006,Electronics,4,1974.88,1705.96,268.92,C421,East,Sunday,Winter
+02/22/2023,2029,5000,Free Shipping,P022,Groceries,2,556.56,473.04,83.52,C615,East,Saturday,Winter
+12/14/2023,2030,5001,Buy 1 Get 1,P023,Groceries,8,3071.84,2631.84,440,C070,East,Monday,Winter
+07/15/2023,2031,5005,20% off,P065,Toys,1,92.25,40.51,51.74,C239,North,Friday,Spring
+06/08/23,2032,5003,30% off,P097,Clothing,10,4516,4051.4,464.6,C082,North,Tuesday,Autumn
+09/13/2023,2033,5005,20% off,P020,Furniture,4,457.2,141.84,315.36,C658,North,Tuesday,Winter
+06/18/2023,2034,5001,Buy 1 Get 1,P041,Electronics,9,1217.43,978.03,239.4,C811,West,Saturday,Autumn
+01/13/2023,2035,5001,Buy 1 Get 1,P044,Clothing,4,497.6,362.84,134.76,C553,North,Saturday,Summer
+12/18/2023,2036,5000,Free Shipping,P049,Toys,6,2599.38,2284.86,314.52,C188,West,Saturday,Spring
+02/03/23,2037,5002,10% off,P025,Electronics,3,594.9,331.17,263.73,C961,South,Tuesday,Spring
+03/30/2023,2038,5000,Free Shipping,P027,Clothing,9,4753.71,3969,784.71,C081,West,Saturday,Winter
+06/09/23,2039,5005,20% off,P032,Furniture,3,518.04,381.03,137.01,C621,South,Wednesday,Autumn
+10/23/2023,2040,5005,20% off,P035,Furniture,2,1140.14,985.28,154.86,C974,East,Thursday,Winter
+03/27/2023,2041,5003,30% off,P055,Toys,10,307.7,233.1,74.6,C753,West,Sunday,Summer
+09/04/23,2042,5003,30% off,P055,Electronics,5,1641.7,1186.65,455.05,C610,South,Friday,Summer
+05/12/23,2043,5003,30% off,P040,Furniture,5,1621.2,1369.8,251.4,C385,West,Monday,Autumn
+03/11/23,2044,5005,20% off,P020,Clothing,1,127.7,61.68,66.02,C014,East,Thursday,Winter
+08/01/23,2045,5001,Buy 1 Get 1,P050,Furniture,5,2257.45,2064.15,193.3,C657,North,Thursday,Spring
+03/05/23,2046,5000,Free Shipping,P021,Clothing,7,3405.71,2730.35,675.36,C981,East,Sunday,Autumn
+09/18/2023,2047,5001,Buy 1 Get 1,P090,Electronics,7,1138.62,768.95,369.67,C949,West,Saturday,Summer
+05/05/23,2048,5002,10% off,P047,Electronics,3,690.57,452.1,238.47,C268,West,Saturday,Summer
+05/11/23,2049,5000,Free Shipping,P075,Clothing,1,356.84,293.02,63.82,C120,North,Saturday,Winter
+07/23/2023,2050,5002,10% off,P067,Clothing,7,3088.26,2806.86,281.4,C170,West,Wednesday,Autumn
+09/14/2023,2051,5003,30% off,P076,Groceries,7,3585.12,3208.73,376.39,C771,North,Monday,Autumn
+03/15/2023,2052,5005,20% off,P096,Furniture,5,786.45,437,349.45,C007,South,Sunday,Winter
+01/01/23,2053,5002,10% off,P100,Furniture,9,3879.54,3588.3,291.24,C427,East,Saturday,Winter
+03/29/2023,2054,5001,Buy 1 Get 1,P024,Clothing,4,2082.92,1720.08,362.84,C499,South,Friday,Spring
+08/19/2023,2055,5005,20% off,P024,Clothing,1,244.05,145.68,98.37,C768,South,Sunday,Summer
+05/13/2023,2056,5003,30% off,P081,Toys,2,199.9,157.9,42,C890,South,Monday,Autumn
+02/13/2023,2057,5002,10% off,P036,Electronics,6,1138.62,601.62,537,C031,South,Thursday,Winter
+12/11/23,2058,5002,10% off,P008,Groceries,1,346.66,330.6,16.06,C682,North,Monday,Summer
+09/25/2023,2059,5003,30% off,P078,Toys,5,1438.35,1128.8,309.55,C955,West,Thursday,Autumn
+11/06/23,2060,5001,Buy 1 Get 1,P048,Groceries,6,835.56,305.4,530.16,C837,South,Wednesday,Winter
+07/13/2023,2061,5002,10% off,P046,Groceries,2,909.58,807.54,102.04,C004,West,Sunday,Winter
+03/13/2023,2062,5000,Free Shipping,P016,Toys,5,2631.25,2419.45,211.8,C974,South,Wednesday,Winter
+11/13/2023,2063,5000,Free Shipping,P053,Clothing,1,559.33,492.21,67.12,C654,East,Monday,Autumn
+01/24/2023,2064,5003,30% off,P030,Toys,8,2707.36,2567.92,139.44,C410,North,Wednesday,Winter
+09/01/23,2065,5003,30% off,P038,Toys,4,1941.84,1768.56,173.28,C730,South,Sunday,Spring
+03/07/23,2066,5002,10% off,P039,Toys,8,733.92,715.92,18,C173,West,Monday,Winter
+12/06/23,2067,5005,20% off,P032,Clothing,3,1012.47,852.84,159.63,C772,North,Monday,Winter
+01/15/2023,2068,5001,Buy 1 Get 1,P050,Groceries,4,1806.48,1449.92,356.56,C737,East,Saturday,Winter
+12/10/23,2069,5005,20% off,P069,Furniture,2,244.66,97.82,146.84,C815,East,Sunday,Summer
+10/22/2023,2070,5002,10% off,P083,Groceries,7,1314.53,712.81,601.72,C933,West,Saturday,Winter
+04/30/2023,2071,5001,Buy 1 Get 1,P015,Groceries,2,931.76,822.68,109.08,C115,North,Wednesday,Summer
+03/01/23,2072,5001,Buy 1 Get 1,P017,Groceries,7,2730.98,2506.14,224.84,C591,North,Wednesday,Spring
+10/30/2023,2073,5005,20% off,P050,Furniture,6,1939.26,1445.22,494.04,C790,East,Sunday,Summer
+09/24/2023,2074,5000,Free Shipping,P029,Electronics,7,1900.22,1645.28,254.94,C010,West,Wednesday,Summer
+06/01/23,2075,5003,30% off,P088,Furniture,3,1005.48,756.48,249,C616,East,Tuesday,Spring
+11/03/23,2076,5001,Buy 1 Get 1,P065,Electronics,5,962.25,871.25,91,C869,West,Saturday,Summer
+09/11/23,2077,5003,30% off,P008,Groceries,3,1324.98,1076.67,248.31,C848,South,Sunday,Summer
+12/25/2023,2078,5005,20% off,P063,Furniture,5,420.3,296.55,123.75,C835,South,Monday,Winter
+06/22/2023,2079,5003,30% off,P045,Furniture,7,805.14,556.99,248.15,C074,East,Wednesday,Summer
+12/25/2023,2080,5003,30% off,P013,Clothing,6,1834.8,1384.02,450.78,C771,North,Sunday,Autumn
+08/23/2023,2081,5000,Free Shipping,P018,Furniture,8,3132.24,2632.48,499.76,C299,South,Tuesday,Summer
+04/11/23,2082,5001,Buy 1 Get 1,P093,Toys,2,533.92,365.32,168.6,C695,South,Thursday,Winter
+12/14/2023,2083,5002,10% off,P013,Groceries,8,2710.88,1927.44,783.44,C184,North,Monday,Autumn
+10/31/2023,2084,5005,20% off,P081,Furniture,4,1336.92,1282.92,54,C035,North,Tuesday,Winter
+09/08/23,2085,5000,Free Shipping,P023,Furniture,2,749.04,682.66,66.38,C797,West,Sunday,Winter
+05/21/2023,2086,5001,Buy 1 Get 1,P002,Electronics,2,708.38,692.6,15.78,C085,North,Thursday,Summer
+01/12/23,2087,5000,Free Shipping,P074,Furniture,5,907.05,478.45,428.6,C711,North,Sunday,Summer
+07/16/2023,2088,5003,30% off,P039,Toys,3,615.57,363.96,251.61,C102,East,Monday,Summer
+07/27/2023,2089,5003,30% off,P072,Toys,9,1903.5,1321.65,581.85,C501,North,Friday,Spring
+04/17/2023,2090,5005,20% off,P077,Clothing,1,401.88,350.13,51.75,C569,West,Sunday,Autumn
+03/04/23,2091,5005,20% off,P074,Clothing,3,544.95,478.8,66.15,C090,East,Sunday,Spring
+02/13/2023,2092,5000,Free Shipping,P039,Groceries,9,516.15,236.34,279.81,C176,West,Saturday,Spring
+05/08/23,2093,5002,10% off,P067,Groceries,9,3815.46,2970.45,845.01,C456,South,Friday,Winter
+12/22/2023,2094,5000,Free Shipping,P046,Toys,9,4623.57,3932.01,691.56,C523,South,Saturday,Spring
+12/06/23,2095,5005,20% off,P005,Clothing,3,1389.51,1189.02,200.49,C307,South,Tuesday,Summer
+10/30/2023,2096,5001,Buy 1 Get 1,P017,Toys,7,1598.45,962.78,635.67,C077,East,Wednesday,Winter
+11/29/2023,2097,5003,30% off,P059,Electronics,5,1975.7,1693.3,282.4,C693,West,Saturday,Summer
+10/02/23,2098,5002,10% off,P081,Groceries,4,438.56,257.52,181.04,C732,East,Friday,Summer
+08/03/23,2099,5001,Buy 1 Get 1,P056,Furniture,1,322.17,235.58,86.59,C988,South,Monday,Autumn
+03/05/23,2100,5002,10% off,P088,Toys,7,2215.64,1945.02,270.62,C068,East,Saturday,Spring
+07/05/23,2101,5001,Buy 1 Get 1,P019,Clothing,5,2502.95,2443.15,59.8,C011,North,Thursday,Summer
+07/13/2023,2102,5002,10% off,P023,Toys,5,1111.05,1085.25,25.8,C603,West,Monday,Autumn
+12/25/2023,2103,5001,Buy 1 Get 1,P071,Groceries,10,4644.4,3725.5,918.9,C102,North,Tuesday,Autumn
+07/19/2023,2104,5001,Buy 1 Get 1,P095,Toys,9,2098.8,1324.98,773.82,C609,West,Thursday,Summer
+05/13/2023,2105,5000,Free Shipping,P092,Clothing,3,733.08,459.57,273.51,C147,West,Friday,Autumn
+01/28/2023,2106,5005,20% off,P087,Toys,7,3220.91,2656.08,564.83,C724,West,Tuesday,Winter
+07/01/23,2107,5000,Free Shipping,P037,Groceries,7,805.98,131.74,674.24,C534,South,Wednesday,Spring
+06/06/23,2108,5001,Buy 1 Get 1,P012,Electronics,2,794.48,732.14,62.34,C748,South,Monday,Summer
+10/22/2023,2109,5002,10% off,P096,Groceries,9,4007.43,3747.6,259.83,C952,West,Sunday,Spring
+08/06/23,2110,5005,20% off,P062,Furniture,9,4048.2,3938.85,109.35,C702,North,Thursday,Spring
+11/12/23,2111,5002,10% off,P092,Furniture,9,3684.06,3193.29,490.77,C768,East,Tuesday,Spring
+11/07/23,2112,5005,20% off,P087,Toys,4,329,229.2,99.8,C180,North,Wednesday,Summer
+09/21/2023,2113,5002,10% off,P055,Furniture,7,444.43,112.56,331.87,C175,East,Monday,Autumn
+12/14/2023,2114,5000,Free Shipping,P099,Electronics,5,1089.3,788.1,301.2,C307,West,Wednesday,Autumn
+04/20/2023,2115,5000,Free Shipping,P051,Clothing,5,931.7,778.25,153.45,C952,North,Thursday,Winter
+01/30/2023,2116,5002,10% off,P079,Furniture,6,2279.58,2244.96,34.62,C306,East,Monday,Spring
+06/29/2023,2117,5003,30% off,P046,Electronics,2,1075.58,904.84,170.74,C442,West,Tuesday,Spring
+09/28/2023,2118,5005,20% off,P053,Electronics,8,3175.6,2697.76,477.84,C008,South,Sunday,Autumn
+04/26/2023,2119,5003,30% off,P048,Groceries,6,2799.48,2683.38,116.1,C439,South,Friday,Autumn
+02/25/2023,2120,5003,30% off,P021,Clothing,6,440.4,292.14,148.26,C766,West,Monday,Autumn
+12/30/2023,2121,5002,10% off,P025,Groceries,1,403.77,399.34,4.43,C137,West,Thursday,Autumn
+01/17/2023,2122,5005,20% off,P062,Groceries,2,790.26,591.16,199.1,C432,West,Friday,Winter
+12/16/2023,2123,5001,Buy 1 Get 1,P097,Furniture,9,4337.19,3863.61,473.58,C744,West,Tuesday,Spring
+02/25/2023,2124,5005,20% off,P020,Groceries,9,1120.41,370.62,749.79,C014,South,Monday,Autumn
+08/08/23,2125,5002,10% off,P056,Furniture,5,1579.4,1517.5,61.9,C289,West,Monday,Winter
+05/07/23,2126,5005,20% off,P094,Toys,3,441.12,167.97,273.15,C256,East,Sunday,Spring
+05/15/2023,2127,5003,30% off,P026,Furniture,2,842.02,675.82,166.2,C718,South,Tuesday,Summer
+04/28/2023,2128,5005,20% off,P052,Electronics,5,2491.55,2203.5,288.05,C197,South,Thursday,Spring
+11/12/23,2129,5002,10% off,P007,Furniture,7,2150.12,1844.85,305.27,C538,East,Saturday,Summer
+04/24/2023,2130,5003,30% off,P062,Electronics,9,1883.97,1487.7,396.27,C438,North,Wednesday,Spring
+05/18/2023,2131,5001,Buy 1 Get 1,P045,Furniture,4,1799.16,1556.8,242.36,C328,North,Tuesday,Spring
+01/01/23,2132,5001,Buy 1 Get 1,P028,Groceries,8,3937.84,3578.72,359.12,C287,North,Thursday,Summer
+05/10/23,2133,5001,Buy 1 Get 1,P043,Groceries,2,741.94,614.94,127,C100,North,Saturday,Summer
+06/19/2023,2134,5001,Buy 1 Get 1,P096,Toys,9,3334.41,2699.37,635.04,C620,East,Tuesday,Autumn
+04/18/2023,2135,5003,30% off,P012,Electronics,3,534.18,379.02,155.16,C645,North,Monday,Summer
+04/09/23,2136,5002,10% off,P010,Toys,10,1001.4,610.7,390.7,C352,East,Saturday,Winter
+04/14/2023,2137,5005,20% off,P006,Clothing,4,1258.12,995.84,262.28,C429,East,Sunday,Autumn
+07/07/23,2138,5002,10% off,P056,Electronics,8,4289.76,3806.08,483.68,C430,North,Tuesday,Autumn
+12/23/2023,2139,5001,Buy 1 Get 1,P006,Toys,1,425.48,374.36,51.12,C814,South,Saturday,Winter
+09/11/23,2140,5000,Free Shipping,P010,Clothing,8,2629.84,2565.68,64.16,C769,West,Friday,Winter
+07/25/2023,2141,5001,Buy 1 Get 1,P027,Clothing,1,171.47,134.65,36.82,C164,South,Friday,Spring
+09/20/2023,2142,5000,Free Shipping,P091,Toys,5,1235.2,1207.6,27.6,C311,South,Wednesday,Autumn
+10/10/23,2143,5005,20% off,P029,Electronics,9,963.09,707.49,255.6,C244,East,Monday,Summer
+05/23/2023,2144,5001,Buy 1 Get 1,P007,Clothing,4,2079.4,1944.2,135.2,C548,North,Monday,Autumn
+11/20/2023,2145,5001,Buy 1 Get 1,P042,Electronics,9,2399.49,2215.8,183.69,C271,South,Thursday,Autumn
+06/16/2023,2146,5002,10% off,P046,Clothing,5,1690.35,1546.4,143.95,C181,East,Monday,Spring
+12/19/2023,2147,5001,Buy 1 Get 1,P081,Toys,9,1472.13,1002.87,469.26,C212,West,Tuesday,Autumn
+05/18/2023,2148,5000,Free Shipping,P081,Furniture,3,43.38,38.1,5.28,C457,South,Saturday,Winter
+07/08/23,2149,5003,30% off,P012,Furniture,3,365.94,352.02,13.92,C471,South,Sunday,Summer
+04/07/23,2150,5003,30% off,P094,Clothing,5,487.4,314.65,172.75,C022,East,Tuesday,Summer
+07/21/2023,2151,5005,20% off,P009,Clothing,2,921.8,806.54,115.26,C437,South,Thursday,Winter
+02/21/2023,2152,5005,20% off,P094,Electronics,10,2912.7,2612.1,300.6,C103,West,Thursday,Spring
+02/26/2023,2153,5002,10% off,P017,Clothing,2,1013.72,933.12,80.6,C275,South,Saturday,Spring
+01/05/23,2154,5000,Free Shipping,P095,Groceries,2,229.54,105.36,124.18,C208,South,Thursday,Winter
+03/25/2023,2155,5001,Buy 1 Get 1,P062,Clothing,4,403.84,263.12,140.72,C058,East,Saturday,Spring
+01/11/23,2156,5002,10% off,P070,Groceries,2,692.36,517.26,175.1,C524,West,Tuesday,Spring
+04/25/2023,2157,5005,20% off,P055,Furniture,3,967.08,755.52,211.56,C362,East,Tuesday,Winter
+12/18/2023,2158,5003,30% off,P022,Electronics,4,2042,1985.92,56.08,C105,East,Wednesday,Spring
+11/12/23,2159,5002,10% off,P047,Electronics,1,184.68,144.62,40.06,C620,South,Tuesday,Winter
+09/29/2023,2160,5000,Free Shipping,P024,Furniture,3,775.17,650.1,125.07,C915,East,Friday,Autumn
+06/28/2023,2161,5001,Buy 1 Get 1,P064,Groceries,5,2632.1,2273.65,358.45,C831,North,Sunday,Spring
+03/18/2023,2162,5001,Buy 1 Get 1,P019,Furniture,8,2716,2462.96,253.04,C739,West,Sunday,Spring
+02/27/2023,2163,5003,30% off,P094,Groceries,3,1527.63,1240.98,286.65,C093,East,Tuesday,Summer
+07/17/2023,2164,5001,Buy 1 Get 1,P064,Furniture,8,3308.32,3299.12,9.2,C711,West,Friday,Autumn
+03/12/23,2165,5003,30% off,P054,Toys,8,2623.2,2574.72,48.48,C552,West,Friday,Summer
+07/16/2023,2166,5000,Free Shipping,P092,Furniture,9,1288.08,1226.07,62.01,C592,South,Saturday,Spring
+05/01/23,2167,5002,10% off,P027,Electronics,6,2248.98,1835.16,413.82,C572,West,Tuesday,Spring
+01/31/2023,2168,5001,Buy 1 Get 1,P100,Clothing,5,525.5,330.5,195,C472,South,Sunday,Winter
+05/05/23,2169,5005,20% off,P008,Clothing,2,542.2,467.12,75.08,C986,South,Thursday,Spring
+12/23/2023,2170,5001,Buy 1 Get 1,P007,Electronics,10,1117.8,693,424.8,C076,West,Sunday,Summer
+01/16/2023,2171,5001,Buy 1 Get 1,P019,Electronics,4,1544.44,1512.32,32.12,C079,North,Friday,Winter
+03/18/2023,2172,5003,30% off,P096,Clothing,9,768.69,443.61,325.08,C716,East,Thursday,Winter
+06/22/2023,2173,5002,10% off,P037,Electronics,3,1615.92,1414.35,201.57,C062,North,Friday,Summer
+09/15/2023,2174,5002,10% off,P051,Furniture,8,3035.04,2740.4,294.64,C568,East,Friday,Autumn
+12/30/2023,2175,5003,30% off,P021,Groceries,2,605.78,601.78,4,C535,West,Tuesday,Summer
+07/25/2023,2176,5002,10% off,P029,Furniture,3,1239.33,965.07,274.26,C843,North,Sunday,Winter
+09/02/23,2177,5003,30% off,P049,Clothing,1,397.66,310.16,87.5,C823,East,Saturday,Winter
+04/10/23,2178,5002,10% off,P014,Electronics,6,2266.14,2188.5,77.64,C618,East,Monday,Summer
+05/25/2023,2179,5000,Free Shipping,P014,Electronics,4,1839.12,1808.8,30.32,C612,North,Sunday,Autumn
+04/07/23,2180,5005,20% off,P082,Electronics,4,1146.84,1086.56,60.28,C276,North,Friday,Spring
+10/16/2023,2181,5002,10% off,P007,Groceries,2,117.04,31.48,85.56,C967,East,Monday,Autumn
+05/25/2023,2182,5000,Free Shipping,P025,Groceries,7,1425.76,1081.99,343.77,C744,East,Tuesday,Spring
+06/19/2023,2183,5000,Free Shipping,P013,Toys,3,894.48,878.49,15.99,C025,West,Thursday,Spring
+05/29/2023,2184,5005,20% off,P088,Furniture,2,253.16,140.54,112.62,C907,North,Saturday,Summer
+04/21/2023,2185,5005,20% off,P065,Toys,10,2513.4,1781.5,731.9,C668,East,Thursday,Summer
+06/23/2023,2186,5001,Buy 1 Get 1,P080,Furniture,1,414.33,329.62,84.71,C913,West,Tuesday,Summer
+11/09/23,2187,5002,10% off,P020,Toys,8,3143.04,2794.56,348.48,C100,North,Tuesday,Autumn
+10/08/23,2188,5003,30% off,P013,Furniture,6,2208.06,2038.5,169.56,C174,East,Tuesday,Spring
+05/24/2023,2189,5001,Buy 1 Get 1,P046,Electronics,2,478.4,320.18,158.22,C184,West,Wednesday,Winter
+05/12/23,2190,5005,20% off,P016,Toys,8,2470.32,1830,640.32,C041,East,Sunday,Autumn
+07/25/2023,2191,5000,Free Shipping,P088,Clothing,8,3991.12,3303.92,687.2,C376,East,Wednesday,Spring
+12/16/2023,2192,5000,Free Shipping,P058,Groceries,1,502.82,459.15,43.67,C636,North,Saturday,Summer
+12/25/2023,2193,5002,10% off,P020,Electronics,5,1124.4,831.2,293.2,C385,South,Friday,Winter
+02/07/23,2194,5003,30% off,P060,Electronics,6,1514.28,1151.22,363.06,C478,West,Saturday,Winter
+02/25/2023,2195,5005,20% off,P094,Electronics,7,2974.23,2490.18,484.05,C787,West,Tuesday,Winter
+06/18/2023,2196,5001,Buy 1 Get 1,P044,Toys,8,1688.4,1548.24,140.16,C218,West,Monday,Autumn
+08/21/2023,2197,5000,Free Shipping,P020,Furniture,3,708.24,662.88,45.36,C656,South,Wednesday,Spring
+11/04/23,2198,5002,10% off,P047,Furniture,8,3851.12,3569.2,281.92,C219,North,Tuesday,Spring
+12/17/2023,2199,5001,Buy 1 Get 1,P033,Clothing,2,178.42,171.38,7.04,C146,North,Wednesday,Winter
+02/11/23,2200,5003,30% off,P054,Toys,4,1562,1305.8,256.2,C686,East,Tuesday,Spring
+02/17/2023,2201,5001,Buy 1 Get 1,P097,Groceries,3,555,530.7,24.3,C204,East,Thursday,Winter
+09/01/23,2202,5005,20% off,P090,Furniture,6,1455.18,1264.32,190.86,C935,West,Sunday,Spring
+10/15/2023,2203,5005,20% off,P010,Toys,10,4027.6,3417.9,609.7,C149,East,Saturday,Autumn
+01/08/23,2204,5003,30% off,P019,Furniture,6,1267.32,1131.9,135.42,C117,West,Wednesday,Spring
+08/19/2023,2205,5003,30% off,P082,Toys,2,1080.18,988.28,91.9,C038,South,Saturday,Summer
+08/04/23,2206,5005,20% off,P077,Furniture,4,1448.64,1389,59.64,C357,South,Tuesday,Spring
+07/09/23,2207,5002,10% off,P039,Groceries,9,2265.03,2231.46,33.57,C839,North,Saturday,Winter
+11/29/2023,2208,5003,30% off,P053,Groceries,6,2124.66,1546.02,578.64,C849,West,Friday,Autumn
+02/28/2023,2209,5003,30% off,P055,Groceries,3,609.36,594.78,14.58,C567,South,Friday,Winter
+07/15/2023,2210,5003,30% off,P082,Groceries,10,645.8,251.7,394.1,C961,North,Monday,Spring
+02/15/2023,2211,5000,Free Shipping,P053,Electronics,8,733.76,707.28,26.48,C768,North,Saturday,Winter
+09/15/2023,2212,5002,10% off,P086,Groceries,7,2988.51,2663.78,324.73,C217,South,Sunday,Winter
+10/10/23,2213,5002,10% off,P026,Furniture,2,483.68,303.46,180.22,C360,West,Thursday,Winter
+01/04/23,2214,5005,20% off,P065,Groceries,5,812.75,334.55,478.2,C901,East,Wednesday,Winter
+12/11/23,2215,5002,10% off,P054,Electronics,1,252.79,163.84,88.95,C027,South,Sunday,Autumn
+09/23/2023,2216,5001,Buy 1 Get 1,P043,Clothing,10,3882.8,3054.4,828.4,C441,South,Friday,Winter
+04/09/23,2217,5003,30% off,P007,Toys,7,3652.04,3445.19,206.85,C132,West,Saturday,Summer
+07/26/2023,2218,5000,Free Shipping,P021,Furniture,4,2082.08,1923.84,158.24,C102,South,Friday,Spring
+11/20/2023,2219,5003,30% off,P098,Groceries,9,2102.4,1790.1,312.3,C163,East,Tuesday,Spring
+02/17/2023,2220,5003,30% off,P002,Toys,3,874.65,825.87,48.78,C029,North,Friday,Winter
+01/13/2023,2221,5003,30% off,P082,Groceries,3,1007.85,843.96,163.89,C246,South,Wednesday,Summer
+10/02/23,2222,5003,30% off,P099,Groceries,1,466.86,383.33,83.53,C282,North,Tuesday,Spring
+11/23/2023,2223,5002,10% off,P015,Furniture,10,2567.5,2258.2,309.3,C126,North,Tuesday,Autumn
+05/15/2023,2224,5002,10% off,P010,Furniture,6,944.04,822.42,121.62,C935,South,Thursday,Spring
+09/09/23,2225,5003,30% off,P010,Furniture,2,146.3,76.5,69.8,C216,West,Thursday,Autumn
+11/21/2023,2226,5005,20% off,P024,Groceries,1,239.1,142.42,96.68,C926,South,Saturday,Spring
+03/02/23,2227,5001,Buy 1 Get 1,P062,Toys,10,3186.6,2832.8,353.8,C560,North,Tuesday,Autumn
+03/04/23,2228,5000,Free Shipping,P004,Toys,1,309.21,294.43,14.78,C531,South,Tuesday,Autumn
+02/28/2023,2229,5002,10% off,P042,Clothing,4,1162.32,910.32,252,C086,South,Wednesday,Autumn
+09/04/23,2230,5002,10% off,P045,Toys,5,1451.7,1247.8,203.9,C479,West,Thursday,Winter
+04/09/23,2231,5005,20% off,P026,Groceries,7,4095.98,3478.93,617.05,C106,East,Tuesday,Summer
+09/07/23,2232,5003,30% off,P055,Toys,5,1864.2,1577.35,286.85,C836,East,Friday,Spring
+11/07/23,2233,5003,30% off,P026,Toys,6,2010.3,1884.72,125.58,C383,North,Thursday,Summer
+01/18/2023,2234,5001,Buy 1 Get 1,P076,Furniture,5,1042.65,1018.1,24.55,C619,East,Thursday,Spring
+02/28/2023,2235,5001,Buy 1 Get 1,P055,Clothing,6,1786.68,1458.12,328.56,C252,North,Tuesday,Autumn
+07/10/23,2236,5001,Buy 1 Get 1,P016,Electronics,6,1308.24,729.6,578.64,C705,North,Saturday,Autumn
+04/20/2023,2237,5000,Free Shipping,P042,Clothing,9,4753.08,4100.67,652.41,C068,West,Wednesday,Summer
+09/27/2023,2238,5002,10% off,P072,Groceries,10,3584.9,2713.6,871.3,C969,North,Friday,Winter
+12/16/2023,2239,5001,Buy 1 Get 1,P041,Clothing,4,613.12,296.08,317.04,C051,West,Thursday,Spring
+05/21/2023,2240,5002,10% off,P016,Furniture,3,452.37,213.48,238.89,C616,East,Friday,Winter
+05/02/23,2241,5002,10% off,P037,Electronics,10,2329.6,1451.3,878.3,C005,West,Wednesday,Summer
+07/26/2023,2242,5000,Free Shipping,P068,Electronics,6,2929.86,2835.48,94.38,C661,North,Monday,Winter
+02/18/2023,2243,5001,Buy 1 Get 1,P036,Groceries,6,2008.98,1420.26,588.72,C410,North,Friday,Autumn
+09/10/23,2244,5002,10% off,P051,Groceries,8,2666.88,1974.96,691.92,C506,North,Sunday,Autumn
+11/13/2023,2245,5002,10% off,P029,Electronics,1,336.64,298.48,38.16,C143,North,Wednesday,Winter
+04/26/2023,2246,5002,10% off,P025,Groceries,9,1540.35,1350.27,190.08,C006,North,Wednesday,Spring
+02/26/2023,2247,5001,Buy 1 Get 1,P010,Groceries,6,2535.3,2299.68,235.62,C705,West,Wednesday,Summer
+03/12/23,2248,5003,30% off,P016,Clothing,6,1861.56,1563.12,298.44,C883,South,Sunday,Winter
+11/23/2023,2249,5002,10% off,P067,Toys,4,1518.24,1171.48,346.76,C592,West,Saturday,Winter
+05/24/2023,2250,5003,30% off,P029,Electronics,5,2659.55,2452.8,206.75,C785,East,Saturday,Spring
+06/30/2023,2251,5005,20% off,P085,Clothing,2,984.34,830.96,153.38,C077,West,Monday,Summer
+01/07/23,2252,5003,30% off,P050,Clothing,8,3093.44,2328.24,765.2,C108,East,Tuesday,Autumn
+06/09/23,2253,5005,20% off,P065,Electronics,3,360.15,324.69,35.46,C225,East,Thursday,Winter
+11/14/2023,2254,5005,20% off,P100,Furniture,4,1891.68,1713.76,177.92,C071,East,Thursday,Summer
+12/18/2023,2255,5000,Free Shipping,P083,Electronics,3,1543.29,1275.03,268.26,C473,North,Saturday,Spring
+05/04/23,2256,5003,30% off,P024,Groceries,1,129.06,40.6,88.46,C488,West,Wednesday,Autumn
+03/02/23,2257,5002,10% off,P046,Furniture,4,1124.84,918.72,206.12,C155,West,Friday,Winter
+09/18/2023,2258,5002,10% off,P057,Groceries,6,2458.44,1902.18,556.26,C101,North,Saturday,Winter
+08/05/23,2259,5001,Buy 1 Get 1,P025,Furniture,3,202.74,58.11,144.63,C609,East,Friday,Winter
+09/23/2023,2260,5002,10% off,P088,Electronics,4,1678.12,1387.92,290.2,C982,North,Tuesday,Spring
+01/28/2023,2261,5000,Free Shipping,P035,Clothing,2,727.3,698.68,28.62,C545,North,Wednesday,Summer
+11/14/2023,2262,5003,30% off,P051,Electronics,4,772.84,626.8,146.04,C752,East,Thursday,Summer
+03/29/2023,2263,5001,Buy 1 Get 1,P082,Groceries,10,4327.7,4041.7,286,C295,North,Monday,Summer
+09/15/2023,2264,5003,30% off,P095,Groceries,4,836.16,453,383.16,C175,East,Saturday,Spring
+03/27/2023,2265,5001,Buy 1 Get 1,P059,Clothing,1,114.12,14.34,99.78,C683,West,Thursday,Autumn
+01/11/23,2266,5001,Buy 1 Get 1,P010,Clothing,1,424.66,341.64,83.02,C609,East,Thursday,Spring
+09/08/23,2267,5003,30% off,P015,Electronics,1,156.78,154.36,2.42,C581,East,Sunday,Summer
+09/26/2023,2268,5005,20% off,P097,Clothing,2,910.28,743.12,167.16,C103,East,Sunday,Autumn
+08/20/2023,2269,5001,Buy 1 Get 1,P070,Groceries,8,3103.76,2982.64,121.12,C260,East,Thursday,Spring
+06/30/2023,2270,5001,Buy 1 Get 1,P067,Toys,8,3650.4,3033.44,616.96,C116,East,Saturday,Spring
+03/17/2023,2271,5005,20% off,P085,Clothing,6,2457.18,1996.08,461.1,C510,North,Tuesday,Winter
+07/04/23,2272,5002,10% off,P025,Furniture,2,972.5,849,123.5,C989,East,Saturday,Winter
+09/27/2023,2273,5001,Buy 1 Get 1,P087,Groceries,6,616.2,320.52,295.68,C401,West,Wednesday,Autumn
+04/08/23,2274,5000,Free Shipping,P067,Groceries,10,894,480.5,413.5,C126,West,Sunday,Winter
+10/18/2023,2275,5001,Buy 1 Get 1,P015,Electronics,8,1736.08,1675.84,60.24,C950,South,Thursday,Summer
+09/25/2023,2276,5000,Free Shipping,P072,Clothing,5,964.55,904.6,59.95,C499,East,Monday,Autumn
+01/08/23,2277,5002,10% off,P028,Groceries,10,5008.6,4060.4,948.2,C127,North,Thursday,Autumn
+01/03/23,2278,5001,Buy 1 Get 1,P085,Electronics,1,141,45.44,95.56,C258,South,Wednesday,Autumn
+09/15/2023,2279,5005,20% off,P012,Groceries,3,890.16,798.18,91.98,C751,South,Thursday,Spring
+05/29/2023,2280,5002,10% off,P061,Groceries,4,392.88,190.64,202.24,C832,West,Thursday,Winter
+02/20/2023,2281,5001,Buy 1 Get 1,P077,Groceries,3,1410.93,1197.93,213,C578,West,Saturday,Autumn
+10/24/2023,2282,5005,20% off,P033,Clothing,7,299.81,242.27,57.54,C568,South,Wednesday,Autumn
+02/13/2023,2283,5000,Free Shipping,P081,Furniture,9,2138.76,1866.69,272.07,C188,West,Sunday,Winter
+02/19/2023,2284,5000,Free Shipping,P057,Groceries,9,1374.21,1114.83,259.38,C958,East,Thursday,Autumn
+08/07/23,2285,5003,30% off,P053,Furniture,1,496.7,403.71,92.99,C935,North,Sunday,Winter
+02/15/2023,2286,5000,Free Shipping,P039,Clothing,10,2992,2085,907,C525,East,Tuesday,Autumn
+01/28/2023,2287,5005,20% off,P052,Electronics,8,1725.6,1340.24,385.36,C827,West,Sunday,Spring
+02/13/2023,2288,5001,Buy 1 Get 1,P084,Electronics,6,1110.96,724.5,386.46,C609,North,Sunday,Autumn
+10/17/2023,2289,5001,Buy 1 Get 1,P008,Electronics,10,5504.5,4897,607.5,C691,North,Saturday,Summer
+09/22/2023,2290,5000,Free Shipping,P095,Furniture,3,751.38,555.99,195.39,C229,South,Wednesday,Autumn
+01/04/23,2291,5000,Free Shipping,P089,Clothing,2,318.42,140.46,177.96,C069,North,Tuesday,Spring
+09/24/2023,2292,5005,20% off,P027,Electronics,8,2416,2052.08,363.92,C026,West,Thursday,Spring
+03/04/23,2293,5003,30% off,P062,Clothing,4,1439.68,1188.28,251.4,C862,East,Sunday,Winter
+12/03/23,2294,5002,10% off,P056,Clothing,1,113.75,45.17,68.58,C190,South,Sunday,Summer
+03/29/2023,2295,5000,Free Shipping,P026,Furniture,8,1601.84,1028.4,573.44,C297,East,Saturday,Spring
+10/29/2023,2296,5001,Buy 1 Get 1,P086,Groceries,7,3455.41,2891.28,564.13,C396,North,Thursday,Winter
+08/06/23,2297,5002,10% off,P037,Furniture,2,666.46,561.46,105,C578,West,Monday,Autumn
+01/18/2023,2298,5003,30% off,P006,Groceries,3,473.31,240.03,233.28,C480,West,Wednesday,Spring
+03/23/2023,2299,5000,Free Shipping,P065,Clothing,6,1158.96,857.94,301.02,C925,West,Friday,Spring
+03/31/2023,2300,5001,Buy 1 Get 1,P084,Toys,6,981.24,895.74,85.5,C471,South,Wednesday,Autumn
+07/21/2023,2301,5003,30% off,P049,Furniture,10,3248.6,3184.8,63.8,C675,South,Friday,Autumn
+03/08/23,2302,5000,Free Shipping,P075,Groceries,10,4092.8,3768.4,324.4,C633,West,Monday,Spring
+01/16/2023,2303,5005,20% off,P013,Electronics,8,493.36,80.56,412.8,C957,West,Wednesday,Summer
+05/02/23,2304,5005,20% off,P094,Furniture,7,429.1,230.72,198.38,C945,North,Monday,Autumn
+02/28/2023,2305,5002,10% off,P057,Groceries,10,3636.3,3564.2,72.1,C647,North,Tuesday,Autumn
+02/25/2023,2306,5003,30% off,P018,Toys,9,3803.94,3791.52,12.42,C205,South,Wednesday,Winter
+08/13/2023,2307,5005,20% off,P026,Clothing,7,1437.03,916.58,520.45,C834,South,Monday,Spring
+11/19/2023,2308,5005,20% off,P005,Clothing,1,176.06,164.97,11.09,C369,West,Friday,Spring
+06/24/2023,2309,5000,Free Shipping,P064,Clothing,4,857.12,746.04,111.08,C585,West,Friday,Autumn
+07/02/23,2310,5000,Free Shipping,P018,Electronics,8,3639.6,3383.44,256.16,C438,West,Sunday,Spring
+10/19/2023,2311,5005,20% off,P067,Groceries,2,971.76,793.16,178.6,C121,West,Tuesday,Spring
+11/04/23,2312,5001,Buy 1 Get 1,P003,Clothing,5,1568.25,1112.85,455.4,C945,East,Thursday,Autumn
+02/04/23,2313,5001,Buy 1 Get 1,P010,Toys,10,2913.3,1948.9,964.4,C248,East,Thursday,Spring
+10/07/23,2314,5000,Free Shipping,P061,Groceries,1,122.76,53.75,69.01,C034,East,Thursday,Autumn
+04/13/2023,2315,5002,10% off,P018,Clothing,9,2622.15,2267.73,354.42,C837,East,Sunday,Spring
+05/01/23,2316,5002,10% off,P073,Toys,1,390.71,320.03,70.68,C355,North,Thursday,Spring
+10/10/23,2317,5005,20% off,P035,Electronics,2,59.34,24.28,35.06,C037,West,Friday,Summer
+11/29/2023,2318,5003,30% off,P062,Groceries,4,1705.44,1437.56,267.88,C022,North,Monday,Summer
+10/01/23,2319,5003,30% off,P088,Electronics,9,5037.3,4350.24,687.06,C494,North,Thursday,Winter
+12/23/2023,2320,5003,30% off,P090,Furniture,9,4917.87,4282.92,634.95,C142,North,Thursday,Spring
+11/12/23,2321,5001,Buy 1 Get 1,P025,Groceries,7,1172.36,1092.35,80.01,C941,North,Tuesday,Summer
+02/17/2023,2322,5002,10% off,P030,Furniture,9,4120.74,3537.81,582.93,C582,North,Sunday,Spring
+05/08/23,2323,5002,10% off,P008,Clothing,8,562,268.88,293.12,C185,East,Monday,Autumn
+06/29/2023,2324,5005,20% off,P038,Clothing,10,5293.7,4788.3,505.4,C408,West,Saturday,Spring
+12/03/23,2325,5002,10% off,P033,Toys,4,1073.4,888.16,185.24,C507,East,Sunday,Summer
+08/16/2023,2326,5001,Buy 1 Get 1,P100,Toys,5,749.25,561.75,187.5,C890,South,Friday,Autumn
+06/13/2023,2327,5000,Free Shipping,P014,Electronics,6,1184.34,1147.26,37.08,C923,West,Saturday,Winter
+05/24/2023,2328,5005,20% off,P018,Toys,4,1713.36,1544.44,168.92,C313,South,Monday,Autumn
+03/14/2023,2329,5005,20% off,P090,Furniture,8,3984.4,3302.96,681.44,C976,North,Monday,Winter
+01/18/2023,2330,5001,Buy 1 Get 1,P076,Furniture,5,899.8,569.4,330.4,C848,North,Monday,Autumn
+11/09/23,2331,5003,30% off,P003,Furniture,7,2306.92,1689.94,616.98,C455,North,Tuesday,Summer
+07/14/2023,2332,5003,30% off,P069,Electronics,5,919.05,578.55,340.5,C033,East,Monday,Autumn
+05/15/2023,2333,5005,20% off,P097,Electronics,6,2028.18,1846.8,181.38,C744,West,Sunday,Winter
+01/30/2023,2334,5000,Free Shipping,P050,Groceries,9,1281.96,692.37,589.59,C475,West,Friday,Autumn
+03/25/2023,2335,5003,30% off,P096,Clothing,3,1212.48,1115.73,96.75,C930,North,Wednesday,Autumn
+02/13/2023,2336,5000,Free Shipping,P038,Groceries,10,3660.9,3259.7,401.2,C405,North,Friday,Autumn
+07/05/23,2337,5001,Buy 1 Get 1,P084,Toys,1,380.19,359.47,20.72,C128,East,Friday,Autumn
+05/16/2023,2338,5003,30% off,P060,Electronics,8,3805.28,3569.68,235.6,C010,West,Monday,Autumn
+09/03/23,2339,5005,20% off,P053,Electronics,10,1969.7,1902.2,67.5,C962,North,Wednesday,Autumn
+02/02/23,2340,5005,20% off,P034,Groceries,5,583.55,323.2,260.35,C890,West,Tuesday,Summer
+11/19/2023,2341,5005,20% off,P080,Electronics,4,899.32,564.48,334.84,C118,North,Tuesday,Winter
+10/24/2023,2342,5002,10% off,P071,Clothing,1,55.73,17.2,38.53,C975,East,Wednesday,Spring
+12/14/2023,2343,5000,Free Shipping,P092,Electronics,10,1782.1,1753,29.1,C241,East,Monday,Spring
+09/17/2023,2344,5002,10% off,P066,Electronics,4,451.56,283.76,167.8,C209,East,Friday,Autumn
+12/15/2023,2345,5002,10% off,P083,Furniture,5,1462.6,1257.5,205.1,C147,North,Wednesday,Autumn
+06/21/2023,2346,5001,Buy 1 Get 1,P061,Groceries,10,3300.8,2701.6,599.2,C032,South,Wednesday,Spring
+05/29/2023,2347,5000,Free Shipping,P004,Electronics,10,618.1,148.6,469.5,C217,East,Friday,Autumn
+04/21/2023,2348,5000,Free Shipping,P005,Clothing,7,3741.43,3374.77,366.66,C781,North,Monday,Summer
+10/17/2023,2349,5000,Free Shipping,P081,Toys,7,2617.09,2394,223.09,C552,North,Sunday,Spring
+11/07/23,2350,5000,Free Shipping,P067,Furniture,6,2800.68,2335.56,465.12,C276,South,Sunday,Autumn
+05/05/23,2351,5005,20% off,P099,Groceries,4,1452.28,1061.76,390.52,C467,East,Saturday,Spring
+12/21/2023,2352,5003,30% off,P094,Furniture,6,445.2,429.12,16.08,C082,East,Friday,Spring
+07/05/23,2353,5000,Free Shipping,P030,Furniture,7,3278.03,2711.66,566.37,C236,South,Friday,Summer
+07/28/2023,2354,5005,20% off,P078,Groceries,5,480.95,344.5,136.45,C350,East,Monday,Spring
+07/29/2023,2355,5000,Free Shipping,P019,Toys,8,389.12,148.8,240.32,C648,South,Tuesday,Winter
+01/08/23,2356,5002,10% off,P054,Groceries,9,3970.08,3499.56,470.52,C729,West,Saturday,Spring
+03/06/23,2357,5003,30% off,P004,Clothing,2,436.74,361.14,75.6,C136,West,Thursday,Autumn
+03/07/23,2358,5000,Free Shipping,P031,Groceries,2,82.68,21.32,61.36,C345,East,Friday,Spring
+01/24/2023,2359,5001,Buy 1 Get 1,P058,Furniture,8,3393.68,2614.08,779.6,C759,West,Wednesday,Winter
+12/25/2023,2360,5005,20% off,P093,Toys,9,3855.6,3825.54,30.06,C086,South,Monday,Autumn
+12/12/23,2361,5003,30% off,P042,Furniture,3,1586.49,1350.87,235.62,C521,East,Sunday,Spring
+04/29/2023,2362,5003,30% off,P044,Electronics,10,4387.2,3923.8,463.4,C531,West,Wednesday,Autumn
+07/16/2023,2363,5005,20% off,P019,Electronics,4,944.04,820.08,123.96,C441,East,Friday,Autumn
+02/20/2023,2364,5001,Buy 1 Get 1,P022,Electronics,5,328.95,210.95,118,C281,West,Thursday,Summer
+03/28/2023,2365,5001,Buy 1 Get 1,P078,Electronics,4,719.04,523.36,195.68,C683,East,Tuesday,Spring
+04/16/2023,2366,5000,Free Shipping,P097,Clothing,1,424.16,376.25,47.91,C613,North,Friday,Summer
+01/04/23,2367,5002,10% off,P048,Clothing,5,670.8,191.7,479.1,C965,West,Saturday,Winter
+09/24/2023,2368,5003,30% off,P038,Electronics,2,1101.32,943.86,157.46,C456,West,Thursday,Autumn
+02/14/2023,2369,5001,Buy 1 Get 1,P094,Electronics,6,3303.9,2974.5,329.4,C823,North,Saturday,Summer
+02/08/23,2370,5005,20% off,P065,Groceries,5,2451.2,2408.8,42.4,C465,North,Saturday,Autumn
+01/20/2023,2371,5002,10% off,P091,Toys,6,1274.94,1135.08,139.86,C195,North,Saturday,Spring
+05/06/23,2372,5000,Free Shipping,P049,Clothing,4,483.6,423.84,59.76,C272,West,Tuesday,Winter
+04/06/23,2373,5001,Buy 1 Get 1,P017,Clothing,2,786.66,629.96,156.7,C974,South,Monday,Winter
+02/04/23,2374,5000,Free Shipping,P079,Clothing,3,926.76,880.11,46.65,C040,West,Saturday,Autumn
+11/11/23,2375,5000,Free Shipping,P031,Groceries,8,3771.28,3259.6,511.68,C544,South,Wednesday,Summer
+05/30/2023,2376,5003,30% off,P081,Furniture,10,2679.4,2002,677.4,C366,West,Wednesday,Spring
+04/23/2023,2377,5001,Buy 1 Get 1,P054,Furniture,6,1035.12,824.1,211.02,C254,West,Monday,Summer
+08/26/2023,2378,5002,10% off,P045,Furniture,3,1467.99,1378.71,89.28,C793,West,Sunday,Winter
+11/04/23,2379,5005,20% off,P004,Groceries,5,1647.05,1201.45,445.6,C520,South,Sunday,Winter
+02/01/23,2380,5001,Buy 1 Get 1,P034,Groceries,7,2547.58,2497.46,50.12,C401,West,Thursday,Winter
+05/14/2023,2381,5001,Buy 1 Get 1,P063,Clothing,6,503.76,493.08,10.68,C652,North,Wednesday,Winter
+07/29/2023,2382,5000,Free Shipping,P022,Toys,4,1457.88,1276.6,181.28,C799,North,Friday,Autumn
+03/08/23,2383,5000,Free Shipping,P003,Electronics,7,1201.41,530.53,670.88,C093,East,Wednesday,Spring
+12/02/23,2384,5000,Free Shipping,P027,Groceries,9,2650.32,2425.77,224.55,C204,South,Sunday,Winter
+04/28/2023,2385,5005,20% off,P048,Groceries,7,2265.06,1787.1,477.96,C221,South,Monday,Spring
+01/11/23,2386,5002,10% off,P065,Furniture,8,604.48,378.88,225.6,C044,South,Wednesday,Autumn
+01/13/2023,2387,5005,20% off,P005,Groceries,2,903.84,810.82,93.02,C833,West,Saturday,Winter
+03/09/23,2388,5002,10% off,P010,Electronics,9,2895.03,2500.38,394.65,C740,West,Monday,Spring
+10/05/23,2389,5005,20% off,P013,Toys,7,342.44,220.57,121.87,C199,East,Sunday,Autumn
+08/06/23,2390,5002,10% off,P039,Groceries,8,2000.24,1826.56,173.68,C208,North,Wednesday,Winter
+07/12/23,2391,5003,30% off,P012,Clothing,7,833.07,241.43,591.64,C575,East,Thursday,Autumn
+12/26/2023,2392,5000,Free Shipping,P032,Furniture,1,570.3,490.78,79.52,C509,West,Wednesday,Spring
+08/20/2023,2393,5000,Free Shipping,P004,Furniture,4,1813.24,1713.4,99.84,C458,East,Thursday,Spring
+11/26/2023,2394,5001,Buy 1 Get 1,P019,Electronics,2,1002.42,961.42,41,C575,South,Tuesday,Winter
+10/31/2023,2395,5002,10% off,P019,Furniture,10,5756.9,4762,994.9,C859,West,Friday,Summer
+01/31/2023,2396,5001,Buy 1 Get 1,P053,Groceries,6,2741.22,2152.44,588.78,C855,South,Monday,Autumn
+12/19/2023,2397,5000,Free Shipping,P053,Electronics,5,1578.8,1445.35,133.45,C707,South,Sunday,Winter
+10/07/23,2398,5001,Buy 1 Get 1,P084,Clothing,6,1703.34,1344.78,358.56,C473,West,Friday,Spring
+02/23/2023,2399,5002,10% off,P049,Clothing,1,108.42,45.81,62.61,C166,North,Tuesday,Summer
+08/13/2023,2400,5002,10% off,P055,Furniture,3,1531.8,1472.34,59.46,C642,West,Tuesday,Winter
+07/24/2023,2401,5001,Buy 1 Get 1,P016,Furniture,5,2446.25,1991.85,454.4,C738,East,Friday,Autumn
+11/11/23,2402,5000,Free Shipping,P084,Clothing,3,1705.38,1417.23,288.15,C298,South,Sunday,Autumn
+09/23/2023,2403,5001,Buy 1 Get 1,P061,Furniture,4,1453.08,1062.08,391,C959,East,Saturday,Summer
+03/26/2023,2404,5003,30% off,P002,Groceries,7,2786.63,2667.56,119.07,C184,South,Thursday,Spring
+01/03/23,2405,5005,20% off,P026,Electronics,9,2842.11,2193.12,648.99,C470,East,Monday,Spring
+11/16/2023,2406,5000,Free Shipping,P021,Electronics,6,1173.72,787.2,386.52,C652,South,Wednesday,Spring
+04/09/23,2407,5001,Buy 1 Get 1,P055,Toys,5,1768.7,1683.15,85.55,C377,West,Wednesday,Summer
+02/09/23,2408,5005,20% off,P014,Clothing,5,1821.4,1434.45,386.95,C183,East,Friday,Spring
+03/06/23,2409,5000,Free Shipping,P083,Furniture,6,1539.96,1526.76,13.2,C590,East,Sunday,Winter
+04/18/2023,2410,5002,10% off,P030,Clothing,2,101.56,28.86,72.7,C952,South,Tuesday,Summer
+09/01/23,2411,5001,Buy 1 Get 1,P010,Electronics,3,1462.44,1391.52,70.92,C524,West,Thursday,Winter
+06/17/2023,2412,5000,Free Shipping,P098,Electronics,4,1375.32,1283.36,91.96,C574,West,Thursday,Winter
+12/28/2023,2413,5001,Buy 1 Get 1,P040,Toys,6,1515.48,1005.72,509.76,C544,North,Friday,Summer
+03/27/2023,2414,5005,20% off,P056,Toys,8,3020.64,2937.12,83.52,C502,East,Saturday,Spring
+10/13/2023,2415,5001,Buy 1 Get 1,P023,Electronics,6,1343.7,1320.36,23.34,C876,West,Sunday,Autumn
+08/06/23,2416,5000,Free Shipping,P072,Clothing,7,2185.54,1719.48,466.06,C384,South,Saturday,Spring
+04/11/23,2417,5001,Buy 1 Get 1,P068,Clothing,1,97.67,68.07,29.6,C601,East,Wednesday,Spring
+07/08/23,2418,5000,Free Shipping,P002,Toys,5,1484.85,1024.7,460.15,C035,East,Saturday,Winter
+07/23/2023,2419,5001,Buy 1 Get 1,P036,Electronics,10,5021.4,4966.9,54.5,C844,North,Sunday,Winter
+11/08/23,2420,5003,30% off,P023,Furniture,9,3786.21,3446.01,340.2,C827,North,Monday,Autumn
+01/15/2023,2421,5005,20% off,P091,Clothing,3,833.91,606.9,227.01,C085,West,Sunday,Spring
+01/29/2023,2422,5002,10% off,P041,Electronics,9,4996.53,4140.27,856.26,C285,South,Saturday,Spring
+06/20/2023,2423,5005,20% off,P076,Groceries,9,2962.26,2635.11,327.15,C015,West,Thursday,Spring
+02/03/23,2424,5000,Free Shipping,P019,Groceries,2,843.5,791.8,51.7,C177,West,Monday,Autumn
+11/08/23,2425,5000,Free Shipping,P053,Clothing,1,322.9,286.4,36.5,C319,East,Friday,Autumn
+03/02/23,2426,5003,30% off,P073,Electronics,10,3565.5,3317.5,248,C953,West,Monday,Spring
+02/16/2023,2427,5002,10% off,P024,Groceries,10,1957.9,1038.8,919.1,C642,North,Sunday,Summer
+01/06/23,2428,5001,Buy 1 Get 1,P059,Electronics,4,443.88,239.52,204.36,C316,South,Saturday,Summer
+06/08/23,2429,5003,30% off,P091,Groceries,3,369.21,354.66,14.55,C286,South,Friday,Autumn
+07/31/2023,2430,5005,20% off,P035,Clothing,3,138,82.95,55.05,C303,East,Saturday,Winter
+05/16/2023,2431,5003,30% off,P046,Toys,6,2782.14,2608.32,173.82,C358,West,Sunday,Summer
+01/19/2023,2432,5003,30% off,P020,Toys,10,5343,4757.2,585.8,C216,West,Wednesday,Autumn
+04/17/2023,2433,5000,Free Shipping,P071,Groceries,2,564.74,447.88,116.86,C526,South,Wednesday,Summer
+08/28/2023,2434,5002,10% off,P015,Toys,3,1017.9,789.54,228.36,C487,South,Thursday,Autumn
+07/10/23,2435,5003,30% off,P085,Toys,1,184.37,148.42,35.95,C331,North,Saturday,Autumn
+01/05/23,2436,5003,30% off,P061,Groceries,6,3256.86,2688.66,568.2,C664,North,Tuesday,Autumn
+06/06/23,2437,5003,30% off,P070,Clothing,1,489.88,447.35,42.53,C450,West,Friday,Winter
+07/24/2023,2438,5005,20% off,P033,Groceries,10,4405.4,3923.8,481.6,C346,West,Saturday,Winter
+06/03/23,2439,5005,20% off,P098,Toys,2,550.1,507.58,42.52,C432,West,Sunday,Autumn
+10/23/2023,2440,5000,Free Shipping,P004,Clothing,9,2871.72,2696.85,174.87,C171,East,Friday,Summer
+10/18/2023,2441,5005,20% off,P085,Groceries,1,258.12,172.47,85.65,C994,North,Wednesday,Summer
+06/27/2023,2442,5003,30% off,P022,Furniture,1,119.51,111.47,8.04,C675,South,Tuesday,Summer
+06/04/23,2443,5002,10% off,P024,Clothing,4,551.8,175.24,376.56,C448,North,Saturday,Summer
+03/20/2023,2444,5001,Buy 1 Get 1,P001,Furniture,3,899.76,775.17,124.59,C353,North,Thursday,Winter
+12/24/2023,2445,5003,30% off,P086,Furniture,8,3928.64,3258.64,670,C724,South,Sunday,Spring
+07/18/2023,2446,5001,Buy 1 Get 1,P098,Clothing,7,1697.08,1209.39,487.69,C792,East,Wednesday,Winter
+11/02/23,2447,5000,Free Shipping,P010,Groceries,8,3629.28,3102.8,526.48,C686,North,Tuesday,Summer
+05/01/23,2448,5001,Buy 1 Get 1,P044,Toys,1,171.99,84.28,87.71,C626,West,Monday,Summer
+03/12/23,2449,5005,20% off,P006,Clothing,5,1515.6,1370.8,144.8,C446,North,Wednesday,Winter
+12/01/23,2450,5003,30% off,P020,Groceries,5,1115.4,1091.8,23.6,C397,West,Monday,Autumn
+08/04/23,2451,5005,20% off,P051,Toys,2,298.88,145.3,153.58,C477,North,Wednesday,Spring
+12/02/23,2452,5002,10% off,P021,Groceries,3,156.75,30.03,126.72,C589,West,Saturday,Winter
+01/06/23,2453,5003,30% off,P055,Electronics,5,1362.2,1330.15,32.05,C436,East,Saturday,Spring
+11/06/23,2454,5000,Free Shipping,P048,Furniture,6,3061.2,2920.86,140.34,C865,East,Monday,Summer
+08/06/23,2455,5003,30% off,P087,Electronics,3,570.45,477.18,93.27,C008,East,Saturday,Autumn
+04/12/23,2456,5000,Free Shipping,P094,Furniture,7,868.35,860.3,8.05,C050,West,Wednesday,Spring
+03/04/23,2457,5003,30% off,P047,Electronics,10,4641,3673.8,967.2,C703,East,Wednesday,Winter
+06/22/2023,2458,5002,10% off,P070,Groceries,3,559.62,359.7,199.92,C301,East,Thursday,Spring
+08/17/2023,2459,5001,Buy 1 Get 1,P082,Electronics,10,4585.2,3735.3,849.9,C115,East,Saturday,Spring
+09/30/2023,2460,5005,20% off,P023,Electronics,9,2232.72,1953.81,278.91,C097,South,Saturday,Summer
+11/21/2023,2461,5003,30% off,P036,Groceries,8,1927.52,1355.12,572.4,C706,South,Sunday,Winter
+01/21/2023,2462,5001,Buy 1 Get 1,P048,Electronics,3,1287.6,1230.66,56.94,C624,North,Thursday,Spring
+06/22/2023,2463,5003,30% off,P052,Electronics,3,846.15,575.28,270.87,C974,East,Saturday,Spring
+08/10/23,2464,5005,20% off,P074,Groceries,5,2518.9,2026.4,492.5,C631,South,Saturday,Spring
+07/11/23,2465,5003,30% off,P028,Furniture,5,2097.55,1897.9,199.65,C765,South,Wednesday,Spring
+11/06/23,2466,5005,20% off,P087,Groceries,5,1829.25,1497.05,332.2,C006,West,Tuesday,Spring
+08/01/23,2467,5001,Buy 1 Get 1,P035,Furniture,10,1033.5,484.4,549.1,C810,East,Monday,Summer
+04/26/2023,2468,5001,Buy 1 Get 1,P029,Electronics,10,3751.3,3575.7,175.6,C295,West,Friday,Winter
+11/22/2023,2469,5001,Buy 1 Get 1,P070,Furniture,8,3610.4,3140.08,470.32,C953,North,Wednesday,Autumn
+06/13/2023,2470,5003,30% off,P020,Furniture,8,3854.32,3812.72,41.6,C216,South,Saturday,Winter
+05/11/23,2471,5002,10% off,P085,Toys,2,401.12,280.02,121.1,C647,West,Friday,Autumn
+02/12/23,2472,5000,Free Shipping,P048,Groceries,5,1135.2,776.55,358.65,C769,East,Thursday,Winter
+01/16/2023,2473,5000,Free Shipping,P075,Clothing,10,3930.6,3819.1,111.5,C361,West,Thursday,Spring
+05/26/2023,2474,5003,30% off,P031,Furniture,9,2818.53,2356.11,462.42,C135,West,Friday,Spring
+02/19/2023,2475,5005,20% off,P028,Electronics,10,2843.1,1909.5,933.6,C297,South,Sunday,Summer
+07/25/2023,2476,5003,30% off,P046,Clothing,7,3398.5,2908.36,490.14,C923,East,Wednesday,Autumn
+11/19/2023,2477,5001,Buy 1 Get 1,P065,Toys,9,3660.57,3240.18,420.39,C402,South,Sunday,Winter
+09/11/23,2478,5001,Buy 1 Get 1,P058,Clothing,3,1593.15,1383.87,209.28,C410,East,Monday,Autumn
+08/26/2023,2479,5002,10% off,P050,Toys,7,3174.57,2570.4,604.17,C998,West,Thursday,Summer
+11/22/2023,2480,5000,Free Shipping,P029,Clothing,10,2252,1443,809,C635,North,Friday,Winter
+01/12/23,2481,5000,Free Shipping,P032,Clothing,10,1408.6,1056.7,351.9,C641,West,Saturday,Spring
+07/09/23,2482,5000,Free Shipping,P084,Furniture,9,2450.88,1570.05,880.83,C524,South,Sunday,Summer
+08/23/2023,2483,5005,20% off,P023,Furniture,4,2000.48,1718.8,281.68,C331,South,Wednesday,Spring
+01/16/2023,2484,5000,Free Shipping,P060,Furniture,4,1691.64,1465.04,226.6,C701,West,Tuesday,Summer
+08/25/2023,2485,5002,10% off,P078,Groceries,3,1572.6,1422.21,150.39,C251,West,Saturday,Spring
+01/04/23,2486,5003,30% off,P067,Furniture,7,1495.13,1375.15,119.98,C073,West,Wednesday,Spring
+11/07/23,2487,5002,10% off,P057,Furniture,1,468.95,395.24,73.71,C300,West,Sunday,Spring
+07/06/23,2488,5000,Free Shipping,P081,Furniture,7,1412.74,1388.31,24.43,C807,North,Monday,Summer
+05/15/2023,2489,5002,10% off,P093,Clothing,6,2539.44,2526.66,12.78,C423,East,Tuesday,Summer
+09/05/23,2490,5001,Buy 1 Get 1,P013,Groceries,2,903.74,709.62,194.12,C470,West,Sunday,Summer
+05/14/2023,2491,5001,Buy 1 Get 1,P089,Furniture,6,1492.26,1346.7,145.56,C807,West,Saturday,Autumn
+10/18/2023,2492,5000,Free Shipping,P005,Clothing,3,1311.87,1066.17,245.7,C535,East,Monday,Summer
+07/09/23,2493,5001,Buy 1 Get 1,P092,Groceries,5,1872.45,1388.75,483.7,C968,South,Friday,Autumn
+09/01/23,2494,5001,Buy 1 Get 1,P020,Clothing,3,258.87,105.96,152.91,C623,East,Sunday,Winter
+05/12/23,2495,5002,10% off,P028,Toys,5,2242.2,1810.2,432,C152,North,Wednesday,Autumn
+09/18/2023,2496,5003,30% off,P062,Toys,3,534.12,293.52,240.6,C996,East,Saturday,Summer
+10/28/2023,2497,5001,Buy 1 Get 1,P067,Groceries,7,2247.63,1965.81,281.82,C887,West,Saturday,Summer
+09/26/2023,2498,5005,20% off,P062,Furniture,1,161.2,74.54,86.66,C685,North,Wednesday,Summer
+06/08/23,2499,5005,20% off,P020,Groceries,10,1187.3,870.6,316.7,C797,North,Saturday,Summer
+07/02/23,2500,5003,30% off,P073,Electronics,9,2154.51,1369.08,785.43,C920,South,Saturday,Summer
+07/06/23,2501,5003,30% off,P081,Electronics,6,2516.94,2037.72,479.22,C520,North,Wednesday,Spring
+01/29/2023,2502,5000,Free Shipping,P067,Clothing,4,782.36,530.92,251.44,C263,South,Saturday,Summer
+04/27/2023,2503,5005,20% off,P006,Toys,5,1868.05,1450.8,417.25,C566,East,Monday,Summer
+02/02/23,2504,5000,Free Shipping,P039,Electronics,4,1824.72,1815.92,8.8,C234,South,Friday,Winter
+08/26/2023,2505,5000,Free Shipping,P007,Groceries,2,692.8,680.54,12.26,C202,West,Monday,Winter
+02/12/23,2506,5005,20% off,P013,Toys,10,3084.2,2789.4,294.8,C221,West,Wednesday,Spring
+10/25/2023,2507,5002,10% off,P093,Furniture,4,785.04,641.28,143.76,C604,West,Monday,Autumn
+07/28/2023,2508,5001,Buy 1 Get 1,P064,Clothing,6,2091,1886.58,204.42,C520,West,Friday,Autumn
+11/27/2023,2509,5001,Buy 1 Get 1,P069,Clothing,6,2460.42,2214.12,246.3,C282,East,Saturday,Winter
+02/27/2023,2510,5003,30% off,P001,Groceries,9,1098.72,391.41,707.31,C482,West,Tuesday,Summer
+02/03/23,2511,5001,Buy 1 Get 1,P013,Furniture,6,1163.16,900.12,263.04,C654,South,Tuesday,Spring
+04/29/2023,2512,5001,Buy 1 Get 1,P065,Groceries,6,2278.68,2075.22,203.46,C785,West,Monday,Autumn
+11/09/23,2513,5000,Free Shipping,P087,Clothing,6,454.5,226.38,228.12,C161,South,Sunday,Winter
+03/29/2023,2514,5000,Free Shipping,P085,Clothing,6,3223.86,2836.68,387.18,C980,West,Saturday,Winter
+05/18/2023,2515,5001,Buy 1 Get 1,P061,Groceries,6,2415.72,2034.12,381.6,C149,East,Wednesday,Autumn
+06/11/23,2516,5001,Buy 1 Get 1,P055,Toys,7,1049.51,752.57,296.94,C781,West,Monday,Winter
+01/29/2023,2517,5001,Buy 1 Get 1,P083,Clothing,8,3112,3023.68,88.32,C786,East,Monday,Summer
+04/17/2023,2518,5001,Buy 1 Get 1,P048,Electronics,6,1047.06,876.9,170.16,C438,West,Wednesday,Summer
+04/21/2023,2519,5000,Free Shipping,P057,Groceries,2,639.5,443.38,196.12,C077,South,Tuesday,Autumn
+09/03/23,2520,5003,30% off,P006,Furniture,8,763.44,344.64,418.8,C256,East,Friday,Winter
+01/31/2023,2521,5002,10% off,P082,Groceries,5,974.95,489.45,485.5,C551,East,Thursday,Autumn
+02/26/2023,2522,5005,20% off,P096,Electronics,6,638.88,393.12,245.76,C794,West,Sunday,Summer
+03/19/2023,2523,5001,Buy 1 Get 1,P074,Clothing,9,3980.79,3344.04,636.75,C091,West,Tuesday,Autumn
+10/21/2023,2524,5001,Buy 1 Get 1,P072,Toys,5,1262.25,1085.7,176.55,C707,North,Tuesday,Spring
+12/25/2023,2525,5001,Buy 1 Get 1,P099,Furniture,4,927.96,819.32,108.64,C189,East,Thursday,Summer
+08/24/2023,2526,5001,Buy 1 Get 1,P026,Groceries,5,797.15,553.05,244.1,C619,North,Tuesday,Spring
+11/25/2023,2527,5003,30% off,P051,Furniture,1,171.04,141.58,29.46,C852,North,Friday,Autumn
+01/09/23,2528,5003,30% off,P005,Toys,6,2572.2,1990.86,581.34,C810,West,Wednesday,Autumn
+11/21/2023,2529,5002,10% off,P073,Electronics,9,2829.6,2752.02,77.58,C800,North,Friday,Summer
+09/20/2023,2530,5000,Free Shipping,P060,Toys,4,568.92,188.16,380.76,C770,North,Sunday,Winter
+05/22/2023,2531,5003,30% off,P095,Clothing,6,994.68,934.02,60.66,C075,South,Saturday,Autumn
+08/21/2023,2532,5003,30% off,P003,Furniture,10,3662.7,3035.3,627.4,C301,North,Friday,Winter
+01/10/23,2533,5005,20% off,P042,Furniture,3,1065.72,983.31,82.41,C266,South,Friday,Autumn
+09/30/2023,2534,5005,20% off,P099,Toys,6,683.64,104.4,579.24,C915,South,Tuesday,Summer
+04/16/2023,2535,5005,20% off,P013,Electronics,9,1807.83,1196.46,611.37,C617,North,Sunday,Summer
+10/04/23,2536,5002,10% off,P042,Groceries,4,1670.56,1425,245.56,C674,South,Tuesday,Autumn
+03/25/2023,2537,5001,Buy 1 Get 1,P030,Clothing,6,1146.96,979.92,167.04,C028,South,Thursday,Spring
+07/12/23,2538,5003,30% off,P096,Clothing,7,2727.2,2120.02,607.18,C051,West,Thursday,Winter
+04/12/23,2539,5003,30% off,P076,Electronics,2,970.76,947.8,22.96,C993,South,Friday,Spring
+03/25/2023,2540,5002,10% off,P063,Toys,6,1082.4,515.22,567.18,C768,East,Thursday,Summer
+04/18/2023,2541,5000,Free Shipping,P047,Furniture,5,2296.6,1854.5,442.1,C521,North,Thursday,Spring
+01/04/23,2542,5003,30% off,P052,Electronics,6,1010.76,655.74,355.02,C370,East,Sunday,Spring
+08/11/23,2543,5005,20% off,P090,Electronics,7,2953.23,2474.92,478.31,C897,West,Monday,Autumn
+11/28/2023,2544,5002,10% off,P019,Clothing,3,637.53,629.97,7.56,C579,North,Tuesday,Summer
+03/13/2023,2545,5002,10% off,P008,Toys,4,1286.76,1182.52,104.24,C888,East,Wednesday,Winter
+03/22/2023,2546,5005,20% off,P023,Toys,3,979.26,691.86,287.4,C760,South,Wednesday,Spring
+03/25/2023,2547,5003,30% off,P027,Groceries,7,2027.69,1438.71,588.98,C641,East,Sunday,Autumn
+11/15/2023,2548,5002,10% off,P004,Groceries,1,169.95,102.38,67.57,C911,West,Monday,Summer
+07/28/2023,2549,5000,Free Shipping,P049,Toys,9,4498.38,4398.57,99.81,C174,South,Monday,Spring
+06/28/2023,2550,5002,10% off,P054,Electronics,2,116,28.16,87.84,C992,West,Thursday,Winter
+10/02/23,2551,5005,20% off,P078,Electronics,5,652.4,276.95,375.45,C488,West,Wednesday,Summer
+06/15/2023,2552,5001,Buy 1 Get 1,P079,Electronics,8,4016.8,3665.04,351.76,C505,South,Tuesday,Summer
+09/21/2023,2553,5005,20% off,P029,Electronics,2,361.56,273.54,88.02,C735,West,Wednesday,Spring
+05/08/23,2554,5001,Buy 1 Get 1,P024,Groceries,6,2198.34,2186.94,11.4,C728,West,Saturday,Autumn
+03/09/23,2555,5003,30% off,P048,Clothing,10,3605.5,2988.3,617.2,C755,North,Saturday,Winter
+11/20/2023,2556,5005,20% off,P024,Electronics,3,1042.29,967.41,74.88,C650,North,Sunday,Summer
+03/24/2023,2557,5001,Buy 1 Get 1,P002,Toys,8,2959.52,2879.12,80.4,C496,East,Tuesday,Winter
+08/20/2023,2558,5003,30% off,P080,Groceries,9,1759.59,968.76,790.83,C451,North,Saturday,Autumn
+12/02/23,2559,5001,Buy 1 Get 1,P044,Clothing,5,1871.65,1859.85,11.8,C350,West,Sunday,Winter
+12/06/23,2560,5001,Buy 1 Get 1,P098,Toys,5,769.65,658.5,111.15,C065,East,Thursday,Spring
+10/06/23,2561,5002,10% off,P030,Furniture,2,336.42,285.4,51.02,C124,East,Tuesday,Autumn
+06/07/23,2562,5003,30% off,P071,Electronics,9,783.72,365.76,417.96,C187,West,Sunday,Summer
+03/14/2023,2563,5002,10% off,P026,Groceries,9,3870.99,3321.36,549.63,C616,South,Friday,Spring
+09/30/2023,2564,5000,Free Shipping,P030,Toys,3,1046.22,1019.13,27.09,C384,South,Monday,Summer
+11/22/2023,2565,5005,20% off,P097,Clothing,9,5042.16,4286.07,756.09,C965,West,Sunday,Summer
+05/23/2023,2566,5003,30% off,P038,Furniture,9,4382.73,3640.41,742.32,C996,West,Thursday,Winter
+06/14/2023,2567,5001,Buy 1 Get 1,P001,Electronics,5,2609.55,2335.15,274.4,C726,East,Tuesday,Spring
+01/31/2023,2568,5005,20% off,P019,Furniture,3,510.6,324.42,186.18,C783,South,Thursday,Summer
+11/27/2023,2569,5003,30% off,P076,Clothing,4,1792.24,1496.04,296.2,C855,East,Monday,Summer
+05/22/2023,2570,5003,30% off,P016,Toys,3,819.87,796.53,23.34,C211,West,Tuesday,Autumn
+06/17/2023,2571,5002,10% off,P067,Groceries,9,2556.09,1726.65,829.44,C106,West,Tuesday,Winter
+06/02/23,2572,5000,Free Shipping,P096,Toys,8,2805.36,2371.04,434.32,C158,North,Sunday,Autumn
+05/20/2023,2573,5003,30% off,P033,Electronics,8,1433.76,1133.92,299.84,C437,South,Saturday,Winter
+05/30/2023,2574,5000,Free Shipping,P014,Electronics,10,5157,4487.2,669.8,C983,East,Tuesday,Winter
+12/26/2023,2575,5003,30% off,P008,Electronics,5,2209,1979.1,229.9,C863,East,Wednesday,Autumn
+08/03/23,2576,5001,Buy 1 Get 1,P011,Electronics,2,688.82,637.64,51.18,C731,West,Tuesday,Winter
+04/24/2023,2577,5003,30% off,P086,Groceries,2,798.02,711.36,86.66,C800,West,Friday,Winter
+11/07/23,2578,5003,30% off,P006,Toys,2,584.26,453.7,130.56,C605,North,Friday,Spring
+03/02/23,2579,5001,Buy 1 Get 1,P075,Toys,7,3332.84,3281.46,51.38,C835,West,Saturday,Spring
+06/27/2023,2580,5003,30% off,P074,Toys,1,444.07,414.12,29.95,C963,West,Sunday,Winter
+12/09/23,2581,5005,20% off,P073,Clothing,1,230.69,227.52,3.17,C646,East,Monday,Autumn
+07/31/2023,2582,5003,30% off,P033,Groceries,6,1249.62,945.06,304.56,C361,South,Wednesday,Winter
+01/25/2023,2583,5003,30% off,P090,Groceries,3,261.45,112.59,148.86,C215,East,Saturday,Winter
+06/28/2023,2584,5003,30% off,P012,Groceries,6,2854.26,2785.68,68.58,C632,South,Wednesday,Autumn
+02/21/2023,2585,5003,30% off,P041,Toys,8,3409.12,3076.64,332.48,C655,South,Sunday,Winter
+04/14/2023,2586,5003,30% off,P045,Groceries,8,2862.4,2648.32,214.08,C918,East,Sunday,Summer
+03/28/2023,2587,5002,10% off,P015,Clothing,10,1050.4,881.5,168.9,C318,East,Sunday,Summer
+07/23/2023,2588,5002,10% off,P026,Electronics,2,127.84,89.08,38.76,C729,West,Sunday,Autumn
+03/16/2023,2589,5000,Free Shipping,P046,Furniture,3,1271.28,1006.41,264.87,C944,West,Monday,Autumn
+11/11/23,2590,5002,10% off,P042,Clothing,8,3822,3271.36,550.64,C846,North,Tuesday,Summer
+12/08/23,2591,5002,10% off,P064,Clothing,4,374.96,256.44,118.52,C252,South,Thursday,Summer
+03/16/2023,2592,5001,Buy 1 Get 1,P032,Electronics,10,1875.6,1618.1,257.5,C495,West,Thursday,Summer
+07/31/2023,2593,5000,Free Shipping,P075,Furniture,10,3163.7,2623.5,540.2,C910,West,Saturday,Autumn
+12/28/2023,2594,5001,Buy 1 Get 1,P056,Groceries,6,1325.4,1109.22,216.18,C922,South,Wednesday,Autumn
+02/09/23,2595,5001,Buy 1 Get 1,P090,Clothing,9,4456.17,3743.91,712.26,C593,South,Monday,Winter
+10/02/23,2596,5002,10% off,P078,Clothing,6,1513.74,964.92,548.82,C735,South,Thursday,Autumn
+10/22/2023,2597,5003,30% off,P080,Furniture,8,4081.84,3815.04,266.8,C606,West,Monday,Summer
+01/12/23,2598,5003,30% off,P072,Electronics,6,1408.38,1102.02,306.36,C489,South,Monday,Autumn
+02/03/23,2599,5000,Free Shipping,P033,Electronics,10,5589.1,4711.5,877.6,C503,West,Saturday,Summer
+07/22/2023,2600,5003,30% off,P040,Toys,5,500.7,301.3,199.4,C339,South,Friday,Winter
+03/15/2023,2601,5000,Free Shipping,P041,Electronics,10,3319.6,2811.5,508.1,C055,East,Friday,Spring
+02/06/23,2602,5002,10% off,P068,Furniture,3,573.03,314.97,258.06,C751,South,Tuesday,Summer
+04/03/23,2603,5003,30% off,P094,Electronics,6,2553.9,2050.2,503.7,C092,North,Thursday,Winter
+07/28/2023,2604,5003,30% off,P018,Groceries,3,1517.64,1292.37,225.27,C099,East,Wednesday,Summer
+12/29/2023,2605,5001,Buy 1 Get 1,P064,Electronics,3,859.95,675.63,184.32,C267,West,Tuesday,Summer
+06/29/2023,2606,5001,Buy 1 Get 1,P058,Electronics,9,1406.43,797.22,609.21,C264,North,Friday,Spring
+10/13/2023,2607,5001,Buy 1 Get 1,P013,Clothing,1,167.53,97.83,69.7,C987,North,Monday,Autumn
+07/16/2023,2608,5002,10% off,P073,Toys,6,810.84,735,75.84,C880,North,Tuesday,Summer
+11/22/2023,2609,5003,30% off,P024,Toys,4,368.76,363.96,4.8,C1000,East,Monday,Summer
+11/04/23,2610,5000,Free Shipping,P023,Furniture,3,1307.07,1086.54,220.53,C520,South,Sunday,Winter
+01/16/2023,2611,5002,10% off,P069,Electronics,5,1396.45,1311.6,84.85,C958,East,Monday,Autumn
+12/16/2023,2612,5000,Free Shipping,P067,Clothing,2,107.66,101.88,5.78,C510,South,Friday,Summer
+11/10/23,2613,5003,30% off,P085,Toys,7,1262.87,638.54,624.33,C803,West,Monday,Spring
+06/23/2023,2614,5001,Buy 1 Get 1,P019,Clothing,8,1315.36,1026.8,288.56,C193,West,Monday,Autumn
+01/31/2023,2615,5000,Free Shipping,P013,Toys,2,169.26,123.24,46.02,C680,East,Friday,Winter
+10/07/23,2616,5001,Buy 1 Get 1,P042,Clothing,8,2604.72,2115.36,489.36,C782,South,Wednesday,Winter
+07/26/2023,2617,5003,30% off,P011,Furniture,1,136.94,130.22,6.72,C504,North,Wednesday,Winter
+11/09/23,2618,5001,Buy 1 Get 1,P064,Groceries,1,225.8,201.61,24.19,C541,North,Tuesday,Spring
+06/07/23,2619,5000,Free Shipping,P070,Clothing,6,1281.66,705.48,576.18,C757,North,Friday,Spring
+01/25/2023,2620,5003,30% off,P025,Groceries,9,3313.08,2807.91,505.17,C054,West,Saturday,Summer
+09/18/2023,2621,5002,10% off,P028,Electronics,8,2057.6,1709.84,347.76,C973,South,Tuesday,Autumn
+02/07/23,2622,5003,30% off,P027,Toys,10,3449.9,2750.4,699.5,C016,North,Thursday,Summer
+12/19/2023,2623,5001,Buy 1 Get 1,P001,Clothing,6,2232.3,2124.3,108,C182,West,Sunday,Summer
+07/10/23,2624,5002,10% off,P020,Clothing,10,2968.4,2550.6,417.8,C253,East,Thursday,Autumn
+04/15/2023,2625,5003,30% off,P089,Electronics,7,3500.49,3055.92,444.57,C844,West,Thursday,Autumn
+04/08/23,2626,5001,Buy 1 Get 1,P077,Electronics,7,1983.45,1896.51,86.94,C043,West,Tuesday,Summer
+02/06/23,2627,5002,10% off,P021,Furniture,2,638.72,613.52,25.2,C188,East,Tuesday,Autumn
+12/15/2023,2628,5001,Buy 1 Get 1,P069,Groceries,5,951.85,876.15,75.7,C877,East,Monday,Spring
+07/22/2023,2629,5002,10% off,P072,Furniture,4,1482.16,1396.48,85.68,C131,North,Thursday,Winter
+02/25/2023,2630,5005,20% off,P005,Furniture,3,875.04,606.03,269.01,C086,North,Tuesday,Winter
+11/12/23,2631,5003,30% off,P095,Clothing,8,1291.12,880.96,410.16,C612,North,Saturday,Summer
+04/18/2023,2632,5002,10% off,P073,Electronics,3,654.69,646.32,8.37,C350,East,Tuesday,Autumn
+08/25/2023,2633,5002,10% off,P051,Furniture,3,1218.87,1195.35,23.52,C970,East,Friday,Spring
+04/26/2023,2634,5005,20% off,P043,Furniture,1,298.89,242.38,56.51,C893,West,Monday,Summer
+11/05/23,2635,5001,Buy 1 Get 1,P072,Clothing,3,1161.3,953.79,207.51,C561,East,Monday,Spring
+12/17/2023,2636,5003,30% off,P067,Toys,1,136.09,134.1,1.99,C634,South,Saturday,Autumn
+07/09/23,2637,5005,20% off,P014,Clothing,1,418.52,364.49,54.03,C391,North,Friday,Spring
+07/18/2023,2638,5002,10% off,P029,Electronics,10,5020.2,4197,823.2,C559,North,Monday,Winter
+10/20/2023,2639,5001,Buy 1 Get 1,P088,Toys,7,3305.75,2962.61,343.14,C461,South,Saturday,Winter
+11/10/23,2640,5001,Buy 1 Get 1,P082,Furniture,8,2022.72,1387.84,634.88,C942,South,Thursday,Autumn
+04/25/2023,2641,5001,Buy 1 Get 1,P082,Clothing,7,1752.03,1617.91,134.12,C264,South,Wednesday,Spring
+08/10/23,2642,5005,20% off,P006,Furniture,7,3621.17,3002.58,618.59,C728,South,Thursday,Summer
+11/17/2023,2643,5005,20% off,P052,Furniture,7,1728.86,1669.43,59.43,C472,West,Thursday,Winter
+08/26/2023,2644,5001,Buy 1 Get 1,P042,Furniture,3,841.74,600.09,241.65,C741,South,Tuesday,Summer
+12/31/2023,2645,5000,Free Shipping,P025,Toys,6,2838.06,2711.22,126.84,C922,West,Friday,Winter
+07/11/23,2646,5005,20% off,P051,Clothing,8,1045.44,342.56,702.88,C112,West,Wednesday,Winter
+01/27/2023,2647,5005,20% off,P044,Toys,3,766.32,602.43,163.89,C676,West,Friday,Winter
+04/03/23,2648,5002,10% off,P089,Clothing,7,3443.58,3390.45,53.13,C582,South,Wednesday,Summer
+11/25/2023,2649,5000,Free Shipping,P026,Clothing,7,2352.14,2293.76,58.38,C325,West,Tuesday,Summer
+09/07/23,2650,5000,Free Shipping,P098,Toys,9,2471.04,1745.82,725.22,C753,North,Saturday,Spring
+02/03/23,2651,5002,10% off,P002,Electronics,6,1932.72,1334.4,598.32,C874,North,Wednesday,Autumn
+04/14/2023,2652,5005,20% off,P040,Electronics,6,1900.44,1703.64,196.8,C639,East,Friday,Winter
+09/01/23,2653,5005,20% off,P038,Groceries,2,307.1,235.7,71.4,C822,South,Tuesday,Summer
+08/01/23,2654,5000,Free Shipping,P080,Furniture,3,601.02,577.62,23.4,C576,West,Saturday,Autumn
+12/20/2023,2655,5002,10% off,P085,Clothing,8,1904.4,1528.72,375.68,C100,North,Tuesday,Winter
+08/31/2023,2656,5003,30% off,P022,Electronics,10,4301.6,3641.4,660.2,C705,East,Thursday,Summer
+08/18/2023,2657,5003,30% off,P086,Toys,6,2154.78,2143.8,10.98,C907,East,Monday,Autumn
+02/05/23,2658,5005,20% off,P080,Groceries,7,1282.19,816.62,465.57,C939,South,Monday,Summer
+11/21/2023,2659,5001,Buy 1 Get 1,P092,Electronics,6,1492.08,1482.9,9.18,C618,West,Monday,Winter
+03/28/2023,2660,5001,Buy 1 Get 1,P025,Toys,5,2408.55,2021,387.55,C533,North,Thursday,Autumn
+03/27/2023,2661,5005,20% off,P090,Groceries,5,1431.55,1393.65,37.9,C460,West,Wednesday,Spring
+05/20/2023,2662,5002,10% off,P043,Toys,1,444.38,385.59,58.79,C134,North,Saturday,Spring
+06/04/23,2663,5005,20% off,P061,Furniture,7,3280.06,2752.12,527.94,C037,East,Saturday,Winter
+06/21/2023,2664,5000,Free Shipping,P055,Furniture,6,2734.5,2420.82,313.68,C136,East,Saturday,Autumn
+10/10/23,2665,5003,30% off,P037,Groceries,2,292.4,157.52,134.88,C936,West,Saturday,Spring
+12/08/23,2666,5000,Free Shipping,P015,Electronics,3,1165.53,942.09,223.44,C826,North,Tuesday,Spring
+04/01/23,2667,5002,10% off,P020,Toys,4,454.16,372.96,81.2,C798,North,Sunday,Spring
+01/05/23,2668,5001,Buy 1 Get 1,P080,Electronics,3,1564.65,1338.9,225.75,C597,West,Saturday,Autumn
+12/07/23,2669,5000,Free Shipping,P016,Electronics,3,1593.42,1365.09,228.33,C205,North,Tuesday,Spring
+02/16/2023,2670,5003,30% off,P088,Clothing,4,1473.48,1210.44,263.04,C052,North,Thursday,Autumn
+11/17/2023,2671,5005,20% off,P061,Clothing,8,4031.76,3565.36,466.4,C620,South,Thursday,Autumn
+12/13/2023,2672,5002,10% off,P057,Clothing,9,3027.24,2878.83,148.41,C007,North,Tuesday,Summer
+05/15/2023,2673,5000,Free Shipping,P074,Clothing,2,628.28,484.44,143.84,C720,North,Tuesday,Summer
+06/14/2023,2674,5005,20% off,P051,Toys,5,818.9,713.8,105.1,C616,West,Friday,Autumn
+04/22/2023,2675,5001,Buy 1 Get 1,P045,Clothing,9,1698.21,1474.02,224.19,C008,East,Wednesday,Summer
+02/03/23,2676,5002,10% off,P064,Groceries,1,158.37,115.31,43.06,C635,West,Monday,Winter
+01/07/23,2677,5001,Buy 1 Get 1,P076,Groceries,10,5060.4,4548.4,512,C695,North,Friday,Autumn
+06/13/2023,2678,5001,Buy 1 Get 1,P096,Furniture,6,664.2,612.48,51.72,C512,East,Sunday,Winter
+06/10/23,2679,5005,20% off,P030,Toys,3,1170.06,1053.36,116.7,C044,East,Thursday,Winter
+08/25/2023,2680,5003,30% off,P060,Furniture,8,3831.92,3301.6,530.32,C157,South,Saturday,Winter
+08/03/23,2681,5005,20% off,P041,Furniture,3,1284.24,1200.48,83.76,C410,East,Monday,Winter
+12/05/23,2682,5005,20% off,P076,Clothing,4,1505.6,1397.04,108.56,C098,North,Thursday,Winter
+03/18/2023,2683,5001,Buy 1 Get 1,P026,Electronics,8,4273.12,3761.12,512,C402,South,Wednesday,Autumn
+04/27/2023,2684,5003,30% off,P078,Furniture,7,1376.83,1183.07,193.76,C446,South,Thursday,Spring
+06/30/2023,2685,5002,10% off,P042,Furniture,10,1733.2,1035.5,697.7,C297,South,Tuesday,Winter
+04/21/2023,2686,5003,30% off,P002,Groceries,3,531.33,351.51,179.82,C347,East,Saturday,Winter
+11/10/23,2687,5000,Free Shipping,P017,Toys,5,1031,698.35,332.65,C350,East,Sunday,Summer
+07/09/23,2688,5003,30% off,P009,Electronics,8,3898.72,3274.56,624.16,C379,West,Tuesday,Summer
+06/17/2023,2689,5001,Buy 1 Get 1,P082,Furniture,5,2012,1914.1,97.9,C569,East,Friday,Autumn
+12/24/2023,2690,5005,20% off,P042,Toys,4,494.04,213.24,280.8,C726,South,Sunday,Summer
+09/08/23,2691,5003,30% off,P003,Groceries,9,2108.61,1714.41,394.2,C902,North,Thursday,Summer
+11/16/2023,2692,5002,10% off,P068,Furniture,8,415.68,202.08,213.6,C618,East,Monday,Winter
+07/19/2023,2693,5001,Buy 1 Get 1,P092,Clothing,6,687.24,159,528.24,C869,North,Thursday,Summer
+04/25/2023,2694,5001,Buy 1 Get 1,P046,Toys,8,1483.52,1034.08,449.44,C576,South,Sunday,Autumn
+06/13/2023,2695,5001,Buy 1 Get 1,P078,Toys,4,384.48,116.4,268.08,C844,South,Friday,Spring
+06/01/23,2696,5005,20% off,P068,Toys,5,1290.85,841.4,449.45,C255,West,Thursday,Spring
+06/02/23,2697,5005,20% off,P019,Groceries,1,478.38,445.18,33.2,C030,West,Monday,Autumn
+08/27/2023,2698,5003,30% off,P081,Furniture,9,4959.81,4063.23,896.58,C161,West,Sunday,Autumn
+02/25/2023,2699,5003,30% off,P036,Clothing,10,4990.9,4144.5,846.4,C465,East,Tuesday,Summer
+06/15/2023,2700,5002,10% off,P007,Groceries,9,1710.9,1188.09,522.81,C489,East,Tuesday,Autumn
+07/12/23,2701,5002,10% off,P081,Furniture,6,320.16,257.76,62.4,C406,South,Wednesday,Spring
+11/26/2023,2702,5001,Buy 1 Get 1,P073,Toys,1,532.8,499.46,33.34,C905,North,Saturday,Summer
+09/12/23,2703,5002,10% off,P018,Clothing,2,914.94,753.22,161.72,C536,South,Saturday,Summer
+02/17/2023,2704,5001,Buy 1 Get 1,P044,Electronics,7,3711.4,3013.01,698.39,C352,North,Thursday,Winter
+10/07/23,2705,5000,Free Shipping,P054,Furniture,3,399.96,384.99,14.97,C562,North,Sunday,Summer
+08/18/2023,2706,5002,10% off,P098,Groceries,4,901.44,845.92,55.52,C246,North,Saturday,Spring
+01/27/2023,2707,5003,30% off,P006,Electronics,4,230.68,83.96,146.72,C777,South,Tuesday,Summer
+09/14/2023,2708,5001,Buy 1 Get 1,P050,Furniture,1,451.08,394.03,57.05,C523,East,Thursday,Spring
+12/09/23,2709,5000,Free Shipping,P009,Electronics,4,916.16,653.04,263.12,C604,North,Tuesday,Summer
+10/26/2023,2710,5002,10% off,P045,Electronics,10,1261.1,1236.9,24.2,C903,East,Friday,Summer
+07/23/2023,2711,5005,20% off,P069,Electronics,10,4472.8,3845.3,627.5,C289,East,Friday,Autumn
+09/19/2023,2712,5005,20% off,P026,Toys,5,1941.9,1917.65,24.25,C343,South,Wednesday,Autumn
+07/21/2023,2713,5001,Buy 1 Get 1,P058,Electronics,8,3860.16,3361.52,498.64,C618,West,Tuesday,Summer
+02/27/2023,2714,5003,30% off,P014,Clothing,4,1395.6,1144.24,251.36,C778,East,Sunday,Summer
+10/31/2023,2715,5001,Buy 1 Get 1,P060,Electronics,4,1970.72,1734.28,236.44,C581,East,Tuesday,Spring
+06/08/23,2716,5005,20% off,P024,Groceries,4,1575,1178.68,396.32,C512,West,Saturday,Autumn
+08/23/2023,2717,5000,Free Shipping,P097,Clothing,8,3404.72,3046.4,358.32,C492,East,Sunday,Summer
+02/09/23,2718,5002,10% off,P001,Electronics,10,3961.5,3566.2,395.3,C052,North,Wednesday,Spring
+06/05/23,2719,5003,30% off,P094,Toys,3,546.72,366.45,180.27,C100,North,Wednesday,Summer
+11/27/2023,2720,5003,30% off,P095,Groceries,2,1115.58,929.62,185.96,C287,West,Saturday,Spring
+06/02/23,2721,5002,10% off,P039,Clothing,5,1153.85,887.65,266.2,C468,South,Monday,Spring
+09/01/23,2722,5002,10% off,P015,Electronics,4,853.08,454.8,398.28,C467,East,Wednesday,Spring
+12/26/2023,2723,5003,30% off,P009,Clothing,4,2224.2,1963,261.2,C067,West,Saturday,Winter
+01/16/2023,2724,5003,30% off,P056,Furniture,7,3331.65,2829.12,502.53,C180,North,Friday,Spring
+12/03/23,2725,5001,Buy 1 Get 1,P091,Groceries,8,2455.44,2405.2,50.24,C208,East,Monday,Autumn
+04/07/23,2726,5003,30% off,P001,Electronics,10,3006.3,2328.3,678,C856,West,Friday,Winter
+04/29/2023,2727,5001,Buy 1 Get 1,P047,Electronics,10,3799.3,3419.9,379.4,C377,West,Sunday,Winter
+10/06/23,2728,5001,Buy 1 Get 1,P085,Groceries,9,4401,4242.87,158.13,C554,South,Wednesday,Autumn
+07/28/2023,2729,5000,Free Shipping,P052,Groceries,8,2596.64,2041.44,555.2,C356,East,Tuesday,Winter
+12/12/23,2730,5003,30% off,P047,Furniture,2,833.64,703.2,130.44,C617,East,Tuesday,Autumn
+07/03/23,2731,5003,30% off,P097,Toys,3,484.05,434.67,49.38,C912,North,Wednesday,Summer
+11/03/23,2732,5000,Free Shipping,P081,Clothing,10,3819.4,3216.1,603.3,C143,South,Sunday,Winter
+02/11/23,2733,5002,10% off,P065,Toys,1,168.69,97.88,70.81,C533,North,Friday,Spring
+05/11/23,2734,5005,20% off,P095,Clothing,6,1800.84,1398.18,402.66,C501,North,Wednesday,Autumn
+10/08/23,2735,5000,Free Shipping,P085,Furniture,4,1752.44,1681.24,71.2,C591,East,Saturday,Winter
+12/19/2023,2736,5005,20% off,P082,Furniture,3,292.53,58.14,234.39,C855,South,Saturday,Spring
+09/16/2023,2737,5003,30% off,P019,Electronics,5,1895.05,1543.75,351.3,C248,West,Wednesday,Summer
+10/05/23,2738,5005,20% off,P004,Electronics,1,501.18,420.7,80.48,C303,North,Tuesday,Summer
+12/15/2023,2739,5002,10% off,P033,Furniture,2,1069.82,961.7,108.12,C433,East,Saturday,Winter
+01/06/23,2740,5001,Buy 1 Get 1,P044,Furniture,6,1740.9,1496.16,244.74,C214,East,Thursday,Winter
+11/22/2023,2741,5000,Free Shipping,P006,Furniture,1,143,85.31,57.69,C512,East,Wednesday,Spring
+05/11/23,2742,5003,30% off,P097,Toys,2,475.9,291.48,184.42,C433,East,Saturday,Winter
+01/14/2023,2743,5002,10% off,P063,Electronics,8,2843.6,2366.08,477.52,C259,North,Monday,Summer
+11/20/2023,2744,5003,30% off,P049,Groceries,4,760.24,735.64,24.6,C619,West,Monday,Autumn
+06/08/23,2745,5003,30% off,P028,Toys,7,479.22,178.85,300.37,C098,North,Saturday,Summer
+10/31/2023,2746,5000,Free Shipping,P057,Electronics,9,1012.68,462.96,549.72,C186,West,Wednesday,Winter
+10/02/23,2747,5001,Buy 1 Get 1,P075,Electronics,9,4770.81,3975.12,795.69,C503,South,Thursday,Autumn
+03/25/2023,2748,5001,Buy 1 Get 1,P077,Groceries,7,2483.88,2330.51,153.37,C113,South,Sunday,Spring
+04/12/23,2749,5003,30% off,P032,Electronics,7,3651.13,3030.09,621.04,C795,South,Sunday,Winter
+01/23/2023,2750,5005,20% off,P029,Groceries,10,1803.7,1063.6,740.1,C866,West,Tuesday,Winter
+12/25/2023,2751,5002,10% off,P022,Clothing,3,692.55,451.17,241.38,C759,North,Thursday,Winter
+07/07/23,2752,5002,10% off,P091,Toys,6,3015.72,2991.9,23.82,C651,North,Thursday,Winter
+01/18/2023,2753,5003,30% off,P072,Furniture,2,1024.7,899.42,125.28,C067,North,Wednesday,Autumn
+09/01/23,2754,5000,Free Shipping,P032,Clothing,2,1068,973.92,94.08,C025,South,Monday,Summer
+12/07/23,2755,5003,30% off,P085,Toys,6,2594.4,2551.32,43.08,C571,East,Thursday,Spring
+12/03/23,2756,5000,Free Shipping,P053,Electronics,9,1637.28,1568.61,68.67,C041,South,Tuesday,Summer
+06/03/23,2757,5003,30% off,P002,Groceries,1,569.8,487.92,81.88,C523,North,Monday,Autumn
+10/27/2023,2758,5002,10% off,P039,Clothing,6,3129.66,2566.5,563.16,C943,South,Sunday,Winter
+04/20/2023,2759,5003,30% off,P062,Furniture,4,363.48,206.8,156.68,C102,South,Thursday,Spring
+03/16/2023,2760,5000,Free Shipping,P019,Electronics,8,533.44,358.48,174.96,C526,North,Friday,Summer
+05/07/23,2761,5001,Buy 1 Get 1,P029,Groceries,7,1188.81,856.73,332.08,C062,West,Monday,Autumn
+07/22/2023,2762,5005,20% off,P086,Groceries,7,1068.2,991.2,77,C461,South,Saturday,Summer
+09/03/23,2763,5000,Free Shipping,P053,Clothing,4,430.6,368.28,62.32,C614,East,Thursday,Spring
+08/10/23,2764,5002,10% off,P054,Electronics,9,5066.82,4381.29,685.53,C087,South,Sunday,Spring
+07/09/23,2765,5003,30% off,P036,Furniture,6,3172.38,2905.2,267.18,C311,East,Wednesday,Winter
+09/19/2023,2766,5003,30% off,P097,Toys,9,2037.87,1317.6,720.27,C946,South,Thursday,Autumn
+02/16/2023,2767,5001,Buy 1 Get 1,P069,Toys,10,2005,1698.6,306.4,C647,North,Wednesday,Autumn
+05/19/2023,2768,5000,Free Shipping,P066,Clothing,6,826.62,743.58,83.04,C950,East,Tuesday,Summer
+06/28/2023,2769,5005,20% off,P043,Toys,7,1202.95,949.69,253.26,C286,East,Friday,Winter
+12/09/23,2770,5000,Free Shipping,P018,Groceries,4,1389.8,1361.04,28.76,C704,East,Saturday,Autumn
+04/15/2023,2771,5000,Free Shipping,P067,Clothing,2,388.48,226.3,162.18,C742,East,Saturday,Summer
+04/16/2023,2772,5001,Buy 1 Get 1,P024,Furniture,6,701.46,491.94,209.52,C252,West,Thursday,Autumn
+10/18/2023,2773,5000,Free Shipping,P044,Clothing,5,2250.1,2168.4,81.7,C621,North,Wednesday,Spring
+07/12/23,2774,5003,30% off,P001,Electronics,4,398.04,202.16,195.88,C832,East,Thursday,Winter
+10/09/23,2775,5001,Buy 1 Get 1,P066,Toys,7,1504.79,1107.33,397.46,C204,East,Monday,Winter
+11/18/2023,2776,5000,Free Shipping,P014,Furniture,7,2929.08,2827.02,102.06,C397,East,Monday,Summer
+04/03/23,2777,5001,Buy 1 Get 1,P098,Electronics,1,345.59,294.54,51.05,C868,North,Wednesday,Spring
+10/08/23,2778,5001,Buy 1 Get 1,P017,Electronics,7,1003.66,564.2,439.46,C210,North,Saturday,Spring
+01/06/23,2779,5001,Buy 1 Get 1,P080,Groceries,5,966.9,720.4,246.5,C441,South,Tuesday,Summer
+11/13/2023,2780,5000,Free Shipping,P097,Groceries,9,871.29,452.79,418.5,C363,South,Tuesday,Spring
+10/11/23,2781,5001,Buy 1 Get 1,P098,Clothing,3,727.77,480.51,247.26,C826,West,Tuesday,Spring
+03/24/2023,2782,5000,Free Shipping,P095,Toys,5,401.8,189.6,212.2,C829,West,Monday,Spring
+05/07/23,2783,5005,20% off,P031,Furniture,10,3074.1,2346.3,727.8,C170,South,Tuesday,Autumn
+02/24/2023,2784,5005,20% off,P086,Groceries,7,2509.15,2039.8,469.35,C594,West,Thursday,Summer
+04/29/2023,2785,5002,10% off,P053,Furniture,8,3816.88,3126,690.88,C154,West,Sunday,Winter
+01/12/23,2786,5001,Buy 1 Get 1,P027,Furniture,7,1526.42,1146.6,379.82,C809,East,Wednesday,Spring
+09/13/2023,2787,5000,Free Shipping,P050,Furniture,10,5206.1,4216.5,989.6,C211,East,Tuesday,Spring
+11/04/23,2788,5005,20% off,P052,Clothing,4,1934.56,1783.44,151.12,C322,East,Thursday,Autumn
+05/08/23,2789,5005,20% off,P049,Toys,8,1240.64,845.04,395.6,C984,North,Saturday,Summer
+11/27/2023,2790,5003,30% off,P092,Electronics,7,2962.12,2613.8,348.32,C586,East,Wednesday,Winter
+01/11/23,2791,5003,30% off,P093,Furniture,7,2315.18,1727.32,587.86,C092,West,Wednesday,Autumn
+04/28/2023,2792,5001,Buy 1 Get 1,P034,Furniture,3,819.63,561.27,258.36,C173,South,Sunday,Summer
+01/19/2023,2793,5001,Buy 1 Get 1,P007,Clothing,2,485.66,418.66,67,C725,South,Monday,Spring
+05/09/23,2794,5000,Free Shipping,P033,Furniture,3,926.82,697.38,229.44,C301,South,Sunday,Winter
+05/23/2023,2795,5005,20% off,P053,Groceries,3,276.57,215.22,61.35,C534,North,Tuesday,Spring
+11/14/2023,2796,5000,Free Shipping,P084,Clothing,5,2472.9,2381.05,91.85,C562,West,Thursday,Summer
+05/01/23,2797,5005,20% off,P078,Electronics,2,693.08,576.38,116.7,C792,North,Wednesday,Summer
+10/01/23,2798,5003,30% off,P071,Groceries,3,944.25,749.76,194.49,C157,South,Tuesday,Spring
+06/16/2023,2799,5001,Buy 1 Get 1,P066,Electronics,9,1604.97,1103.58,501.39,C517,North,Thursday,Summer
+03/27/2023,2800,5003,30% off,P020,Clothing,4,1035.48,769.44,266.04,C883,East,Friday,Autumn
+08/25/2023,2801,5003,30% off,P023,Electronics,4,546.88,316.8,230.08,C166,North,Monday,Winter
+03/11/23,2802,5001,Buy 1 Get 1,P059,Toys,8,1034.96,806.24,228.72,C694,West,Friday,Winter
+09/26/2023,2803,5000,Free Shipping,P046,Toys,10,1362.7,1171.7,191,C736,West,Sunday,Autumn
+09/26/2023,2804,5005,20% off,P065,Furniture,3,1331.67,1243.8,87.87,C825,North,Tuesday,Spring
+11/04/23,2805,5001,Buy 1 Get 1,P015,Toys,7,3929.17,3250.03,679.14,C392,West,Wednesday,Autumn
+01/13/2023,2806,5003,30% off,P026,Electronics,4,1220.32,1159.68,60.64,C446,South,Thursday,Summer
+11/29/2023,2807,5003,30% off,P032,Clothing,1,273.51,193.53,79.98,C923,South,Thursday,Autumn
+09/07/23,2808,5003,30% off,P092,Furniture,6,1197.78,1140.12,57.66,C904,South,Thursday,Summer
+08/01/23,2809,5005,20% off,P019,Electronics,5,1837.45,1414.1,423.35,C384,North,Wednesday,Winter
+07/17/2023,2810,5002,10% off,P077,Groceries,6,2510.04,2400,110.04,C841,West,Monday,Winter
+02/04/23,2811,5001,Buy 1 Get 1,P025,Groceries,9,3262.32,3056.85,205.47,C170,North,Monday,Summer
+12/31/2023,2812,5001,Buy 1 Get 1,P008,Electronics,9,1840.05,1052.28,787.77,C224,East,Monday,Winter
+07/26/2023,2813,5000,Free Shipping,P059,Groceries,10,1594,1323.4,270.6,C335,East,Wednesday,Spring
+09/22/2023,2814,5002,10% off,P057,Furniture,7,682.64,72.24,610.4,C782,North,Saturday,Spring
+03/20/2023,2815,5001,Buy 1 Get 1,P085,Furniture,5,2307.4,1991.85,315.55,C148,South,Sunday,Summer
+02/17/2023,2816,5003,30% off,P036,Furniture,4,1574.72,1510.52,64.2,C043,North,Wednesday,Spring
+03/10/23,2817,5003,30% off,P073,Clothing,7,1892.45,1642.06,250.39,C819,South,Thursday,Autumn
+04/18/2023,2818,5002,10% off,P021,Electronics,5,525.4,279.75,245.65,C745,West,Sunday,Spring
+04/23/2023,2819,5005,20% off,P087,Furniture,2,932.26,922.32,9.94,C082,West,Sunday,Autumn
+11/12/23,2820,5003,30% off,P034,Toys,9,1569.33,1375.38,193.95,C562,East,Saturday,Autumn
+09/27/2023,2821,5000,Free Shipping,P067,Groceries,10,2176.3,1266.9,909.4,C797,South,Tuesday,Spring
+08/11/23,2822,5001,Buy 1 Get 1,P043,Toys,5,1432.55,1196.75,235.8,C511,West,Monday,Autumn
+05/12/23,2823,5005,20% off,P072,Clothing,4,1595.88,1530.72,65.16,C902,South,Thursday,Summer
+02/20/2023,2824,5000,Free Shipping,P047,Furniture,7,2046.31,1741.32,304.99,C430,East,Wednesday,Spring
+05/05/23,2825,5000,Free Shipping,P062,Electronics,6,2414.7,1814.94,599.76,C949,North,Thursday,Winter
+08/10/23,2826,5003,30% off,P061,Electronics,6,2564.52,2322.18,242.34,C961,East,Monday,Autumn
+05/01/23,2827,5003,30% off,P051,Toys,4,1733.6,1662,71.6,C416,West,Sunday,Summer
+05/27/2023,2828,5000,Free Shipping,P022,Groceries,3,138.51,74.79,63.72,C613,East,Friday,Winter
+02/12/23,2829,5002,10% off,P011,Electronics,3,685.05,530.4,154.65,C554,West,Thursday,Spring
+12/24/2023,2830,5002,10% off,P001,Furniture,3,1207.68,934.23,273.45,C034,South,Wednesday,Autumn
+12/14/2023,2831,5000,Free Shipping,P012,Electronics,3,931.38,779.49,151.89,C915,East,Wednesday,Spring
+01/20/2023,2832,5002,10% off,P006,Toys,1,39.08,34.62,4.46,C842,South,Sunday,Summer
+07/20/2023,2833,5002,10% off,P035,Toys,5,1622.25,1400.35,221.9,C631,North,Sunday,Autumn
+03/12/23,2834,5003,30% off,P078,Groceries,3,1314.33,1263.6,50.73,C659,North,Thursday,Summer
+12/19/2023,2835,5002,10% off,P051,Groceries,3,203.07,66.72,136.35,C712,West,Sunday,Winter
+07/03/23,2836,5001,Buy 1 Get 1,P038,Furniture,7,925.89,884.52,41.37,C827,South,Sunday,Autumn
+12/08/23,2837,5005,20% off,P031,Furniture,3,1131.3,1095.15,36.15,C721,South,Monday,Spring
+01/31/2023,2838,5002,10% off,P019,Electronics,8,2695.2,2464.64,230.56,C130,South,Saturday,Spring
+05/25/2023,2839,5001,Buy 1 Get 1,P075,Clothing,8,1068.88,760.08,308.8,C446,West,Monday,Autumn
+12/30/2023,2840,5003,30% off,P084,Electronics,6,2655.18,2416.26,238.92,C161,West,Tuesday,Autumn
+02/03/23,2841,5002,10% off,P033,Furniture,3,1173.9,1133.64,40.26,C833,West,Thursday,Winter
+12/30/2023,2842,5003,30% off,P018,Groceries,7,2891.84,2720.62,171.22,C675,East,Sunday,Summer
+01/04/23,2843,5001,Buy 1 Get 1,P054,Electronics,8,3191.44,2735.36,456.08,C897,East,Tuesday,Spring
+03/13/2023,2844,5000,Free Shipping,P078,Furniture,5,2523.1,2326.4,196.7,C930,South,Saturday,Summer
+08/02/23,2845,5002,10% off,P081,Groceries,6,271.92,254.52,17.4,C820,East,Wednesday,Spring
+02/23/2023,2846,5000,Free Shipping,P026,Clothing,3,1404.33,1245.48,158.85,C341,East,Friday,Winter
+09/28/2023,2847,5000,Free Shipping,P079,Clothing,7,2898.56,2729.09,169.47,C789,North,Thursday,Autumn
+10/03/23,2848,5002,10% off,P037,Groceries,1,183.07,179.09,3.98,C418,North,Thursday,Winter
+08/26/2023,2849,5000,Free Shipping,P030,Groceries,10,5482.5,4811.3,671.2,C229,West,Wednesday,Autumn
+11/30/2023,2850,5005,20% off,P086,Toys,5,2472.75,2336.35,136.4,C405,East,Monday,Summer
+01/21/2023,2851,5003,30% off,P031,Furniture,1,377.79,309.62,68.17,C441,North,Monday,Autumn
+10/02/23,2852,5003,30% off,P003,Toys,5,1252.8,828,424.8,C788,North,Thursday,Summer
+10/01/23,2853,5001,Buy 1 Get 1,P100,Electronics,4,2250.84,1896.44,354.4,C948,West,Friday,Autumn
+04/01/23,2854,5005,20% off,P002,Furniture,2,801.22,744.28,56.94,C337,South,Thursday,Spring
+02/20/2023,2855,5001,Buy 1 Get 1,P022,Groceries,5,1221.8,739.95,481.85,C426,South,Thursday,Summer
+03/25/2023,2856,5002,10% off,P098,Groceries,5,434.65,75.2,359.45,C556,North,Monday,Summer
+03/04/23,2857,5005,20% off,P009,Groceries,3,1256.13,1068.18,187.95,C117,West,Wednesday,Spring
+09/14/2023,2858,5003,30% off,P066,Electronics,8,4216.24,3961.2,255.04,C685,East,Sunday,Spring
+07/02/23,2859,5001,Buy 1 Get 1,P023,Furniture,4,741.64,706.36,35.28,C559,East,Saturday,Spring
+11/14/2023,2860,5002,10% off,P021,Clothing,6,1522.86,1361.82,161.04,C165,South,Thursday,Autumn
+01/16/2023,2861,5003,30% off,P097,Furniture,2,523.76,356.52,167.24,C827,West,Tuesday,Summer
+04/08/23,2862,5003,30% off,P100,Toys,2,975.56,936.78,38.78,C1000,South,Sunday,Winter
+10/13/2023,2863,5003,30% off,P042,Groceries,4,1141.84,770.12,371.72,C922,North,Monday,Winter
+04/07/23,2864,5000,Free Shipping,P046,Electronics,6,302.58,241.74,60.84,C665,East,Thursday,Spring
+06/11/23,2865,5002,10% off,P018,Electronics,10,1497,897.7,599.3,C534,North,Friday,Summer
+08/31/2023,2866,5000,Free Shipping,P071,Groceries,2,361.14,167.46,193.68,C640,North,Sunday,Autumn
+05/06/23,2867,5000,Free Shipping,P055,Groceries,1,279.54,228.89,50.65,C880,North,Monday,Autumn
+12/07/23,2868,5001,Buy 1 Get 1,P049,Clothing,5,892.45,654.3,238.15,C349,West,Monday,Autumn
+02/08/23,2869,5001,Buy 1 Get 1,P095,Groceries,7,2867.97,2340.38,527.59,C024,North,Wednesday,Autumn
+04/05/23,2870,5005,20% off,P068,Toys,10,4376.1,3794,582.1,C873,North,Wednesday,Spring
+02/18/2023,2871,5001,Buy 1 Get 1,P041,Electronics,3,1605.18,1359.42,245.76,C591,South,Friday,Spring
+04/29/2023,2872,5001,Buy 1 Get 1,P040,Toys,9,3487.05,3428.55,58.5,C935,North,Sunday,Autumn
+10/10/23,2873,5002,10% off,P052,Electronics,5,177,66.85,110.15,C941,West,Monday,Autumn
+05/18/2023,2874,5005,20% off,P009,Electronics,10,3768.4,3351.3,417.1,C005,North,Thursday,Spring
+08/29/2023,2875,5003,30% off,P070,Electronics,5,1478.75,1035.9,442.85,C163,South,Monday,Autumn
+03/28/2023,2876,5000,Free Shipping,P090,Electronics,1,539.84,448.83,91.01,C482,South,Saturday,Summer
+03/28/2023,2877,5005,20% off,P053,Electronics,9,2098.89,1474.2,624.69,C897,East,Friday,Summer
+09/10/23,2878,5005,20% off,P008,Furniture,4,651.88,572.4,79.48,C628,West,Tuesday,Autumn
+06/26/2023,2879,5003,30% off,P076,Furniture,10,1353.4,1004.7,348.7,C295,East,Tuesday,Spring
+12/28/2023,2880,5001,Buy 1 Get 1,P083,Toys,8,2431.52,1765.44,666.08,C002,North,Thursday,Summer
+05/10/23,2881,5000,Free Shipping,P024,Toys,2,285.02,137.5,147.52,C991,South,Tuesday,Spring
+04/29/2023,2882,5002,10% off,P094,Electronics,7,2099.44,1892.87,206.57,C137,South,Wednesday,Spring
+10/22/2023,2883,5005,20% off,P092,Electronics,1,282.17,251.48,30.69,C424,North,Wednesday,Summer
+08/17/2023,2884,5005,20% off,P093,Electronics,6,2076.18,1812.48,263.7,C333,West,Thursday,Autumn
+08/16/2023,2885,5005,20% off,P027,Furniture,6,618.6,543.36,75.24,C193,South,Thursday,Winter
+05/21/2023,2886,5002,10% off,P033,Electronics,7,2577.54,1945.16,632.38,C475,South,Monday,Spring
+08/23/2023,2887,5001,Buy 1 Get 1,P027,Furniture,2,504.22,357.08,147.14,C903,East,Tuesday,Autumn
+05/24/2023,2888,5003,30% off,P099,Electronics,8,3407.68,2661.92,745.76,C805,North,Friday,Winter
+06/28/2023,2889,5005,20% off,P058,Clothing,5,2346.85,2061.4,285.45,C860,West,Thursday,Autumn
+03/24/2023,2890,5005,20% off,P057,Clothing,1,421.88,331.94,89.94,C800,South,Saturday,Winter
+07/16/2023,2891,5000,Free Shipping,P066,Clothing,2,478.22,411.52,66.7,C275,East,Friday,Autumn
+12/20/2023,2892,5001,Buy 1 Get 1,P085,Toys,5,490.65,76.5,414.15,C765,West,Monday,Spring
+10/18/2023,2893,5005,20% off,P037,Groceries,4,1655.28,1609.92,45.36,C776,South,Saturday,Winter
+09/28/2023,2894,5005,20% off,P003,Groceries,9,3056.31,2633.94,422.37,C430,East,Monday,Winter
+04/10/23,2895,5002,10% off,P094,Groceries,7,1163.75,477.19,686.56,C258,East,Friday,Summer
+11/18/2023,2896,5000,Free Shipping,P073,Toys,6,737.16,691.2,45.96,C099,West,Thursday,Summer
+05/06/23,2897,5002,10% off,P044,Groceries,8,3005.04,2411.84,593.2,C778,South,Friday,Autumn
+09/10/23,2898,5003,30% off,P072,Electronics,2,184.22,51.8,132.42,C106,South,Tuesday,Winter
+01/23/2023,2899,5003,30% off,P053,Toys,2,564.08,541.64,22.44,C106,West,Saturday,Summer
+04/24/2023,2900,5005,20% off,P048,Electronics,1,151.77,94.54,57.23,C263,North,Friday,Winter
+03/03/23,2901,5000,Free Shipping,P058,Clothing,2,498.22,310.44,187.78,C349,South,Friday,Spring
+02/17/2023,2902,5000,Free Shipping,P069,Clothing,1,509.55,411.18,98.37,C488,East,Friday,Summer
+12/03/23,2903,5003,30% off,P028,Furniture,6,1405.44,823.44,582,C103,North,Friday,Summer
+10/22/2023,2904,5002,10% off,P055,Groceries,6,1540.2,1327.8,212.4,C772,West,Friday,Summer
+01/14/2023,2905,5000,Free Shipping,P003,Groceries,4,163.56,138.68,24.88,C177,South,Tuesday,Spring
+04/02/23,2906,5005,20% off,P026,Clothing,5,1977.1,1745.45,231.65,C472,North,Saturday,Winter
+04/26/2023,2907,5005,20% off,P005,Electronics,4,731.12,484,247.12,C376,East,Sunday,Winter
+03/20/2023,2908,5005,20% off,P061,Furniture,1,192.09,133.9,58.19,C176,East,Monday,Summer
+12/17/2023,2909,5002,10% off,P011,Clothing,4,1074.16,744.04,330.12,C075,South,Thursday,Spring
+08/11/23,2910,5005,20% off,P035,Toys,9,4143.6,3709.26,434.34,C906,East,Thursday,Summer
+11/01/23,2911,5000,Free Shipping,P028,Furniture,7,1531.53,1273.3,258.23,C177,West,Wednesday,Autumn
+05/14/2023,2912,5005,20% off,P094,Electronics,4,1753.16,1619.2,133.96,C416,East,Thursday,Winter
+02/16/2023,2913,5002,10% off,P089,Clothing,1,121.82,112.44,9.38,C236,North,Friday,Winter
+07/22/2023,2914,5005,20% off,P007,Toys,3,862.23,716.04,146.19,C552,South,Sunday,Summer
+05/04/23,2915,5000,Free Shipping,P078,Toys,2,889.9,844.1,45.8,C248,North,Wednesday,Spring
+05/13/2023,2916,5001,Buy 1 Get 1,P071,Clothing,3,833.16,590.07,243.09,C046,West,Thursday,Summer
+03/13/2023,2917,5002,10% off,P067,Clothing,10,4526.6,4135.8,390.8,C453,North,Thursday,Spring
+06/14/2023,2918,5005,20% off,P088,Groceries,6,1596,1409.82,186.18,C031,North,Sunday,Spring
+01/14/2023,2919,5002,10% off,P011,Groceries,3,1439.1,1400.85,38.25,C776,North,Monday,Summer
+09/04/23,2920,5003,30% off,P069,Groceries,1,536.24,467.54,68.7,C807,North,Saturday,Summer
+06/30/2023,2921,5003,30% off,P087,Electronics,9,2472.3,2434.23,38.07,C662,East,Sunday,Autumn
+05/14/2023,2922,5002,10% off,P070,Clothing,10,2844.1,2430.4,413.7,C685,West,Wednesday,Winter
+09/25/2023,2923,5005,20% off,P023,Groceries,9,1394.82,801,593.82,C637,North,Wednesday,Winter
+08/29/2023,2924,5000,Free Shipping,P056,Furniture,1,542.52,485.86,56.66,C046,North,Monday,Autumn
+05/06/23,2925,5001,Buy 1 Get 1,P082,Groceries,2,736.02,720.46,15.56,C371,East,Friday,Summer
+07/27/2023,2926,5000,Free Shipping,P016,Clothing,7,1590.26,1502.62,87.64,C153,East,Friday,Summer
+06/14/2023,2927,5002,10% off,P047,Groceries,3,1212.54,930.81,281.73,C804,West,Saturday,Spring
+10/10/23,2928,5003,30% off,P007,Furniture,4,1371.48,1337.08,34.4,C247,West,Friday,Winter
+11/13/2023,2929,5002,10% off,P099,Toys,9,2153.79,1654.11,499.68,C190,South,Monday,Spring
+05/18/2023,2930,5002,10% off,P051,Groceries,9,2619.9,1868.13,751.77,C128,North,Wednesday,Autumn
+11/26/2023,2931,5000,Free Shipping,P061,Furniture,4,1883.04,1636.76,246.28,C529,South,Thursday,Summer
+09/28/2023,2932,5003,30% off,P035,Clothing,3,657.81,578.97,78.84,C690,North,Tuesday,Winter
+11/13/2023,2933,5005,20% off,P067,Toys,5,490.05,309.4,180.65,C418,East,Tuesday,Spring
+05/05/23,2934,5005,20% off,P048,Toys,7,1962.52,1487.15,475.37,C220,North,Wednesday,Autumn
+02/12/23,2935,5002,10% off,P050,Groceries,7,2383.08,2327.5,55.58,C161,East,Sunday,Autumn
+05/29/2023,2936,5005,20% off,P052,Clothing,6,1336.08,1222.08,114,C349,South,Wednesday,Summer
+01/12/23,2937,5003,30% off,P049,Groceries,7,1188.18,607.88,580.3,C812,East,Sunday,Autumn
+09/20/2023,2938,5000,Free Shipping,P065,Electronics,4,292.16,122.16,170,C749,North,Wednesday,Summer
+10/12/23,2939,5000,Free Shipping,P023,Groceries,6,1082.82,554.52,528.3,C743,South,Thursday,Spring
+12/11/23,2940,5002,10% off,P038,Electronics,5,1534.3,1414.75,119.55,C245,South,Tuesday,Summer
+07/01/23,2941,5000,Free Shipping,P033,Toys,6,1977.66,1537.14,440.52,C905,North,Thursday,Summer
+03/14/2023,2942,5002,10% off,P013,Toys,8,4018.4,3835.84,182.56,C539,West,Saturday,Spring
+10/06/23,2943,5000,Free Shipping,P026,Clothing,10,5377.3,4442.3,935,C094,South,Thursday,Summer
+03/10/23,2944,5001,Buy 1 Get 1,P029,Electronics,7,3660.72,3213.35,447.37,C876,North,Saturday,Spring
+02/12/23,2945,5000,Free Shipping,P064,Groceries,7,2516.71,2230.27,286.44,C098,West,Friday,Winter
+10/10/23,2946,5002,10% off,P002,Clothing,4,1729.08,1514.68,214.4,C841,North,Sunday,Spring
+10/28/2023,2947,5001,Buy 1 Get 1,P100,Furniture,2,770.72,683.88,86.84,C563,South,Sunday,Spring
+05/06/23,2948,5001,Buy 1 Get 1,P061,Furniture,5,2255.25,1842.15,413.1,C747,East,Sunday,Spring
+08/01/23,2949,5000,Free Shipping,P088,Clothing,7,1156.47,572.25,584.22,C377,East,Tuesday,Spring
+02/09/23,2950,5000,Free Shipping,P010,Electronics,9,3234.33,2472.75,761.58,C655,East,Monday,Autumn
+04/26/2023,2951,5003,30% off,P068,Furniture,6,1559.22,1328.04,231.18,C859,North,Friday,Summer
+07/28/2023,2952,5005,20% off,P093,Clothing,4,1937,1833.52,103.48,C622,South,Monday,Summer
+08/20/2023,2953,5001,Buy 1 Get 1,P044,Furniture,2,945.16,847.32,97.84,C095,East,Monday,Autumn
+03/08/23,2954,5000,Free Shipping,P053,Electronics,6,1760.7,1571.46,189.24,C646,North,Sunday,Autumn
+05/02/23,2955,5003,30% off,P055,Furniture,1,323.99,290.79,33.2,C532,North,Monday,Summer
+08/07/23,2956,5002,10% off,P025,Electronics,9,514.53,263.16,251.37,C907,South,Wednesday,Winter
+07/23/2023,2957,5002,10% off,P098,Electronics,7,776.93,91.91,685.02,C158,West,Monday,Autumn
+04/19/2023,2958,5005,20% off,P099,Clothing,5,2616.7,2416.1,200.6,C920,East,Wednesday,Spring
+08/09/23,2959,5000,Free Shipping,P024,Furniture,10,4021.3,3669,352.3,C112,West,Saturday,Winter
+08/06/23,2960,5005,20% off,P080,Clothing,9,3776.22,3049.56,726.66,C852,East,Wednesday,Spring
+03/01/23,2961,5001,Buy 1 Get 1,P071,Electronics,9,4630.77,4265.19,365.58,C459,South,Wednesday,Autumn
+05/02/23,2962,5000,Free Shipping,P095,Toys,3,1263.45,1181.46,81.99,C418,North,Tuesday,Summer
+11/27/2023,2963,5000,Free Shipping,P093,Electronics,1,498.81,495.26,3.55,C105,East,Thursday,Spring
+11/07/23,2964,5000,Free Shipping,P048,Toys,10,3720.2,3057.3,662.9,C725,North,Sunday,Autumn
+05/27/2023,2965,5005,20% off,P003,Furniture,5,1800.3,1735.7,64.6,C597,South,Thursday,Winter
+11/16/2023,2966,5003,30% off,P100,Groceries,9,4399.38,4228.92,170.46,C658,West,Monday,Autumn
+03/16/2023,2967,5001,Buy 1 Get 1,P075,Furniture,10,3381.9,3151.5,230.4,C255,South,Wednesday,Spring
+05/31/2023,2968,5000,Free Shipping,P040,Toys,10,2156.4,1605.4,551,C812,South,Tuesday,Summer
+02/25/2023,2969,5005,20% off,P038,Clothing,7,1618.96,1500.94,118.02,C414,North,Thursday,Spring
+10/13/2023,2970,5005,20% off,P051,Electronics,8,1089.28,750.08,339.2,C783,West,Monday,Winter
+03/31/2023,2971,5001,Buy 1 Get 1,P072,Clothing,9,4238.73,3429.63,809.1,C622,South,Wednesday,Autumn
+11/29/2023,2972,5000,Free Shipping,P018,Toys,1,91.14,51.22,39.92,C857,East,Sunday,Spring
+06/26/2023,2973,5002,10% off,P019,Toys,10,617.6,591.2,26.4,C445,East,Monday,Summer
+07/27/2023,2974,5001,Buy 1 Get 1,P070,Clothing,7,2764.16,2339.68,424.48,C677,East,Monday,Winter
+10/21/2023,2975,5001,Buy 1 Get 1,P053,Electronics,4,456.12,359.52,96.6,C016,West,Sunday,Winter
+02/20/2023,2976,5005,20% off,P068,Groceries,10,1052.8,216.2,836.6,C345,North,Wednesday,Summer
+05/17/2023,2977,5000,Free Shipping,P020,Clothing,10,5020.1,4876,144.1,C816,East,Sunday,Autumn
+11/17/2023,2978,5002,10% off,P022,Furniture,4,841.56,493.68,347.88,C002,North,Saturday,Winter
+11/04/23,2979,5003,30% off,P009,Electronics,2,1013.02,927.94,85.08,C854,West,Friday,Summer
+02/08/23,2980,5005,20% off,P079,Groceries,1,39.71,34.81,4.9,C050,North,Thursday,Spring
+11/10/23,2981,5002,10% off,P038,Toys,2,662.28,582.48,79.8,C879,East,Monday,Winter
+07/28/2023,2982,5000,Free Shipping,P026,Toys,8,662.24,192.32,469.92,C658,West,Saturday,Summer
+01/26/2023,2983,5005,20% off,P082,Groceries,5,472.45,77.7,394.75,C018,West,Thursday,Winter
+11/03/23,2984,5003,30% off,P021,Electronics,8,1321.12,1281.2,39.92,C907,South,Saturday,Winter
+07/30/2023,2985,5000,Free Shipping,P018,Groceries,1,338.66,298.29,40.37,C569,North,Saturday,Winter
+11/17/2023,2986,5003,30% off,P007,Clothing,10,5420.4,4871.6,548.8,C717,North,Sunday,Autumn
+01/12/23,2987,5000,Free Shipping,P087,Toys,5,1080.5,724.35,356.15,C069,South,Tuesday,Summer
+08/21/2023,2988,5002,10% off,P017,Groceries,6,1401.3,858.18,543.12,C733,South,Tuesday,Autumn
+07/25/2023,2989,5003,30% off,P070,Electronics,8,1992.4,1548.88,443.52,C011,South,Sunday,Summer
+12/14/2023,2990,5002,10% off,P078,Clothing,1,77.97,34.78,43.19,C389,North,Tuesday,Winter
+05/02/23,2991,5001,Buy 1 Get 1,P017,Furniture,8,3988.96,3342.88,646.08,C560,East,Thursday,Spring
+04/08/23,2992,5003,30% off,P010,Toys,5,716.5,599.6,116.9,C315,East,Friday,Spring
+03/28/2023,2993,5001,Buy 1 Get 1,P007,Clothing,7,3525.13,2873.36,651.77,C302,North,Sunday,Spring
+08/09/23,2994,5001,Buy 1 Get 1,P007,Clothing,8,818.32,453.84,364.48,C210,East,Sunday,Spring
+07/23/2023,2995,5000,Free Shipping,P014,Clothing,8,2100.4,1402.8,697.6,C759,West,Saturday,Summer
+04/06/23,2996,5002,10% off,P021,Electronics,8,582.64,407.44,175.2,C916,South,Monday,Summer
+05/14/2023,2997,5003,30% off,P022,Toys,9,3463.11,3408.39,54.72,C349,West,Sunday,Winter
+04/30/2023,2998,5005,20% off,P070,Clothing,2,592.22,502.68,89.54,C869,South,Friday,Autumn
+07/29/2023,2999,5001,Buy 1 Get 1,P030,Toys,8,1711.36,1390.88,320.48,C983,North,Thursday,Winter
+07/26/2023,3000,5003,30% off,P062,Electronics,7,2006.55,1887.69,118.86,C882,West,Tuesday,Winter
